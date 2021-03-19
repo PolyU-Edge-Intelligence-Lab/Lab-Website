@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Hugo Academic Starter
+title: Edge Learning
 hero_media: hero-academic.png
 cta:
   label: '**Get Started**'
@@ -22,6 +22,6 @@ advanced:
   css_class: fullscreen
 ---
 
-**The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**
+**The concept of Edge Learning, uses edge devices to perform artificial intelligence model training and inference, integrates edge computing, artificial intelligence, and big data.**
 
 **Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
