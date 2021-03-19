@@ -22,6 +22,6 @@ advanced:
   css_class: fullscreen
 ---
 
-**The concept of Edge Learning, uses edge devices to perform artificial intelligence model training and inference, integrates edge computing, artificial intelligence, and big data.**
+**The concept of Edge Learning, integrates Edge Computing, Artificial Intelligence and Big Data, uses edge devices to perform model training and inference.**
 
 **Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
