@@ -1,7 +1,7 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+title: ✨ Demonstration 2
+linkTitle: Demo 2
+summary: This place is left for demonstration 2.
 date: '2021-01-24'
 type: book
 ---
