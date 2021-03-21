@@ -24,7 +24,7 @@ advanced:
 
 **The concept of Edge Learning, integrates Edge Computing, Artificial Intelligence and Big Data, uses edge devices to perform model training and inference.**
 
-**Enabling Pervasive Intelligence** - from manufacturing, transportation and multimedia service to healthcare.
+**Enabling Pervasive Intelligence** - from home, grid, manufacturing, transportation and multimedia service to healthcare.
 
 
 
