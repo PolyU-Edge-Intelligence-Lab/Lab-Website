@@ -1,6 +1,6 @@
 ---
 title: City Emergency Management 
-summary: Smart city real-time emergency management based on edge intelligence.
+summary: Smart City Real-time Emergency Management based on Edge Intelligence.
 tags:
 - Smart City
 date: "2016-08-27"
@@ -9,7 +9,7 @@ date: "2016-08-27"
 external_link: ""
 
 image:
-  caption: Smart City Emergency Management Framework
+  caption: Smart city emergency management framework
   focal_point: Smart
 
 # links:
