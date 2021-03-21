@@ -14,7 +14,7 @@ main:
     url: '/people'
     weight: 30 
   - name: Publications
-    url: '/publications'
+    url: '/publication'
     weight: 40
   - name: Demos
     url: '/news'
