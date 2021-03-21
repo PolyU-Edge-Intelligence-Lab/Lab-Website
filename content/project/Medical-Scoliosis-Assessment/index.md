@@ -29,4 +29,6 @@ At the same time, facing the severe shortage of physiotherapists and the impact 
 
 In order to solve the problems of delay and privacy leakage caused by cloud computing, the research team introduced edge learning technology, quantified and compressed the algorithm model, and realized inference calculation on the mobile terminal (including the mobile terminal). It is used to help realize remote online assessment of posture (bad posture of the spine) and real-time sports rehabilitation tracking.
 
+![png](./picture.png)
+
 At present, it has cooperated with West China Hospital, Hong Kong Rehabilitation Association, Hong Kong Lutheran Society and other institutions. 
