@@ -1,42 +1,26 @@
 ---
-title: Embedded Edge Training Project
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+title: Internal Project
+summary: An example of using the in-built project page.
 tags:
-- Deep Learning
-date: '2021-01-24'
-type: book
+- Smart Edge
+date: "2016-01-01"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: Embedded training hardware platform
+  focal_point: Smart
+
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 ---
 
-{{< figure src="featured.jpg" >}}
-
-{{< toc hide_on="xl" >}}
-
-## What you will learn
-
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
-
-## Program overview
-
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
-
-## Courses in this program
-
-{{< list_children >}}
-
-## Meet your instructor
-
-{{< mention "admin" >}}
-
-## FAQs
-
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
-{{< /spoiler >}}
-
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
-{{< /spoiler >}}
-
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+After nearly ten years of rapid development, machine learning technology has changed from a computationally intensive model that relies on cloud big data and massive computing resources to a more user-friendly operation form, emphasizing the application requirements of "efficient, green, safe, and personalized" , Which evolved from Cloud AI to Mobile AI. At the same time, thanks to the improvement of chip manufacturing process and computing power, it will be possible to deploy AI applications on Microcontroller Units, which will greatly promote the implementation of Edge Intelligence and Green IoT. Therefore, industry and academia will usher in the era of Tiny AI. Among them, On-device Learning is the cutting-edge core technology that supports Tiny AI. The team is committed to the research of high-performance AI technology on microprocessors and edge mobile devices, focusing on the four-level collaborative design of "data, algorithm, hardware, and system" to create a new generation of AI systems for edge intelligence. 
