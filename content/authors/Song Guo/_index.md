@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Professor & Associate Head & IEEE Fellow"
+role: "Professor & Associate Head"
 
 # Organizations/Affiliations
 organizations:
