@@ -1,6 +1,6 @@
 ---
 title: Embedded Edge Training
-summary: Research on the Theory and Method of Collaborative Learning for Intelligent Edge
+summary: Research on the Theory and Method of Collaborative Learning for Intelligent Edge.
 tags:
 - Smart Edge
 date: "2016-01-01"
