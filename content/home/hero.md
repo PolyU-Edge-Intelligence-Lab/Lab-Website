@@ -24,4 +24,7 @@ advanced:
 
 **The concept of Edge Learning, integrates Edge Computing, Artificial Intelligence and Big Data, uses edge devices to perform model training and inference.**
 
-**Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
+**Enabling Pervasive Intelligence** - from manufacturing, transportation and multimedia service to healthcare.
+
+
+
