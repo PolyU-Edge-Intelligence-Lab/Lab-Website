@@ -22,16 +22,16 @@ twitter: ''
 
 # email: test@example.org
 # phone: 888 888 88 88
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
+address:
+  street: Mong Man Wai Building, Department of Computing, The Hong Kong Polytechnic University
+  city: Hung Hom, Kowloon, Hong Kong SAR
 #   region: CA
 #   postcode: '94305'
 #   country: United States
 #   country_code: US
-# coordinates:
-#   latitude: '37.4275'
-#   longitude: '-122.1697'
+coordinates:
+  latitude: '22.304194857359292'
+  longitude: '114.18058002713065'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
@@ -93,10 +93,10 @@ edit_page:
 show_related:
   book: true
   page: false
-  post: true
+  post: false
   project: true
   publication: true
-  event: true
+  event: false
 reading_time: true
 section_pager: false
 docs_section_pager: true
@@ -104,14 +104,14 @@ sharing: true
 copyright_license:
   enable: false
   allow_derivatives: false
-  share_alike: true
+  share_alike: false
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: false
-  shape: circle
+  shape: rectangle 
 publications:
   date_format: January 2006
   citation_style: apa
@@ -125,14 +125,14 @@ breadcrumb:
 comments:
   provider: ''
   commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
+    post: false
+    book: false
+    project: false
+    publication: false
+    event: false
   disqus:
     shortname: ''
-    show_count: true
+    show_count: false
   commento:
     url: ''
 search:
