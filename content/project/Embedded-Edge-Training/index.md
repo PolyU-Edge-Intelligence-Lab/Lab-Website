@@ -1,6 +1,8 @@
 ---
 title: Embedded Edge Training Project
 summary: An example of using Wowchemy's Book layout for publishing online courses.
+tags:
+- Deep Learning
 date: '2021-01-24'
 type: book
 ---
