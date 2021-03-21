@@ -20,5 +20,5 @@ content:
   page_type: news
 design:
   view: 3
-  columns: "1"
+  columns: "2"
 ---
