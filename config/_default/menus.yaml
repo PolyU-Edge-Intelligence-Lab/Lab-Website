@@ -7,27 +7,24 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Demo
-    url: '#about'
-    weight: 20
   - name: Posts
     url: '#posts'
-    weight: 30
+    weight: 20
   - name: Projects
     url: '#projects'
-    weight: 40
+    weight: 30
   - name: Talks
     url: '#talks'
-    weight: 50
+    weight: 40
   - name: Publications
     url: '#featured'
-    weight: 60
+    weight: 50
   - name: Courses
     url: courses/
-    weight: 70
+    weight: 60
   - name: News
     url: 'news/'
-    weight: 80
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 90
+    weight: 80
