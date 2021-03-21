@@ -17,8 +17,8 @@ main:
     url: '/publication'
     weight: 40
   - name: Demos
-    url: '/news'
+    url: '/post'
     weight: 50
   - name: News
-    url: '/news'
+    url: '/post'
     weight: 60
