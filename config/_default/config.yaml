@@ -5,7 +5,7 @@
 
 title: 'PolyU Edge Intelligence Lab' # Website name
 baseurl: '' # Website URL
-copyright: 'Copyright &copy; The Hong Kong Polytechnic University' # Footer text, e.g. '© {year} Me'
+copyright: 'Copyright &copy; The Hong Kong Polytechnic University Reserved. {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
