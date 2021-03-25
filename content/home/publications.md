@@ -35,4 +35,5 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 4
+  columns: "1"
 ---

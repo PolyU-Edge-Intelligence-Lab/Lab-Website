@@ -17,5 +17,5 @@ content:
   autolink: true
   
 design:
-  columns: '2'
+  columns: '1'
 ---
