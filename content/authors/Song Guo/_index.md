@@ -41,7 +41,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: resume/cv-song-guo/cv.pdf
+  link: resume/cv-song-guo/cv-short.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -53,6 +53,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Director
+
 ---
 
 [Song Guo](https://www4.comp.polyu.edu.hk/~cssongguo/) is a Full Professor and Associate Head (Research & Development) in the Department of Computing at The Hong Kong Polytechnic University. He also holds a Changjiang Chair Professorship awarded by the Ministry of Education of China. Prof. Guo is an IEEE Fellow (Computer Society) and an ACM Distinguished Member.
@@ -76,4 +77,6 @@ I am looking for strongly motivated PhD students, Research Assistant and Postdoc
 * 深圳市科技創新委員會基礎研究重點項目, 雲邊端協同學習架構與關鍵優化理論研究, 2021-2023, PI, 2,500,000 CNY.
 * SkyChain: A Deep Reinforcement Learning-Empowered Dynamic Blockchain Sharding System, Best Paper Award Runner Up received in ICPP 2020.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "resume/cv-song-guo/cv.pdf" "newtab" >}}full resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "resume/cv-song-guo/cv-full.pdf" "newtab" >}}full resumé{{< /staticref >}}.
+
+---
