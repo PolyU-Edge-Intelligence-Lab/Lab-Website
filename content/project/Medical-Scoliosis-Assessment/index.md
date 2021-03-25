@@ -2,7 +2,7 @@
 title: Medical Scoliosis Assessment
 summary: Smart Medical Scoliosis Assessment based on Edge Intelligence.
 tags:
-- Smart Health
+- Smart Healthcare
 date: "2016-04-27"
 
 # Optional external URL for project (replaces project detail page).
