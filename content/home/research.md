@@ -31,8 +31,8 @@ content:
     tag: Smart Edge
   - name: Smart City
     tag: Smart City
-  - name: Smart Health
-    tag: Smart Health
+  - name: Smart Healthcare
+    tag: Smart Healthcare
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
