@@ -31,13 +31,13 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
-    year: 2012
+    year: 2012-2016
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    year: 2009
+    year: 2009-2012
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2008-2012
 
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
