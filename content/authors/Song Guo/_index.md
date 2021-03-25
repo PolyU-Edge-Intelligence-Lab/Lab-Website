@@ -41,7 +41,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: resume/cv-guosong-short.pdf
+  link: resume/cv-song-guo/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,4 +76,4 @@ I am looking for strongly motivated PhD students, Research Assistant and Postdoc
 * 深圳市科技創新委員會基礎研究重點項目, 雲邊端協同學習架構與關鍵優化理論研究, 2021-2023, PI, 2,500,000 CNY.
 * SkyChain: A Deep Reinforcement Learning-Empowered Dynamic Blockchain Sharding System, Best Paper Award Runner Up received in ICPP 2020.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "resume/cv-guosong-full.pdf" "newtab" >}}full resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "resume/cv-song-guo/cv.pdf" "newtab" >}}full resumé{{< /staticref >}}.
