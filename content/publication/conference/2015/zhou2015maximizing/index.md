@@ -5,7 +5,7 @@ authors:
 - Zhenzhong Chen
 - Song Guo
 - Jie Li
-date: "2015-12-6"
+date: "2015-12-06"
 doi: "10.1109/GLOCOM.2015.7417120"
 
 
