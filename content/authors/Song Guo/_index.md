@@ -1,29 +1,17 @@
 ---
-# Display name
 title: Song Guo
 
-# Username (this should match the folder name)
 authors:
 - Song Guo
 
-# Is this the primary user of the site?
 superuser: false
 
-# Role/position
 role: "Professor & Associate Head"
 
-# Organizations/Affiliations
 organizations:
 - name: The Hong Kong Polytechnic University
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-# bio: ""
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -34,27 +22,16 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-9831-2202
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/wangjunxiao
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: resume/cv-song-guo/cv-short.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
 highlight_name: false
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Director
-
----
 
 [Song Guo](https://www4.comp.polyu.edu.hk/~cssongguo/) is a Full Professor and Associate Head (Research & Development) in the Department of Computing at The Hong Kong Polytechnic University. He also holds a Changjiang Chair Professorship awarded by the Ministry of Education of China. Prof. Guo is an IEEE Fellow (Computer Society) and an ACM Distinguished Member.
 
@@ -78,5 +55,4 @@ I am looking for strongly motivated PhD students, Research Assistant and Postdoc
 * SkyChain: A Deep Reinforcement Learning-Empowered Dynamic Blockchain Sharding System, Best Paper Award Runner Up received in ICPP 2020.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "resume/cv-song-guo/cv-full.pdf" "newtab" >}}full resumé{{< /staticref >}}.
-
 ---
