@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*IEEE Transactions on Parallel and Distributed Systems*"
 publication_short: "IEEE T PARALL DISTR"
 
-url_pdf:https://ieeexplore.ieee.org/iel7/71/4359390/07091954.pdf
+url_pdf: https://ieeexplore.ieee.org/iel7/71/4359390/07091954.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
