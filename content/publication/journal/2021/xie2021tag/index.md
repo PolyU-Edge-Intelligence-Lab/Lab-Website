@@ -1,16 +1,15 @@
 ---
-title: "Intelligent {VNF} Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning"
+title: "A Tag-correlation-based Approach to Fast Identification of Group Tags"
 authors:
-- Lin Gu
-- Deze Zeng
-- Wei Li
+- Xin Xie
+- Xin Xie
+- Xiulong Liu
+- Heng Qi
 - Song Guo
-- Albert Y. Zomaya
-- Hai Jin
+- Keqiu Li
 
-
-date: "2020-01-01"
-doi: "10.1109/JSAC.2019.2959182"
+date: "2021-01-18"
+doi: "10.1109/TMC.2021.3052572"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -19,10 +18,10 @@ doi: "10.1109/JSAC.2019.2959182"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: "JSAC"
+publication: "*IEEE Transactions on Mobile Computing*"
+publication_short: "TMC"
 
-url_pdf: https://ieeexplore.ieee.org/document/8931775
+url_pdf: https://ieeexplore.ieee.org/document/9328282
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

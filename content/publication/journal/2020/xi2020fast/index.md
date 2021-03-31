@@ -1,16 +1,14 @@
 ---
-title: "Intelligent {VNF} Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning"
+title: "Fast and Reliable Dynamic Tag Estimation in Large-Scale RFID Systems"
 authors:
-- Lin Gu
-- Deze Zeng
-- Wei Li
+- Xuan Liu
+- Zhong Xi
+- Juan Luo
+- Shigeng Zhang
 - Song Guo
-- Albert Y. Zomaya
-- Hai Jin
 
-
-date: "2020-01-01"
-doi: "10.1109/JSAC.2019.2959182"
+date: "2020-09-01"
+doi: "10.1109/JIOT.2020.3015943"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -19,10 +17,10 @@ doi: "10.1109/JSAC.2019.2959182"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: "JSAC"
+publication: "*IEEE Internet of Things Journal*"
+publication_short: "JIOT"
 
-url_pdf: https://ieeexplore.ieee.org/document/8931775
+url_pdf: https://ieeexplore.ieee.org/document/9165802
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

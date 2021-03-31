@@ -1,16 +1,13 @@
 ---
-title: "Intelligent {VNF} Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning"
+title: "Imitation Learning Enabled Task Scheduling for Online Vehicular Edge Computing"
 authors:
-- Lin Gu
-- Deze Zeng
-- Wei Li
+- Xiaojie Wang
+- Zhaolong Ning
 - Song Guo
-- Albert Y. Zomaya
-- Hai Jin
+- Lei Wang
 
-
-date: "2020-01-01"
-doi: "10.1109/JSAC.2019.2959182"
+date: "2020-07-28"
+doi: "10.1109/TMC.2020.3012509"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -19,10 +16,10 @@ doi: "10.1109/JSAC.2019.2959182"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: "JSAC"
+publication: "*IEEE Transactions on Mobile Computing*"
+publication_short: "TMC"
 
-url_pdf: https://ieeexplore.ieee.org/document/8931775
+url_pdf: https://ieeexplore.ieee.org/document/9151371
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

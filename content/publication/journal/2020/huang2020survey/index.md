@@ -1,16 +1,14 @@
 ---
-title: "Intelligent {VNF} Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning"
+title: "A Survey of State-of-the-Art on Blockchains: Theories, Modelings, and Tools"
 authors:
-- Lin Gu
-- Deze Zeng
-- Wei Li
+- Huawei Huang
+- Wei Kong
+- Sicong Zhou
+- Zibin Zheng
 - Song Guo
-- Albert Y. Zomaya
-- Hai Jin
 
-
-date: "2020-01-01"
-doi: "10.1109/JSAC.2019.2959182"
+date: "2020-07-20"
+doi: "https://doi.org/10.1145/3441692"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -19,10 +17,10 @@ doi: "10.1109/JSAC.2019.2959182"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: "JSAC"
+publication: "*ACM Computing Surveys*"
+publication_short: ""
 
-url_pdf: https://ieeexplore.ieee.org/document/8931775
+url_pdf: https://arxiv.org/abs/2007.03520
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

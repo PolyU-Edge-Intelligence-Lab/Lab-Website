@@ -1,16 +1,13 @@
 ---
-title: "Intelligent {VNF} Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning"
+title: "SDN-NFV Aided Edge-Cloud Interplay for 5G-Envisioned Energy Internet Ecosystem"
 authors:
-- Lin Gu
-- Deze Zeng
-- Wei Li
+- Sahil Garg
+- Kuljeet Kaur
+- Georges Kaddoum
 - Song Guo
-- Albert Y. Zomaya
-- Hai Jin
 
-
-date: "2020-01-01"
-doi: "10.1109/JSAC.2019.2959182"
+date: "2021-02-16"
+doi: "10.1109/MNET.011.1900602"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -19,10 +16,10 @@ doi: "10.1109/JSAC.2019.2959182"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: "JSAC"
+publication: "*IEEE Network*"
+publication_short: "MNET"
 
-url_pdf: https://ieeexplore.ieee.org/document/8931775
+url_pdf: https://ieeexplore.ieee.org/document/9355050
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

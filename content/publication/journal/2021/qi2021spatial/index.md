@@ -1,16 +1,15 @@
 ---
-title: "Intelligent {VNF} Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning"
+title: "Spatial-Temporal Learning Based Artificial Intelligence for IT Operations in Edge Network"
 authors:
-- Lin Gu
-- Deze Zeng
-- Wei Li
+- Qi Qi
+- Runye Shen
+- Jingyu Wang
+- Haifeng Sun
 - Song Guo
-- Albert Y. Zomaya
-- Hai Jin
+- Jianxin Liao
 
-
-date: "2020-01-01"
-doi: "10.1109/JSAC.2019.2959182"
+date: "2021-02-16"
+doi: "10.1109/MNET.011.2000278"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -19,10 +18,10 @@ doi: "10.1109/JSAC.2019.2959182"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: "JSAC"
+publication: "*IEEE Network*"
+publication_short: "MNET"
 
-url_pdf: https://ieeexplore.ieee.org/document/8931775
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9355045
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
