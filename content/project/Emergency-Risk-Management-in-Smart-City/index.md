@@ -30,3 +30,5 @@ With the development of AI-empowered video processing techniques, the ubiquitous
 {{< figure src="picture1.jpg" caption="Resource-constraint Mobile Devices" >}}
 
 {{< figure src="pic.svg" caption="Resource-constraint Mobile Devices" >}}
+
+{{< figure src="pic.svg" caption="Resource-constraint Mobile Devices" >}}
