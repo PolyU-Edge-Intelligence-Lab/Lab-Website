@@ -32,6 +32,7 @@ highlight_name: false
 
 user_groups:
 - Director
+---
 
 [Song Guo](https://www4.comp.polyu.edu.hk/~cssongguo/) is a Full Professor and Associate Head (Research & Development) in the Department of Computing at The Hong Kong Polytechnic University. He also holds a Changjiang Chair Professorship awarded by the Ministry of Education of China. Prof. Guo is an IEEE Fellow (Computer Society) and an ACM Distinguished Member.
 
