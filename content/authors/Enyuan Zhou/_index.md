@@ -1,19 +1,13 @@
 ---
-# Display name 
 title: Enyuan Zhou
 
-# Username
 authors:
 - Enyuan Zhou
 
-# Is this the primary user of the site?
-# no need to modify 
 superuser: false
 
-# Role/position
 role: Research Assistant
 
-# Organizations/Affiliations
 organizations:
 - name: The Hong Kong Polytechnic University
   url: "https://www.polyu.edu.hk/"
@@ -32,34 +26,19 @@ education:
     institution: Northeastern University
     year: 2014-2018
 
-# Social/Academic Networking
-# To disable, comment blew lines with `#`.
 social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:enyuan.zhou@polyu.edu.hk'
-- #icon: google-scholar
-  #icon_pack: ai
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/garlicZhou
-
-# To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
 - icon: cv
   icon_pack: ai
   link: resume/cv-enyuan-zhou/cv.pdf
 
-# Highlight the author in author lists? (true/false)
 highlight_name: false
 
-# Choose which group that you belong to
-#  available groups:
-#  - Director (Head of Lab)
-#  - Research Staffs (RA, Postdoc, RAP, e.g.)
-#  - Research Students (Master/PhD student, e.g.)
-#  - Visitors (Visiting prof/student, e.g.)
-#  - Previous Members (Alumni)
 user_groups:
 - Research Staffs
 ---
