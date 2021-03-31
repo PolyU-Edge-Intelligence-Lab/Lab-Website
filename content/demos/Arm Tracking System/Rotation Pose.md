@@ -1,19 +1,12 @@
 ---
-title: Video
+title: Rotation Pose
 date: '2021-01-01'
 type: book
 weight: 20
 ---
 
-Dr. Body Demo Video
+{{< figure src="picture2.svg" >}}
 
-<!--more-->
+{{< figure src="picture3.svg" >}}
 
-{{< icon name="clock" pack="fas" >}} about 1 minutes
-
-{{< youtube Cfx66gy9K9c >}}
-
-
-<!--{{< spoiler text="Is Python case-sensitive?" >}}
-Yes
-{{< /spoiler >}}-->
+{{< figure src="picture4.svg" >}}

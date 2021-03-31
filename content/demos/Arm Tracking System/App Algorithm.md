@@ -1,19 +1,12 @@
 ---
-title: Video
+title: App Algorithm
 date: '2021-01-01'
 type: book
-weight: 20
+weight: 30
 ---
 
-Dr. Body Demo Video
+{{< figure src="picture5.svg" >}}
 
-<!--more-->
+{{< figure src="picture6.svg" >}}
 
-{{< icon name="clock" pack="fas" >}} about 1 minutes
-
-{{< youtube Cfx66gy9K9c >}}
-
-
-<!--{{< spoiler text="Is Python case-sensitive?" >}}
-Yes
-{{< /spoiler >}}-->
+{{< figure src="picture7.svg" >}}
