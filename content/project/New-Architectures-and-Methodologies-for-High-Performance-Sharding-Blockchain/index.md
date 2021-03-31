@@ -9,7 +9,7 @@ date: "2016-04-27"
 external_link: ""
 
 image:
-  caption: Type of Scoliosis 
+  caption: Blockchain Sharding 
   focal_point: Smart
 
 # links:
@@ -23,24 +23,10 @@ image:
 # url_video: ""
 ---
 
-Scoliosis is a sideways curvature of the spine that occurs most often during thegrowth spurt just before puberty. According to the survey and statistics of China Child Development Center, more than 20% teens have scoliosis. In addition to myopia and obesity, scoliosis has become the third biggest killer of youth health. According to some relevant survey data, 60% of teenagers have different degrees of posture problems. Early prevention and early treatment is the key of adolescent posture problems. Children who have mild scoliosis need to be monitored closely, usually with X-rays,to see if the curve is getting worse.
+Blockchain draws tremendous attention from academia and industry, since it can provide distributed ledgers with data transparency, integrity, and immutability to untrusted parties for various decentralized applications. However, it is still challenging for blockchain to deal with large-scale networks because of the limited scalability of the blockchain systems. Sharding is a novel blockchain architecture that is proved to significantly improve the scalability of blockchain. Its main idea is to divide blockchain nodes into small groups called shards, which can handle transactions in parallel. To exploit the shortages of blockchain sharding for real application environment, we conduct two research projects as follows.
 
-At present, the mainstream screening method is still manual detection, which has require patient naturally stands and bends at 90 degrees and the doctor makes a judgment based on the spinal line and morphological changes. However, such method has low efficiency and low accuracy and facing the severe shortage of physiotherapists. 
+First, to deal with the serious performance degradation brought by cross-shard transactions, we propose a novel layered sharding architecture for blockchain and a cooperation-based layered sharding consensus. The basic idea is to allow shards to overlap, rather than isolating them completely, so that some nodes can locate in more than one shard. For cross-shard transactions, nodes located in the overlap of these shards can cooperative to verify, process and commit them directly and efficiently.
 
-Meanwhile, during the COVID-19 epidemic, to help more people with rehabilitation needs realize remote screening and tracking and real-time AI monitoring of sports rehabilitation at home. A mobile-based posture screening algorithm and real-time exercise rehabilitation tracking algorithm are proposed.
+{{< figure src="picture1.svg" caption="Blockchain and Training" >}}
 
-In this project, we will design a 3D back image analysis method using commercial RGB-D to achieve low-cost, non-radiation, and sufficient accuracy of spine analysis and scoliosis screening. However, the analysis of the back image based on RGB-D is not simple and has the following three major challenges: (1)The back of the human body is an irregular curved surface, which is difficult to describe with some parametric models. (2) The point cloud image measured by commercial sensors is relatively sparse and has strong noise, and it is difficult to directly obtain the shape of the back. (3) The relationship between the back image and the spine shape is fuzzy.
-
-{{< figure src="picture1.svg" caption="Hardware Design and  Compoments" >}}
-
-To address these challenges, we propose an automated all-in-one machine that performs comprehensive and accurate analysis, evaluation, and diagnosis of human posture: analysis items are in addition to common body dimensions. It also includes three-dimensional reconstruction of human spine based on infrared, foot pressure analysis, XO legs, pelvic deformation analysis and other functions; it is a set of comprehensive posture evaluation system with clinical significance in the real sense.
-
-{{< figure src="picture2.svg" caption="Posture analysis algorithms" >}}
-
-We also develop a Dr. Body APP, which uses AI algorithm to screen scoliosis, XO legs, high and low shoulders and other unhealthy postures through the photos of the back of the human body of the mobile phone for screening and severity classification; the use of a single photo of the human body for three-dimensional reconstruction of the human body for posture analysis and dimension measurement; Provide users with a variety of sports rehabilitation online courses, and record sports videos for intelligent action correction and analysis.
-
-{{< figure src="picture3.svg" caption="App record user data and provide personalized follow-up service" >}}
-
-**Innovation competition awards:** 
-
-First Prize of Hong Kong University Student Innovation and Entrepreneurship Competition (2020); Hong Kong Social Enterprise Competition (HKSEC2019) Intellectual Property Ambassador Award; "Weining Cup" International AI Medical Challenge First Prize (2019), et.
+Second, most existing blockchain sharding systems adopt a static sharding policy that cannot efciently deal with the dynamic environment in the blockchain system, i.e., joining and leaving of nodes, and malicious attack. We propose a novel dynamic sharding-based blockchain framework to achieve a good balance between performance and security without compromising scalability under a dynamic environment. For the framework, a deep reinforcement learning (DRL)-based consensus is designed to acquire optimal sharding policies in a series of dynamic and high-dimensional environment states.

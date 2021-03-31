@@ -31,7 +31,7 @@ Meanwhile, during the COVID-19 epidemic, to help more people with rehabilitation
 
 In this project, we will design a 3D back image analysis method using commercial RGB-D to achieve low-cost, non-radiation, and sufficient accuracy of spine analysis and scoliosis screening. However, the analysis of the back image based on RGB-D is not simple and has the following three major challenges: (1)The back of the human body is an irregular curved surface, which is difficult to describe with some parametric models. (2) The point cloud image measured by commercial sensors is relatively sparse and has strong noise, and it is difficult to directly obtain the shape of the back. (3) The relationship between the back image and the spine shape is fuzzy.
 
-{{< figure src="picture1.svg" caption="Hardware Design and  Compoments" >}}
+{{< figure src="picture1.svg" caption="Hardware Design and Compoments" >}}
 
 To address these challenges, we propose an automated all-in-one machine that performs comprehensive and accurate analysis, evaluation, and diagnosis of human posture: analysis items are in addition to common body dimensions. It also includes three-dimensional reconstruction of human spine based on infrared, foot pressure analysis, XO legs, pelvic deformation analysis and other functions; it is a set of comprehensive posture evaluation system with clinical significance in the real sense.
 
