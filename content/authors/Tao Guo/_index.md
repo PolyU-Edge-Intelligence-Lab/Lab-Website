@@ -66,7 +66,9 @@ link: https://github.com/cocogt96
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Students
+
+ Research Students
+
 ---
 
 郭韬 is a research student at School of Computing in the Hong Kong Polytechnic University. Her research interests include tiny machine learning, on-device learning model compression and acceleration. He joins the on-device learning group, which focuses on enabling deployment of deep learning models on small edge devices with fewer bits without scarifice accuracy and speed.
