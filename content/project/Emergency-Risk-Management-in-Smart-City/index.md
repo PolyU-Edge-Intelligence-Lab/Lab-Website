@@ -19,7 +19,7 @@ links:
 #   url: https://twitter.com/georgecushen
 # url_code: ""
 # url_pdf: ""
-url_slides: "ppt/smart-city.ppt"
+url_slides: "ppt/smart-city.pptx"
 # url_video: ""
 ---
 
