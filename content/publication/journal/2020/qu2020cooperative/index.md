@@ -1,16 +1,16 @@
 ---
-title: "Intelligent {VNF} Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning"
+title: "Cooperative Caching for Multiple Bitrate Videos in Small Cell Edges"
 authors:
-- Lin Gu
-- Deze Zeng
-- Wei Li
+- Zhihao Qu
+- Baoliu Ye
+- Bin Tang
 - Song Guo
-- Albert Y. Zomaya
-- Hai Jin
+- Sanglu Lu
+- Weihua Zhuang
 
 
 date: "2020-02-01"
-doi: "10.1109/JSAC.2019.2959182"
+doi: "10.1109/TMC.2019.2893917"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -19,10 +19,10 @@ doi: "10.1109/JSAC.2019.2959182"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: "JSAC"
+publication: "*IEEE Transactions on Mobile Computing*"
+publication_short: ""
 
-url_pdf: https://ieeexplore.ieee.org/document/8931775
+url_pdf: https://ieeexplore.ieee.org/document/8618417
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

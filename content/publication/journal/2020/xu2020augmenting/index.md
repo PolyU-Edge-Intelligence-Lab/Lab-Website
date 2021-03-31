@@ -1,16 +1,16 @@
 ---
-title: "Intelligent {VNF} Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning"
+title: "Augmenting Drive-Thru Internet via Reinforcement Learning-Based Rate Adaptation"
 authors:
-- Lin Gu
-- Deze Zeng
-- Wei Li
+- Wenchao Xu
 - Song Guo
-- Albert Y. Zomaya
-- Hai Jin
+- Shiheng Ma
+- Haibo Zhou
+- Mingli Wu
+- Weihua Zhuang
 
 
-date: "2020-02-01"
-doi: "10.1109/JSAC.2019.2959182"
+date: "2020-04-09"
+doi: "10.1109/JIOT.2020.2965148"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -19,10 +19,10 @@ doi: "10.1109/JSAC.2019.2959182"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: "JSAC"
+publication: "*IEEE Internet of Things Journal*"
+publication_short: "IoT"
 
-url_pdf: https://ieeexplore.ieee.org/document/8931775
+url_pdf: https://ieeexplore.ieee.org/document/8954653
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

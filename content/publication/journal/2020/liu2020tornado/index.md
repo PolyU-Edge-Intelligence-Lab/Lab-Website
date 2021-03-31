@@ -1,16 +1,15 @@
 ---
-title: "Intelligent {VNF} Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning"
+title: "Tornado: Enabling Blockchain in Heterogeneous Internet of Things Through a Space-Structured Approach"
 authors:
-- Lin Gu
-- Deze Zeng
-- Wei Li
+- Yinqiu Liu
+- Kun Wang
+- Kai Qian
+- Miao Du
 - Song Guo
-- Albert Y. Zomaya
-- Hai Jin
 
 
 date: "2020-02-01"
-doi: "10.1109/JSAC.2019.2959182"
+doi: "10.1109/JIOT.2019.2954128"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -19,10 +18,10 @@ doi: "10.1109/JSAC.2019.2959182"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: "JSAC"
+publication: "*IEEE Internet of Things Journal*"
+publication_short: "IoT"
 
-url_pdf: https://ieeexplore.ieee.org/document/8931775
+url_pdf: https://ieeexplore.ieee.org/document/8906043
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

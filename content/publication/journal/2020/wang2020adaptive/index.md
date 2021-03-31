@@ -1,16 +1,15 @@
 ---
-title: "Intelligent {VNF} Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning"
+title: "Adaptive and Fault-Tolerant Data Processing in Healthcare IoT Based on Fog Computing"
 authors:
-- Lin Gu
-- Deze Zeng
-- Wei Li
+- Kun Wang
+- Yun Shao
+- Lei Xie
+- Jie Wu
 - Song Guo
-- Albert Y. Zomaya
-- Hai Jin
 
 
-date: "2020-02-01"
-doi: "10.1109/JSAC.2019.2959182"
+date: "2020-01-01"
+doi: "10.1109/TNSE.2018.2859307"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -19,10 +18,10 @@ doi: "10.1109/JSAC.2019.2959182"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: "JSAC"
+publication: "*IEEE Transactions on Network Science and Engineering*"
+publication_short: "TNSE"
 
-url_pdf: https://ieeexplore.ieee.org/document/8931775
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8418810
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

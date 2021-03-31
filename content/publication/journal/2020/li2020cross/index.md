@@ -1,16 +1,13 @@
 ---
-title: "Intelligent {VNF} Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning"
+title: "Cross-Cloud MapReduce for Big Data"
 authors:
-- Lin Gu
-- Deze Zeng
-- Wei Li
+- Peng Li
 - Song Guo
-- Albert Y. Zomaya
-- Hai Jin
+- Shui Yu
+- Weihua Zhuang
 
-
-date: "2020-02-01"
-doi: "10.1109/JSAC.2019.2959182"
+date: "2020-04-01"
+doi: "10.1109/TCC.2015.2474385"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -19,10 +16,10 @@ doi: "10.1109/JSAC.2019.2959182"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: "JSAC"
+publication: "*IEEE Transactions on Cloud Computing*"
+publication_short: "TCC"
 
-url_pdf: https://ieeexplore.ieee.org/document/8931775
+url_pdf: https://ieeexplore.ieee.org/document/7229313
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

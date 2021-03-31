@@ -1,16 +1,15 @@
 ---
-title: "Intelligent {VNF} Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning"
+title: "A Service-Oriented Permissioned Blockchain for the Internet of Things"
 authors:
-- Lin Gu
-- Deze Zeng
-- Wei Li
+- Chao Qiu
+- Haipeng Yao
+- F. Richard Yu
+- Chunxiao Jiang
 - Song Guo
-- Albert Y. Zomaya
-- Hai Jin
 
 
-date: "2020-02-01"
-doi: "10.1109/JSAC.2019.2959182"
+date: "2020-03-01"
+doi: "10.1109/TSC.2019.2948870"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -19,10 +18,10 @@ doi: "10.1109/JSAC.2019.2959182"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: "JSAC"
+publication: "*IEEE Transactions on Services Computing*"
+publication_short: ""
 
-url_pdf: https://ieeexplore.ieee.org/document/8931775
+url_pdf: https://ieeexplore.ieee.org/document/8880544
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

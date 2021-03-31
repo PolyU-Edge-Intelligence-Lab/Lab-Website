@@ -1,16 +1,14 @@
 ---
-title: "Intelligent {VNF} Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning"
+title: "Blockchain Meets Edge Computing: Stackelberg Game and Double Auction Based Task Offloading for Mobile Blockchain"
 authors:
-- Lin Gu
-- Deze Zeng
-- Wei Li
+- Shaoyong Guo
+- Yao Dai 
 - Song Guo
-- Albert Y. Zomaya
-- Hai Jin
+- Xuesong Qiu
+- Feng Qi
 
-
-date: "2020-02-01"
-doi: "10.1109/JSAC.2019.2959182"
+date: "2020-03-19"
+doi: "10.1109/TVT.2020.2982000"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -19,10 +17,10 @@ doi: "10.1109/JSAC.2019.2959182"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: "JSAC"
+publication: "*IEEE Transactions on Vehicular Technology*"
+publication_short: ""
 
-url_pdf: https://ieeexplore.ieee.org/document/8931775
+url_pdf: https://ieeexplore.ieee.org/document/9042359
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
