@@ -20,7 +20,7 @@ image:
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
-# url_video: ""
+url_video: "https://www.youtube.com/watch?v=Cfx66gy9K9c"
 ---
 
 Scoliosis is a sideways curvature of the spine that occurs most often during thegrowth spurt just before puberty. According to the survey and statistics of China Child Development Center, more than 20% teens have scoliosis. In addition to myopia and obesity, scoliosis has become the third biggest killer of youth health. According to some relevant survey data, 60% of teenagers have different degrees of posture problems. Early prevention and early treatment is the key of adolescent posture problems. Children who have mild scoliosis need to be monitored closely, usually with X-rays,to see if the curve is getting worse.
@@ -29,7 +29,7 @@ At present, the mainstream screening method is still manual detection, which has
 
 Meanwhile, during the COVID-19 epidemic, to help more people with rehabilitation needs realize remote screening and tracking and real-time AI monitoring of sports rehabilitation at home. A mobile-based posture screening algorithm and real-time exercise rehabilitation tracking algorithm are proposed.
 
-In this project, we will design a 3D back image analysis method using commercial RGB-D to achieve low-cost, non-radiation, and sufficient accuracy of spine analysis and scoliosis screening. However, the analysis of the back image based on RGB-D is not simple and has the following three major challenges: (1)The back of the human body is an irregular curved surface, which is difficult to describe with some parametric models. (2) The point cloud image measured by commercial sensors is relatively sparse and has strong noise, and it is difficult to directly obtain the shape of the back. (3) The relationship between the back image and the spine shape is fuzzy.
+In this project, we will design a 3D back image analysis method using commercial RGB-D to achieve low-cost, non-radiation, and sufficient accuracy of spine analysis and scoliosis screening. However, the analysis of the back image based on RGB-D is not simple and has the following three major challenges: (1) The back of the human body is an irregular curved surface, which is difficult to describe with some parametric models. (2) The point cloud image measured by commercial sensors is relatively sparse and has strong noise, and it is difficult to directly obtain the shape of the back. (3) The relationship between the back image and the spine shape is fuzzy.
 
 {{< figure src="picture1.svg" caption="Hardware Design and Compoments" >}}
 

@@ -66,11 +66,9 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Visitors
+- Research Staffs
 ---
 
-王号召 is a Research Assistant of computer science at the Edge Intelligence Lab. His research interests include Distributed Learning, Federated Learning and Adversarial Laerning. 
-
-# More information please refer to my [homepage](https://www.andrewng.org)
+王号召 is a Research Assistant of computer science at the Edge Intelligence Lab. His research interests include Distributed Learning, Federated Learning and Adversarial Learning. 
 
 ---
