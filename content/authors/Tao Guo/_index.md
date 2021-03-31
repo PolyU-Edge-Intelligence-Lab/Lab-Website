@@ -42,18 +42,19 @@ education:
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
 social:
-#- icon: envelope
+
+- icon: envelope
   icon_pack: fas
-  link: 'mailto:ang@cs.stanford.edu'
-#- icon: google-scholar
+    link: 'mailto:ang@cs.stanford.edu'
+- icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-
-#- icon: github
-icon_pack: fab
-link: https://github.com/cocogt96
+- icon: github
+  icon_pack: fab
+  link: https://github.com/cocogt96
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
+
 #- icon: cv
   icon_pack: ai
   link: resume/cv-tao-guo/cv.pdf
@@ -67,8 +68,7 @@ link: https://github.com/cocogt96
 #  - Previous Members (Alumni)
 user_groups:
 
- Research Students
-
+- Research Students
 ---
 
 郭韬 is a research student at School of Computing in the Hong Kong Polytechnic University. Her research interests include tiny machine learning, on-device learning model compression and acceleration. He joins the on-device learning group, which focuses on enabling deployment of deep learning models on small edge devices with fewer bits without scarifice accuracy and speed.
