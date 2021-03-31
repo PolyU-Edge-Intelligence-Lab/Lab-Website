@@ -14,6 +14,6 @@ Dr. Body Demo Video
 {{< youtube Cfx66gy9K9c >}}
 
 
-#{{< spoiler text="Is Python case-sensitive?" >}}
-#Yes
-#{{< /spoiler >}}
+<!--{{< spoiler text="Is Python case-sensitive?" >}}
+Yes
+{{< /spoiler >}}-->

@@ -69,6 +69,6 @@ user_groups:
 - Research Staffs
 ---
 
-王号召 is a Research Assistant of computer science at the Edge Intelligence Lab. His research interests include Distributed Learning, Federated Learning and Adversarial Laerning. 
+王号召 is a Research Assistant of computer science at the Edge Intelligence Lab. His research interests include Distributed Learning, Federated Learning and Adversarial Learning. 
 
 ---
