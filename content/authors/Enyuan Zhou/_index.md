@@ -1,10 +1,8 @@
 ---
-# Display name
-# Format: Your_given_name Your_surname 
+# Display name 
 title: Enyuan Zhou
 
 # Username
-# Format: this should match the folder name
 authors:
 - Enyuan Zhou
 
@@ -13,7 +11,6 @@ authors:
 superuser: false
 
 # Role/position
-# other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
 role: Research Assistant
 
 # Organizations/Affiliations
@@ -40,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'enyuan.zhou@polyu.edu.hk'
+  link: 'mailto:enyuan.zhou@polyu.edu.hk'
 - #icon: google-scholar
   #icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
