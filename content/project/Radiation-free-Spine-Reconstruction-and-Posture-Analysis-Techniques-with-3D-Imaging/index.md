@@ -6,7 +6,7 @@ tags:
 date: "2016-05-27"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://drbodymainly.mystrikingly.com"
+external_link: ""
 
 image:
   caption: Type of Scoliosis 
