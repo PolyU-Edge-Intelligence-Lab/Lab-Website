@@ -12,8 +12,8 @@ type: book
 
 ## Problem overview
 
-- {{<hl>}}Spinal and back problems{{</hl>}} are known to irk many urbanites and potentially cause {{<hl>}}developmental, immunity, neural, cardiopulmonary, or digestive disorders{{<hl>}}. 
-- {{<hl>}}Postural anomalies{{<hl>}} often go ignored or unnoticed until serious problems set in or when the person seeks professional help.
+- {{<hl>}}Spinal and back problems{{</hl>}} are known to irk many urbanites and potentially cause {{<hl>}}developmental, immunity, neural, cardiopulmonary, or digestive disorders{{</hl>}}. 
+- {{<hl>}}Postural anomalies{{</hl>}} often go ignored or unnoticed until serious problems set in or when the person seeks professional help.
 
 ## Solutions
 
