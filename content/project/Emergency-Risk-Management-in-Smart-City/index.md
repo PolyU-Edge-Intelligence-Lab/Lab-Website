@@ -27,6 +27,6 @@ With the emergence and drastic improvement of mobile devices (e.g., phones, tabl
 
 With the development of AI-empowered video processing techniques, the ubiquitous mobile camera network has the potential to go beyond the video-surveillance system to capture various risks in the complex and dynamic city environment. However, the edge device has limited computation resource compared to the desktop GPU and CPU, which brings new challenge for optimizing AI algorithm for executing on edge devices. 
 
-![jpg](./picture1.jpg)
+{{< figure src="picture1.jpg" caption="Resource-constraint Mobile Devices" >}}
 
-
+{{< figure src="pic.svg" caption="A caption" >}}
