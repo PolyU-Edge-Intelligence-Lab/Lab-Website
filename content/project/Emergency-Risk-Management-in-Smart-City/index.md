@@ -8,9 +8,9 @@ date: "2016-08-27"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: 'Transform Cities with Smart Technology'
-  focal_point: Smart
+#image:
+#  caption: 'Transform Cities with Smart Technology'
+#  focal_point: Smart
 
 # links:
 # - icon: twitter
@@ -29,6 +29,3 @@ With the development of AI-empowered video processing techniques, the ubiquitous
 
 {{< figure src="picture1.jpg" caption="Resource-constraint Mobile Devices" >}}
 
-{{< figure src="pic.svg" caption="Resource-constraint Mobile Devices" >}}
-
-{{< figure src="pic.svg" caption="Resource-constraint Mobile Devices" >}}
