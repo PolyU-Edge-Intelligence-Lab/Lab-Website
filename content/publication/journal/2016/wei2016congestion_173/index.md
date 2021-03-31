@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "*Peer-to-Peer Networking and Applications*"
 publication_short: "PEER PEER NETW APPL"
 
-url_pdf:https://scholar.google.com.hk/scholar?output=instlink&q=info:ypjUCM7Npt0J:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=14900966840175457968&oi=lle
+url_pdf: https://scholar.google.com.hk/scholar?output=instlink&q=info:ypjUCM7Npt0J:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=14900966840175457968&oi=lle
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

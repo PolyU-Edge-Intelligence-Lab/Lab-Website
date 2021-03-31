@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "*IEEE Access*"
 publication_short: "IEEE ACCESS"
 
-url_pdf:https://ieeexplore.ieee.org/iel7/6287639/6514899/07458817.pdf
+url_pdf: https://ieeexplore.ieee.org/iel7/6287639/6514899/07458817.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

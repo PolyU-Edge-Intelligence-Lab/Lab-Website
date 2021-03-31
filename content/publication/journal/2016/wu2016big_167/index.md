@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*IEEE Systems Journal*"
 publication_short: "IEEE SYST J"
 
-url_pdf:https://scholar.google.com.hk/scholar?output=instlink&q=info:FgCByfejQXsJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=54157550606263641&oi=lle
+url_pdf: https://scholar.google.com.hk/scholar?output=instlink&q=info:FgCByfejQXsJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=54157550606263641&oi=lle
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
