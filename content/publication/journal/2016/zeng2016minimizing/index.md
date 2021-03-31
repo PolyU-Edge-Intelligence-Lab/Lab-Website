@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "*International Journal of Autonomous and Adaptive Communications Systems*"
 publication_short: ""
 
-url_pdf: 
+# url_pdf: 
 # url_code: 
 # url_dataset: 
 # url_poster: 
