@@ -27,11 +27,11 @@ With the emergence and drastic improvement of mobile devices (e.g., phones, tabl
 
 With the development of AI-empowered video processing techniques, the ubiquitous mobile camera network has the potential to go beyond the video-surveillance system to capture various risks in the complex and dynamic city environment. However, the edge device has limited computation resource compared to the desktop GPU and CPU, which brings new challenge for optimizing AI algorithm for executing on edge devices. 
 
-{{< figure src="picture1.jpg" caption="Resource-constraint Mobile Devices" >}}
+{{< figure src="picture1.svg" caption="Resource-constraint Mobile Devices" >}}
 
 Another major challenge is the heterogeneous of edge hardware. The AI models need to adapt to heterogeneous edge devices with significant ram and computation difference. The last challenge is view limitation. Since each edge device usually has a small field of view, it is very hard to capture an integrated scenario in the smart city. To support practical real-time risk detection, we must joint use multiple cameras to obtain abundant regional data.
 
-{{< figure src="picture2.jpg" caption="Heterogeneous Mobile Devices" >}}
+{{< figure src="picture2.svg" caption="Heterogeneous Mobile Devices" >}}
 
 To solve the above challenges, we proposed a crowdsourced mobile video analytics framework for emerging real-time risk management in smart cities. Specifically, our framework consists of three components, including city digital twins, collaborative learning mechanism and real-time risk management.
 
