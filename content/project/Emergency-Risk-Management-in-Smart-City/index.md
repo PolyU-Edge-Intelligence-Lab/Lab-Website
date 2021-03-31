@@ -31,4 +31,4 @@ With the development of AI-empowered video processing techniques, the ubiquitous
 
 Another major challenge is the heterogeneous of edge hardware. The AI models need to adapt to heterogeneous edge devices with significant ram and computation difference. The last challenge is view limitation. Since each edge device usually has a small field of view, it is very hard to capture an integrated scenario in the smart city. To support practical real-time risk detection, we must joint use multiple cameras to obtain abundant regional data.
 
-{{< figure src="picture2.png" caption="Heterogeneous Mobile Devices" >}}
+{{< figure src="picture2.jpg" caption="Heterogeneous Mobile Devices" >}}
