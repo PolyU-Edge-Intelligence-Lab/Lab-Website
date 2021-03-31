@@ -36,3 +36,17 @@ Another major challenge is the heterogeneous of edge hardware. The AI models nee
 To solve the above challenges, we proposed a crowdsourced mobile video analytics framework for emerging real-time risk management in smart cities. Specifically, our framework consists of three components, including city digital twins, collaborative learning mechanism and real-time risk management.
 
 {{< figure src="picture3.svg" caption="A Crowdsourced Mobile Video Analytics Framework" >}}
+
+First, the digital twin is a replica of a physical word, and this pairing of the digital and physical worlds allows analysis of data and monitoring of systems to head off problems before they even occur.
+
+{{< figure src="picture4.svg" caption="Interactive Digital Twins for Smart City" >}}
+
+Second, the high-performance collaborative learning mechanism can provide a fast and robust computation capacity to support the real-time requests of the big data analytics in smart cities.
+
+{{< figure src="picture5.svg" caption="High Performance Collaborative Learning" >}}
+
+Third, derived from the above two techniques, we develop a real-time risk management platform for proactive risk detection and self-defending emergency response.
+
+{{< figure src="picture6.svg" caption="Real –time Risk Management Platform" >}}
+
+The research team will conduct in-depth cooperation with professors from the Department of Real Estate and the Department of Electronic and Information Engineering to promote in-depth research on the security of construction sites based on risk management technology based on edge intelligence.
