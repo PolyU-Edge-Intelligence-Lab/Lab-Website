@@ -27,12 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Smart Edge
-    tag: Smart Edge
   - name: Smart City
     tag: Smart City
   - name: Smart Healthcare
     tag: Smart Healthcare
+  - name: Federated Learning
+    tag: Federated Learning
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
