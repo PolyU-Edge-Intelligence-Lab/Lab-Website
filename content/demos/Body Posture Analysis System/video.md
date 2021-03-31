@@ -11,8 +11,6 @@ Dr. Body Demo Video
 
 {{< icon name="clock" pack="fas" >}} about 1 minutes
 
-## Learn
-
 {{< youtube Cfx66gy9K9c >}}
 
 
