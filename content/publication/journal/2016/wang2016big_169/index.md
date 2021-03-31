@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Communications Surveys \& Tutorials*"
+publication: "*IEEE Communications Surveys Tutorials*"
 publication_short: "IEEE COMMUN SURV TUT"
 
 url_pdf: https://www.researchgate.net/profile/Junbo_Wang3/publication/297722725_Big_Data_Analytics_for_Emergency_Communication_Networks_A_Survey/links/5d1cd0c9299bf1547c94fddb/Big-Data-Analytics-for-Emergency-Communication-Networks-A-Survey.pdf
