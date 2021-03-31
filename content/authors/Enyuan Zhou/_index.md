@@ -67,5 +67,4 @@ user_groups:
 Enyuan Zhou is a research assistant in the Department of Computing at Hong Kong Polytechnic University, Hong Kong SAR, China, supervised by Prof. Song Guo, Fellow of IEEE.  He received B.E. degree in information security from Northeastern University, and he is pursuing his M.Sc. degree at Xidian University, supervised by Prof. Qingqi Pei in ISN.
 
 His research interests include blockchain, database and information retrieval.
-
 ---
