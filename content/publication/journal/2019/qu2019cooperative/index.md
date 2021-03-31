@@ -1,12 +1,12 @@
 ---
 title: "Cooperative caching for multiple bitrate videos in small cell edges"
 authors:
-- Zhizhao Qu
+- Zhihao Qu
 - Baoliu Ye
 - Bin Tang
 - Song Guo
 - Sanglu Lu
-- Zhuang, Weihua
+- Zhuang Weihua
 
 # author_notes:
 # - "Equal contribution"
