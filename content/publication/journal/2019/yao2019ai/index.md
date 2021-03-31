@@ -1,5 +1,5 @@
 ---
-title: "AI routers \& network mind: A hybrid machine learning paradigm for packet routing"
+title: "AI routers network mind: A hybrid machine learning paradigm for packet routing"
 authors:
 - Haipeng Yao
 - Tianle Mai
