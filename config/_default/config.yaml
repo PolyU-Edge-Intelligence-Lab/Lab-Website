@@ -55,7 +55,7 @@ markup:
     startLevel: 2
     endLevel: 3
 imaging:
-  resampleFilter: NearestNeighbor
+  resampleFilter: lanczos
   quality: 100
   anchor: smart
 timeout: 600000
