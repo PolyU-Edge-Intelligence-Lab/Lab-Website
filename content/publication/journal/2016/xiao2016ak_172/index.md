@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "*Frontiers of Information Technology \& Electronic Engineering*"
 publication_short: "FITEE"
 
-url_pdf: https://scholar.google.com.hk/scholar?output=instlink&q=info:J2ZkCQzV7EoJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=15931948110559659980&oi=lle
+# url_pdf:
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
