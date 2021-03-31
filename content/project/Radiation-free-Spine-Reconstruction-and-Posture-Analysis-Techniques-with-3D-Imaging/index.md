@@ -41,6 +41,6 @@ We also develop a Dr. Body APP, which uses AI algorithm to screen scoliosis, XO 
 
 {{< figure src="picture3.svg" caption="App record user data and provide personalized follow-up service" >}}
 
-##Innovation competition awards:## 
+**Innovation competition awards:** 
 
 First Prize of Hong Kong University Student Innovation and Entrepreneurship Competition (2020); Hong Kong Social Enterprise Competition (HKSEC2019) Intellectual Property Ambassador Award; "Weining Cup" International AI Medical Challenge First Prize (2019), et.
