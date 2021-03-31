@@ -31,6 +31,8 @@ content:
     tag: Smart City
   - name: Smart Healthcare
     tag: Smart Healthcare
+  - name: Blockchain
+    tag: Blockchain
   - name: Federated Learning
     tag: Federated Learning
 
