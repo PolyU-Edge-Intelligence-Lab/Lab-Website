@@ -1,6 +1,6 @@
 ---
-title: City Emergency Management 
-summary: Smart City Real-time Emergency Management based on Edge Intelligence.
+title: Emergency Risk Management in Smart City
+summary: With the emergence and drastic improvement of mobile devices, we are now witnessing an exciting revolution of the digital city.
 tags:
 - Smart City
 date: "2016-08-27"
@@ -9,7 +9,7 @@ date: "2016-08-27"
 external_link: ""
 
 image:
-  caption: Smart city emergency management framework
+  caption: ''
   focal_point: Smart
 
 # links:
