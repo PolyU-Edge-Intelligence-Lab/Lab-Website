@@ -18,7 +18,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers of Information Technology \& Electronic Engineering*"
+publication: "*Frontiers of Information Technology Electronic Engineering*"
 publication_short: "FITEE"
 
 # url_pdf:
