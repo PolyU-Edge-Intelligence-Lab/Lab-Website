@@ -9,10 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-#title: ''
+title: 'Pinned Projects'
 #subtitle: ''
 
 content:
+  count: 4
+  order: desc
   # Page type to display. E.g. project.
   page_type: project
 
