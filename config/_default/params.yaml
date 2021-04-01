@@ -95,7 +95,7 @@ show_related:
   page: false
   post: false
   project: true
-  publication: true
+  publication: false
   event: false
 reading_time: true
 section_pager: false
