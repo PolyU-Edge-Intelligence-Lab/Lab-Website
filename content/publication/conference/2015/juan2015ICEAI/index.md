@@ -3,7 +3,7 @@ title: "A New Visual Multi-Secrets Sharing Scheme by Adding Fragments"
 authors:
 - Su-Tzu Juan
 - Lu-Chung Chen
-- Song Guo,
+- Song Guo
 date: "2015-05-01"
 doi: ""
 

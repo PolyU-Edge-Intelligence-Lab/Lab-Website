@@ -6,7 +6,7 @@ authors:
 - Song Guo
 - Junji Kitamichi
 - Takafumi Hayashi
-- Tsuneo Tsukahara,
+- Tsuneo Tsukahara
 date: "2015-01-01"
 doi: "10.1016/j.procs.2015.05.089"
 
