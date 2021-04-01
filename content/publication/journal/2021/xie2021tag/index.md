@@ -2,7 +2,6 @@
 title: "A Tag-correlation-based Approach to Fast Identification of Group Tags"
 authors:
 - Xin Xie
-- Xin Xie
 - Xiulong Liu
 - Heng Qi
 - Song Guo

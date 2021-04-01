@@ -6,7 +6,7 @@ authors:
 - Yangyang Liu
 - Bo Ding
 - Song Guo
-- Jianxin Wang,
+- Jianxin Wang
 
 date: "2020-09-02"
 doi: "10.1109/JSAC.2020.3020604"
