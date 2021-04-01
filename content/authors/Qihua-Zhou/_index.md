@@ -5,7 +5,7 @@ title: Qihua Zhou
 
 # Qihua Zhou
 authors:
-- Qihua Zhou
+- Qihua-Zhou
 
 # Is this the primary user of the site?
 # no need to modify 

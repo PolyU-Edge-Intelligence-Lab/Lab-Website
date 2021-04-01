@@ -7,7 +7,7 @@ title: Jie Zhang
 # Username
 # Format: this should match the folder name
 authors:
-- Jie Zhang
+- Jie-Zhang
 
 # Is this the primary user of the site?
 # no need to modify 
