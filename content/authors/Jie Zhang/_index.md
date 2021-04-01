@@ -70,6 +70,4 @@ user_groups:
 
 Jie Zhang (张婕) is a PhD student of computer scicence at the PolyU Edge Intelligence Lab. Her reasearch intrestes include federated learning, edge/cloud computing and machine learning algorithms, modeling, systems.
 
-# More information please refer to my [homepage](https://www.andrewng.org)
-
 ---
