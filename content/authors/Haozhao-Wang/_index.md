@@ -7,7 +7,7 @@ title: Haozhao Wang
 # Username
 # Format: this should match the folder name
 authors:
-- Haozhao Wang
+- Haozhao-Wang
 
 # Is this the primary user of the site?
 # no need to modify

@@ -2,7 +2,7 @@
 title: Song Guo
 
 authors:
-- Song Guo
+- Song-Guo
 
 superuser: false
 
