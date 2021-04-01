@@ -19,7 +19,7 @@ image:
 #   url: https://twitter.com/georgecushen
 # url_code: ""
 # url_pdf: ""
-url_slides: "ppt/huawei-fl.pptx"
+# url_slides: ""
 # url_video: ""
 ---
 
