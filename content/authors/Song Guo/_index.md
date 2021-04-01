@@ -56,4 +56,3 @@ I am looking for strongly motivated PhD students, Research Assistant and Postdoc
 * SkyChain: A Deep Reinforcement Learning-Empowered Dynamic Blockchain Sharding System, Best Paper Award Runner Up received in ICPP 2020.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "resume/cv-song-guo/cv-full.pdf" "newtab" >}}full resumé{{< /staticref >}}.
----
