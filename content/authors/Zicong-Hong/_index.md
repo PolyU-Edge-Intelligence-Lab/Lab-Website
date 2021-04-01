@@ -7,7 +7,7 @@ title: Zicong Hong
 # Username
 # Format: this should match the folder name
 authors:
-- Zicong Hong
+- Zicong-Hong
 
 # Is this the primary user of the site?
 # no need to modify 

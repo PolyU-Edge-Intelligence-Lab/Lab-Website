@@ -6,7 +6,7 @@ title: Yi Liu
 # Username
 # Format: this should match the folder name
 authors:
-- Yi Liu
+- Yi-Liu
 
 # Is this the primary user of the site?
 # no need to modify 
