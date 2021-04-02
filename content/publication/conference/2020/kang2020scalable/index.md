@@ -4,7 +4,7 @@ authors:
 - Jiawen Kang
 - Zehui Xiong
 - Chunxiao Jiang
-- Yi Liu
+- Yi Liu+
 - Song Guo
 - Yang Zhang
 - Dusit Niyato
