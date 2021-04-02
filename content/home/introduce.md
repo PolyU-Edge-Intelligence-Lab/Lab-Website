@@ -21,8 +21,10 @@ advanced:
 
 ---
 
-#### The Polyu Edge Intelligence Laboratory (PEILab), directed by [Prof. Song Guo](https://www4.comp.polyu.edu.hk/~cssongguo/), was established in 2016. PEILab is with the Department of Computing, The Hong Kong Polytechnic University. PEILab's research interests are mainly in the areas of big data, edge AI, mobile computing, and distributed systems.
+## Who We Are
+
+The Polyu Edge Intelligence Laboratory (PEILab), directed by [Prof. Song Guo](https://www4.comp.polyu.edu.hk/~cssongguo/), was established in 2016. PEILab is with the Department of Computing, The Hong Kong Polytechnic University. PEILab's research interests are mainly in the areas of big data, edge AI, mobile computing, and distributed systems.
 
 ## Join Us
 
-#### We are looking for strongly motivated PhD students, Research Assistants, and Postdoctoral Fellows.
+We are looking for strongly motivated PhD students, Research Assistants, and Postdoctoral Fellows.
