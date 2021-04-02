@@ -3,7 +3,7 @@ widget: blank
 headless: true
 weight: 5
 
-title: ""
+title: "👋 Welcome to PEILab"
 subtitle: ""
 
 design:
