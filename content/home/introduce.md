@@ -7,7 +7,7 @@ title: "👋 Welcome to PEILab"
 subtitle: ""
 
 design:
-  columns: '1'
+  columns: '2'
   background:
     image: hello.jpg
     image_darken: 0.4
