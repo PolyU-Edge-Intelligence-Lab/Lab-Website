@@ -28,3 +28,7 @@ The Polyu Edge Intelligence Laboratory (PEILab), directed by [Prof. Song Guo](ht
 ## Join Us
 
 We are looking for strongly motivated PhD students, Research Assistants, and Postdoctoral Fellows.
+
+## Get in Touch
+
+[{{< icon name="envelope" pack="fas" >}}Song Guo](mailto:song.guo@polyu.edu.hk)
