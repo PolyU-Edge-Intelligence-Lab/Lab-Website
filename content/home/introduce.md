@@ -9,7 +9,7 @@ subtitle: ""
 design:
   columns: '1'
   background:
-    image: hello\5.jpg
+    image: hello.jpg
     image_darken: 0.4
     image_size: cover
     image_position: right
@@ -18,4 +18,5 @@ design:
 advanced:
   css_style:
   css_class: fullscreen
+  
 ---
