@@ -3,7 +3,7 @@ widget: blank
 headless: true
 weight: 5
 
-title: "👋 Hollie Beau is the Chief Data Officer at Tidbit Games in Shanghai."
+title: "👋 Welcome to PEILab"
 subtitle: ""
 
 design:
@@ -18,5 +18,5 @@ design:
 advanced:
   css_style:
   css_class: fullscreen
-  
+
 ---
