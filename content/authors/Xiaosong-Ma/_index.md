@@ -38,10 +38,10 @@ education:
 
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:ang@cs.stanford.edu'
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:xiaosong.ma@polyu.edu.hk'
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
