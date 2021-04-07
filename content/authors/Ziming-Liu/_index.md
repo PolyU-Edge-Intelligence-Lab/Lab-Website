@@ -2,12 +2,12 @@
 ---
 # Display name
 # Format: Your_given_name Your_surname 
-title: Ziming Liu
+title: Jingcai Guo
 
 # Username
 # Format: this should match the folder name
 authors:
-- Ziming Liu
+- Jingcai-Guo
 
 # Is this the primary user of the site?
 # no need to modify 
@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: PhD Student
+role: Part-time Post-doctral Fellow
 
 # Organizations/Affiliations
 organizations:

@@ -69,4 +69,6 @@ user_groups:
 - Research Staffs
 ---
 
+Junxiao Wang is broadly interested in computer networking with a special focus on software defined networks, virtualized network function and cloud. He once worked as a Visiting Researcher with the Queen Mary, University of London, under the supervision of Prof. Steve Uhlig.
+
 More information please refer to my [homepage](https://jxiao.wang/)
