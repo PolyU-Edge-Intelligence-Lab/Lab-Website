@@ -62,6 +62,10 @@ user_groups:
 - Research Students
 ---
 
+Feijie Wu is currently an M.Phil. student in the Department of Computing at The Hong Kong Polytechnic University. He obtained his B.Sc. degree in Computing from The Hong Kong Polytechnic University in 2020. During his undergraduate study, he also minored in Applied Mathematics and participated in a half-year exchange program in Technical Computer Science at the University of Twente, Netherlands. Besides, he has been working as a research assistant at The University of British Columbia and The Chinese University of Hong Kong, Shenzhen. He was a recipient of Best Student Paper from ACM BSCI'19.
+
+I am now looking for a PhD position at a university ranking Top 30 in the world. If you are interested in my application, please don't hesitate to write me an email.
+
 More information please refer to my [homepage](https://harli.me/)
 
 ---
