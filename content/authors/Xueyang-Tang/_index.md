@@ -7,7 +7,7 @@ title: Xueyang Tang
 # Username
 # Format: this should match the folder name
 authors:
-- Xueyang Tang
+- Xueyang-Tang
 
 # Is this the primary user of the site?
 # no need to modify 
