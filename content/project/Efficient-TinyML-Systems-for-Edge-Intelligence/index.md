@@ -37,8 +37,6 @@ The on-device learning techniques can be employed in many emerging TinyML scenar
 - {{< icon name="github-square" pack="fab" >}}[https://github.com/kimihe](https://github.com/kimihe)
 - {{< icon name="github-square" pack="fab" >}}[https://github.com/FromSystem](https://github.com/FromSystem)
 
-{{< figure src="picture1.svg" caption="Hardware Design and Compoments" >}}
-
 ## Cooperators
 
 Our group have established close cooperation with industrial communities, including Alibaba, Huawei, Nvidia, Webank, Tencent, etc.
