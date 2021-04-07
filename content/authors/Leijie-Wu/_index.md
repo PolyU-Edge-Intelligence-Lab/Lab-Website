@@ -2,12 +2,12 @@
 ---
 # Display name
 # Format: Your_given_name Your_surname 
-title: Jun Pan
+title: Leijie Wu
 
 # Username
 # Format: this should match the folder name
 authors:
-- Jun Pan
+- Leijie-Wu
 
 # Is this the primary user of the site?
 # no need to modify 
@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: MPhil Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -23,33 +23,34 @@ organizations:
   url: ""
 
 interests:
-- Human Posture Estimation
-- Computer Vision
-- On-Device Learning
+- Artificial Intelligence
+- Deep Reinforcement Learning
+- Distributed machine learning
+- Incentive Mechanism
 
 education:
   courses:
-  - course: BSc in Computer Science
-    institution: Northeastern University at Qinhuangdao
-    year: 2016-2020
+  - course: BSc of Science in Automation
+    institution: Beijing Institute of Technology
+    year: 2015-2019
 
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:20031172r@connect.polyu.hk'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=kgLIXdEAAAAJ&hl=zh-CN
-- icon: github
-  icon_pack: fab
-  link: https://github.com/useame
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:ang@cs.stanford.edu'
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
-- icon: cv
-  icon_pack: ai
-  link: resume/cv-jun-pan/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: resume/cv-andrew-ng/cv.pdf
 
 # Choose which group that you belong to
 #  available groups:
@@ -58,10 +59,10 @@ social:
 #  - Research Students (Master/PhD student, e.g.)
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
-user_groups:
+user_groups: 
 - Research Students
 ---
 
-潘駿 is a master of philosophy student at the Hong Kong Polytechnic University. His research interests include On-Device Learning, Computer Vision and Human Posture Estimation.
+Leijie WU is a PhD student in the Deparment of Computing at the Hong Kong Polytechnic University. His research interests including distributed machine learning, Artificial Intelligence, Deep Reinforcement Learning and Incentive Mechanism.
 
 ---

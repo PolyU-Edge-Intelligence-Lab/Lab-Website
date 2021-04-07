@@ -7,7 +7,7 @@ title: Tao Guo
 # Username
 # Format: this should match the folder name
 authors:
-- Tao Guo
+- Tao-Guo
 
 # Is this the primary user of the site?
 # no need to modify 
