@@ -1,12 +1,20 @@
 ---
-title: "A Pre-Authentication Approach to Proxy Re-encryption in Big Data Context"
+title: "A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion"
 authors:
-- Kun Wang
-- Jiahui Yu
-- Xiulong Liu
+- Xuan Song
+- Haoran Zhang
+- Rajendra Akerkar
+- Huawei Huang
 - Song Guo
+- Lei Zhong
+- Yusheng Ji
+- Andreas L. Opdahl
+- Hemant Purohit
+- Andre Skupin
+- Akshay Pottathil
+- Aron Culotta
 
-date: "2017-05-08"
+date: "2020-02-11"
 doi: ""
 
 # Publication type.
@@ -19,7 +27,7 @@ publication_types: ["2"]
 publication: "*IEEE Transactions on Big Data*"
 publication_short: "TBD"
 
-url_pdf: https://ieeexplore.ieee.org/abstract/document/7921569?casa_token=9tuD4wS3wJcAAAAA:tNXhBQqEQAJ2G3RdrMcNB0legbKetx7Hx-6HHWDN9-PUzoFC5YVFdAzoUNJKbm7xVCCrq1BM62g
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8994077
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
