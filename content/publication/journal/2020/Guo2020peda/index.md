@@ -5,7 +5,7 @@ authors:
 - Deze Zeng
 - Shifu Dong
 
-date: "2020-8-4"
+date: "2020-08-04"
 doi: "10.11648/j.ajeit.20200402.13"
 
 # Publication type.
@@ -15,7 +15,7 @@ doi: "10.11648/j.ajeit.20200402.13"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* American Journal of Education and Information Technology*"
+publication: "*American Journal of Education and Information Technology*"
 publication_short: ""
 
 url_pdf: http://article.ajoeit.com/pdf/10.11648.j.ajeit.20200402.13.pdf

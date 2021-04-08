@@ -7,7 +7,7 @@ authors:
 - Wenyao Xu
 - Yanfei Sun
 - Song Guo
-date: "2020-11-9"
+date: "2020-11-09"
 doi: "10.1109/TPDS.2020.3036738"
 
 # Publication type.
