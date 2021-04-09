@@ -9,7 +9,7 @@ date: "2016-10-27"
 external_link: ""
 
 image:
-  caption: Type of Scoliosis 
+  caption: Hardware Platform of TinyML
   focal_point: Smart
 
 # links:
