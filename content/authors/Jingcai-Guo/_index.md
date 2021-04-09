@@ -7,7 +7,7 @@ title: Jingcai Guo
 # Username
 # Format: this should match the folder name
 authors:
-- Jingcai Guo
+- Jingcai-Guo
 
 # Is this the primary user of the site?
 # no need to modify 

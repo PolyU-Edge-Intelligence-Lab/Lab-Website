@@ -2,12 +2,12 @@
 ---
 # Display name
 # Format: Your_given_name Your_surname 
-title: Han WU
+title: Han Wu
 
 # Username
 # Format: this should match the folder name
 authors:
-- Han WU
+- Han-Wu
 
 # Is this the primary user of the site?
 # no need to modify 

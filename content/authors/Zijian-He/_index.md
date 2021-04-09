@@ -2,12 +2,12 @@
 ---
 # Display name
 # Format: Your_given_name Your_surname 
-title: Zijian HE
+title: Zijian He
 
 # Username
 # Format: this should match the folder name
 authors:
-- Zijian HE
+- Zijian-He
 
 # Is this the primary user of the site?
 # no need to modify 
@@ -59,7 +59,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Staffs (RA, Postdoc, RAP, e.g.)
+- Research Staffs
 ---
 
 
