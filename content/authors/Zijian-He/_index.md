@@ -61,7 +61,3 @@ social:
 user_groups:
 - Research Staffs
 ---
-
-
-
----
