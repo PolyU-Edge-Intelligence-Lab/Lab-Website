@@ -41,18 +41,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'jackal.xu@connect.polyu.hk'
-- icon: google-scholar
-  icon_pack: ai
-  link: #
+  link: 'mailto:jackal.xu@connect.polyu.hk'
 - icon: github
   icon_pack: fab
   link: https://github.com/Jackal-Xu
 
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: ''
+
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
-- icon: cv
-  icon_pack: ai
-  link: #
+# - icon: cv
+#   icon_pack: ai
+#   link: #
 
 # Choose which group that you belong to
 #  available groups:
