@@ -19,6 +19,6 @@ The "Challenge Cup" contest, initiated in 1989, has attracted submissions by abo
 
 ## Award Certificate
 
-{{< figure src="image1.svg" caption="Cerficate of Internet+ Contest" >}}
+{{< figure src="image1.jpg" caption="Cerficate of Internet+ Contest" >}}
 
-{{< figure src="image2.svg" caption="Cerficate of Challenge Cup Contest" >}}
+{{< figure src="image2.jpg" caption="Cerficate of Challenge Cup Contest" >}}
