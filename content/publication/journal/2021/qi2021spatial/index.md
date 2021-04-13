@@ -18,8 +18,8 @@ doi: "10.1109/MNET.011.2000278"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Network*"
-publication_short: "MNET"
+publication: "*IEEE Network*" 
+publication_short: "MNET" (JCR-Q1)
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9355045
 # url_code: ''

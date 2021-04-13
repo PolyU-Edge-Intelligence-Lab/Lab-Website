@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Emerging Topics in Computing*"
-# publication_short: ""
+publication_short: "TETCI" (JCR-Q1)
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9369019
 # url_code: ''
