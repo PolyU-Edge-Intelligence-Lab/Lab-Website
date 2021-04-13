@@ -16,8 +16,8 @@ doi: "10.1109/TCC.2021.3067834"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Cloud Computing *"
-publication_short: "TCC"
+publication: "*IEEE Transactions on Cloud Computing*"
+publication_short: "TCC(JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9384218
 # url_code: ''

@@ -18,7 +18,7 @@ doi: "10.1109/TETC.2021.3063517"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Emerging Topics in Computing*"
+publication: "*IEEE Transactions on Emerging Topics in Computing (JCR-Q1)*"
 # publication_short: ""
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9369019
