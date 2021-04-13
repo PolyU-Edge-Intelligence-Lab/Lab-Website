@@ -47,7 +47,7 @@ social:
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
 - icon: cv
   icon_pack: ai
-  link: resume/cv-Yingchun-Wang/cv.pdf
+  link: resume/cv-yingchun-wang/cv.pdf
 
 # Choose which group that you belong to
 #  available groups:

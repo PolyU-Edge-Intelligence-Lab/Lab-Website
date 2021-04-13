@@ -19,8 +19,13 @@ doi: "10.1109/JIOT.2021.3063147"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
+<<<<<<< HEAD
 publication: "*IEEE Internet of Things Journal (JCR-Q1)*"
 # publication_short: ""
+=======
+publication: "*IEEE Internet of Things Journal*"
+publication_short: IoTJ (JCR-Q1)
+>>>>>>> a9e73def39f775ac95062533a6a856e8dd3f392b
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9366901
 # url_code: ''

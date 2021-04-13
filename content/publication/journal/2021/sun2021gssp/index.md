@@ -19,7 +19,11 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Cloud Computing*"
+<<<<<<< HEAD
 publication_short: "TCC (JCQ-Q1)"
+=======
+publication_short: "TCC (JCR-Q1)"
+>>>>>>> a9e73def39f775ac95062533a6a856e8dd3f392b
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9364710
 # url_code: ''

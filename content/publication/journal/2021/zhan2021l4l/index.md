@@ -16,8 +16,8 @@ doi: "10.1109/TC.2021.3068219"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Computers *"
-publication_short: "TC"
+publication: "*IEEE Transactions on Computers*"
+publication_short: "TC (CCF-A)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9384231
 # url_code: ''
