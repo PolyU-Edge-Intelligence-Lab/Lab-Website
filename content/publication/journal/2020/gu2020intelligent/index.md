@@ -1,5 +1,5 @@
 ---
-title: "Intelligent {VNF} Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning"
+title: "Intelligent VNF Orchestration and Flow Scheduling via Model-Assisted Deep Reinforcement Learning"
 authors:
 - Lin Gu
 - Deze Zeng
@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: "JSAC"
+publication_short: "JSAC (CCF-A)"
 
 url_pdf: https://ieeexplore.ieee.org/document/8931775
 # url_code: ''

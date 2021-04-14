@@ -20,8 +20,8 @@ doi: "10.1109/MWC.2019.1900027"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Wireless Communications Magazine*"
-publication_short: ""
+publication: "*IEEE Wireless Communications*"
+publication_short: "(JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/document/8786074
 # url_code: ''

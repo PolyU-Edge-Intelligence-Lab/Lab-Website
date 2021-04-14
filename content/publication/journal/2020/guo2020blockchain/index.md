@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Vehicular Technology*"
-publication_short: ""
+publication_short: "TVT (JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/document/9042359
 # url_code: ''
