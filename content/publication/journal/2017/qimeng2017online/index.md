@@ -15,7 +15,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*ZTE Communications*"
-#publication_short: "TPDS"
+#publication_short: ""
 
 url_pdf: http://tech-en.zte.com.cn/EN/10.3969/j.issn.1673-5188.2017.04.005
 # url_code: ''

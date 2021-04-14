@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE MultiMedia*"
-publication_short: "MMUL"
+publication_short: "MMUL (JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8100672
 # url_code: ''

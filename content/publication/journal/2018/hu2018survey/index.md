@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Wireless Networks*"
-#publication_short: "TMC"
+#publication_short: "TMC (JCR-Q2)"
 
 url_pdf: https://link.springer.com/article/10.1007/s11276-016-1358-0
 # url_code: ''

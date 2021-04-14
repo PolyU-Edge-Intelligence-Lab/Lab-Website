@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Elsevier Computer Networks*"
-publication_short: "COMNET"
+publication_short: "COMNET (JCR-Q2)"
 
 url_pdf: https://www.sciencedirect.com/science/article/pii/S1389128617304292
 # url_code: ''

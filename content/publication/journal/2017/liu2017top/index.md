@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE/ACM Transactions on Networking*"
-publication_short: "TNET"
+publication_short: "TNET (JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8013108
 # url_code: ''
