@@ -1,14 +1,13 @@
 ---
-title: "A Q-Learning Based Framework for Congested Link Identification"
+title: "Machine fault detection for intelligent self-driving networks"
 authors:
-- Shengli Pan
-- Peng Li
-- Deze Zeng
+- Huakun Huang
+- Lingjun Zhao
+- Huawei Huang
 - Song Guo
-- Guangmin Hu
 
-date: "2019-07-23"
-doi: "https://doi.org/10.1109/JIOT.2019.2930459"
+date: "2020-01-27"
+doi: "https://doi.org/10.1109/MCOM.001.1900283"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -17,10 +16,10 @@ doi: "https://doi.org/10.1109/JIOT.2019.2930459"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Internet of Things Journal*"
-publication_short: "JIOT (JCR-Q1)"
+publication: "*IEEE Communications Magazine*"
+publication_short: "MCOM"
 
-url_pdf: https://ieeexplore.ieee.org/abstract/document/8769959
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8970164
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
