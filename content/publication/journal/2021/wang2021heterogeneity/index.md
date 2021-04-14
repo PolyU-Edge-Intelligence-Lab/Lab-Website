@@ -20,11 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Computers*"
-<<<<<<< HEAD
-# publication_short: "TC (JCR-Q1)"
-=======
 publication_short: "TC (CCF-A)"
->>>>>>> a9e73def39f775ac95062533a6a856e8dd3f392b
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9368996
 # url_code: ''
