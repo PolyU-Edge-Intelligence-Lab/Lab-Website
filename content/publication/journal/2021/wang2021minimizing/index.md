@@ -17,13 +17,8 @@ doi: "10.1109/TMC.2021.3053136"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-<<<<<<< HEAD
-publication: "*IEEE Transactions on Mobile Computing (JCR-Q1)*"
-# publication_short: ""
-=======
 publication: "*IEEE Transactions on Mobile Computing*"
 publication_short: "TMC (CCF-A)"
->>>>>>> a9e73def39f775ac95062533a6a856e8dd3f392b
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9332275
 # url_code: ''
