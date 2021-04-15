@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE/ACM Transactions on Networking*"
-publication_short: ""
+publication_short: "TON(CCF-A)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/7574264
 # url_code: ''

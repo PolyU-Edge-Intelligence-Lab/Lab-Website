@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Network*"
-publication_short: "IEEE Network"
+publication_short: "IEEE Network (JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/document/7994916
 # url_code: ''

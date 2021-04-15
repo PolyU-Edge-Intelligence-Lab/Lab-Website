@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Information Forensics and Security*"
-publication_short: ""
+publication_short: "TIFS(CCF-A)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/7555360
 # url_code: ''

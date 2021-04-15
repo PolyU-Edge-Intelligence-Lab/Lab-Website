@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: ""
+publication_short: "JSAC(CCF-A)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/7583673
 # url_code: ''
