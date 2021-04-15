@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Sensing, Communication, and Networking*
-publication_short: In *SECON*
+publication_short: In *SECON (CCF-B)*
 
 # links:
 # - name: Custom Link

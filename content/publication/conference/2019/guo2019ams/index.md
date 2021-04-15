@@ -15,7 +15,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Multimedia and Expo*
-publication_short: In *ICME*
+publication_short: In *ICME (CCF-B)*
 
 # links:
 # - name: Custom Link

@@ -15,7 +15,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Acoustics, Speech and Signal Processing*
-publication_short: In *ICASSP*
+publication_short: In *ICASSP (CCF-B)*
 
 # links:
 # - name: Custom Link
