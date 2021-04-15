@@ -66,7 +66,7 @@ user_groups:
 - Research Students
 ---
 
-Rui Zhang (张瑞) is a PhD student in Computer Science at The Hong Kong Polytechnic University, supervised by Prof. [Song Guo](https://www.comp.polyu.edu.hk/en-us/staffs/detail/4511) *(IEEE Fellow)*. Before that, he received his M.E. degree in Control Science and Engineering from Zhejiang University, supervised by Prof. Peng Cheng and Prof. Jiming Chen *(IEEE Fellow)*.
+Rui Zhang (张瑞) is a PhD student in Computer Science at The Hong Kong Polytechnic University, supervised by Prof. [Song Guo](https://www.comp.polyu.edu.hk/en-us/staffs/detail/4511) *(IEEE Fellow)*. Before that, he received his M.E. degree in Control Science and Engineering from Zhejiang University, supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/en/jmchen) *(IEEE Fellow)* and Prof. [Peng Cheng](https://person.zju.edu.cn/en/cp).
 
 ---
 
