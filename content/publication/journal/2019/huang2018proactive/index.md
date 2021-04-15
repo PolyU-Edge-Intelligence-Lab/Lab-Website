@@ -16,7 +16,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Communications Magazine*"
-publication_short: "IEEE COMMUN MAG"
+publication_short: "IEEE COMMUN MAG (JCR-Q1)"
 
 #url_pdf: ''
 # url_code: ''
