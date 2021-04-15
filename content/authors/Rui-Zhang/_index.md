@@ -2,12 +2,12 @@
 ---
 # Display name
 # Format: Haozhao Wang 
-title: Haozhao Wang
+title: Rui Zhang
 
 # Username
 # Format: this should match the folder name
 authors:
-- Haozhao-Wang
+- Rui Zhang
 
 # Is this the primary user of the site?
 # no need to modify
@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Research Assistant
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -23,30 +23,34 @@ organizations:
   url: ""
 
 interests:
-- Distributed Learning
 - Federated Learning
-- Adversarial Learning
+- Differential Privacy
+- AI Privacy & Security
 
 education:
   courses:
-  - course: RA in Computer Science
-    institution: The Hong Kong Polytechnic University
-    year: 2018-2021
-  - course: PhD in Computer Science
-    institution: Huazhong University of Science and Technology
-    year: 2016-2018
-  - course: BSc in Computer Science
-    institution: University of Electronic Science and Technology of China
-    year: 2012-2016
+
+  - course: M.Eng. in Control Science and Engineering
+    institution: Zhejiang University
+    year: 2017-2020
+  - course: B.Eng. in Automation Engineering
+    institution: Northeastern University
+    year: 2013-2017
 
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
 social:
+- icon: house-user
+  icon_pack: fas
+  link: https://csrzhang.github.io/
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hzhaowang@polyu.edu.hk'
+  link: 'mailto:csrzhang1@comp.polyu.edu.hk'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/csrzhang
+  #- icon: google-scholar
 
-#- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 #- icon: github
@@ -66,7 +70,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Staffs
+- Research Students
 ---
 
-王号召 is a Research Assistant of computer science at the Edge Intelligence Lab. His research interests include Distributed Learning, Federated Learning and Adversarial Learning. 
+Rui Zhang (张瑞) is a PhD student in Computer Science at The Hong Kong Polytechnic University, supervised by Prof. [Song Guo](https://www.comp.polyu.edu.hk/en-us/staffs/detail/4511) *(IEEE Fellow)*. Before that, he received his M.E. degree in Control Science and Engineering from Zhejiang University, supervised by Prof. Peng Cheng and Prof. Jiming Chen *(IEEE Fellow)*.
