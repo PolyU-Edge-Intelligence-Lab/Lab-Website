@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ACM International Conference on Multimedia*
-publication_short: In *MM*
+publication_short: In *MM (CCF-A)*
 
 # links:
 # - name: Custom Link

@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Parallel and Distributed Systems*
-publication_short: In *ICDCS*
+publication_short: In *ICDCS(CCF-B)*
 
 # links:
 # - name: Custom Link

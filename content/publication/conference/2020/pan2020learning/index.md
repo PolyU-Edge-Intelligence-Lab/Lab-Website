@@ -24,7 +24,7 @@ publication_short: In *Globecom*
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9348038
+url_pdf:"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9348038"
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
