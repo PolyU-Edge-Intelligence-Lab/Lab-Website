@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Communications Letter*"
-publication_short: "LCOMM"
+publication_short: "LCOMM(JCR-Q2)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8606120
 # url_code: ''

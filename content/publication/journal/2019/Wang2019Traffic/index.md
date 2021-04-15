@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Industrial Informatics*"
-publication_short: "TII"
+publication_short: "TII(JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8552454
 # url_code: ''

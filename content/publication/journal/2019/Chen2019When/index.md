@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Network Magazine*"
-publication_short: "MNET"
+publication_short: "MNET(JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8675170
 # url_code: ''
