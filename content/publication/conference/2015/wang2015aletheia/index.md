@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ACM Symposium on Mobile Ad Hoc Networking and Computing*
-publication_short: In *MobiHoc*
+publication_short: In *MobiHoc(CCF-B)*
 
 # links:
 # - name: Custom Link

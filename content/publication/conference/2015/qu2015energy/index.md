@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Conference on Parallel Processing *
-publication_short: In *ICPP*
+publication_short: In *ICPP(CCF-B)*
 
 # links:
 # - name: Custom Link

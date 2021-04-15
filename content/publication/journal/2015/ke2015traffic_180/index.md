@@ -16,7 +16,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Parallel and Distributed Systems*"
-publication_short: "IEEE T PARALL DISTR"
+publication_short: "IEEE TPDS(CCF-A)"
 
 url_pdf: http://syslog.co.in/java-projects/big-data-projects/On%20Traffic-Aware%20Partition%20and%20Aggregation%20in%20MapReduce%20for%20Big%20Data%20Applications.pdf
 # url_code: ''
