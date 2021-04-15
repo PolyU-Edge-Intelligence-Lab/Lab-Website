@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Services Computing*"
-publication_short: "TSC"
+publication_short: "TSC (CCF-B, JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/document/8960300
 # url_code: ''

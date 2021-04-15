@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Cognitive Communications and Networking*"
-publication_short: "TCCN"
+publication_short: "TCCN (JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/document/9037107
 # url_code: ''

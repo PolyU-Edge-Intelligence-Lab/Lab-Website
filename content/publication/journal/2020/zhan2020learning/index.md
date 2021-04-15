@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Internet of Things Journal*"
-publication_short: "IoTJ"
+publication_short: "IoTJ (JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/document/8963610
 # url_code: ''
