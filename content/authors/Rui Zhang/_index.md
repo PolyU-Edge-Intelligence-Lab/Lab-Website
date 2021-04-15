@@ -7,7 +7,7 @@ title: Rui Zhang
 # Username
 # Format: this should match the folder name
 authors:
-- Rui-Zhang
+- Rui Zhang
 
 # Is this the primary user of the site?
 # no need to modify 
@@ -20,7 +20,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: The Hong Kong Polytechnic University
-  url: ""
+  url: "https://www.polyu.edu.hk/"
 
 interests:
 - Federated Learning
@@ -29,10 +29,11 @@ interests:
 
 education:
   courses:
-  - course: M.E. in Control Science and Engineering
+
+  - course: M.Eng. in Control Science and Engineering
     institution: Zhejiang University
     year: 2017-2020
-  - course: B.E. in Automation Engineering
+  - course: B.Eng. in Automation Engineering
     institution: Northeastern University
     year: 2013-2017
 
@@ -50,9 +51,9 @@ social:
   link: https://www.linkedin.com/in/csrzhang
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
-# - #icon: cv
-# icon_pack: ai
-# link: 
+- #icon: cv
+  #icon_pack: ai
+  #link: 
 
 # Choose which group that you belong to
 #  available groups:
@@ -65,7 +66,7 @@ user_groups:
 - Research Students
 ---
 
-Rui Zhang is a PhD student in Computer Science at The Hong Kong Polytechnic University, supervised by Prof. [Song Guo](https://www.comp.polyu.edu.hk/en-us/staffs/detail/4511) *(IEEE Fellow)*. Before that, he received his M.E. degree in Control Science and Engineering from Zhejiang University, supervised by Prof. [Jiming Chen](https://person.zju.edu.cn/en/jmchen) *(IEEE Fellow)* and Prof. [Peng Cheng](https://person.zju.edu.cn/en/cp).
+Rui Zhang (张瑞) is a PhD student in Computer Science at The Hong Kong Polytechnic University, supervised by Prof. [Song Guo](https://www.comp.polyu.edu.hk/en-us/staffs/detail/4511) *(IEEE Fellow)*. Before that, he received his M.E. degree in Control Science and Engineering from Zhejiang University, supervised by Prof. Peng Cheng and Prof. Jiming Chen *(IEEE Fellow)*.
 
 ---
 

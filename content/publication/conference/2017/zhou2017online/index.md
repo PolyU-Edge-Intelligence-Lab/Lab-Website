@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Global Telecommunications Conference*
-publication_short: In *Globecom*
+publication_short: In *GLOBECOM*
 
 # links:
 # - name: Custom Link
