@@ -3,7 +3,7 @@ title: "Incentive-Driven Long-term Optimization for Edge Learning by Hierarchica
 authors:
 - Yi Liu
 - Leijie Wu
-- Yufen Zhan
+- Yufeng Zhan
 - Song Guo
 - Zicong Hong
 date: "2021-04-01"
