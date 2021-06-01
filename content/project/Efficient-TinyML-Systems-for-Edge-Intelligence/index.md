@@ -31,6 +31,8 @@ Modern machine learning (ML) applications are often deployed in the cloud enviro
 
 Observing the substantial improvement space in the implementation and acceleration of on-device learning systems, our group devote to designing high-performance TinyML architectures and relevant optimization algorithms, especially for embedded devices and microprocessors. Our research focuses on the software and hardware synergy of on-device learning techniques, covering the scope of model-level neural network design, algorithm-level training optimization and hardware-level instruction acceleration.
 
+{{< figure src="1.png" }}
+
 ## Achievements
 
 The on-device learning techniques can be employed in many emerging TinyML scenarios, where the system performance if often bounded by the limited hardware resources. Currently, our group have achieved breakthroughs on improving the computational capacity and designing domain-specific AI chips for task acceleration. These chips can be designed from the perspectives of model compression, few-shot learning, quantization-ware training, memory management and the low-level instructions. We pursue the vision that helps researchers and developers optimize AI deployment without tedious code modifications. Some research demos have been open-source on Github, please visit at:
