@@ -9,7 +9,7 @@ date: "2016-10-27"
 external_link: ""
 
 image:
-  caption: Hardware Platform of TinyML
+  caption: On-device Learning Paradigm for Edge Intelligence
   focal_point: Smart
 
 # links:
@@ -31,7 +31,7 @@ Modern machine learning (ML) applications are often deployed in the cloud enviro
 
 Observing the substantial improvement space in the implementation and acceleration of on-device learning systems, our group devote to designing high-performance TinyML architectures and relevant optimization algorithms, especially for embedded devices and microprocessors. Our research focuses on the software and hardware synergy of on-device learning techniques, covering the scope of model-level neural network design, algorithm-level training optimization and hardware-level instruction acceleration.
 
-{{< figure src="1.png" caption="" >}}
+{{< figure src="1.png" caption="Hardware Platform of TinyML" >}}
 
 ## Achievements
 
