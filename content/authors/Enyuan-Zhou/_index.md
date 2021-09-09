@@ -6,7 +6,7 @@ authors:
 
 superuser: false
 
-role: Research Assistant
+role: PhD Student
 
 organizations:
 - name: The Hong Kong Polytechnic University
@@ -29,7 +29,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:enyuan.zhou@polyu.edu.hk'
+  link: 'mailto:21038299r@connect.polyu.hk'
 - icon: github
   icon_pack: fab
   link: https://github.com/garlicZhou
@@ -40,10 +40,10 @@ social:
 highlight_name: false
 
 user_groups:
-- Research Staffs
+- Research Students
 ---
 
-Enyuan Zhou is a research assistant in the Department of Computing at Hong Kong Polytechnic University, Hong Kong SAR, China, supervised by Prof. Song Guo, Fellow of IEEE.  He received B.E. degree in information security from Northeastern University, and he is pursuing his M.Sc. degree at Xidian University, supervised by Prof. Qingqi Pei in ISN.
+Enyuan Zhou is a research student in the Department of Computing at Hong Kong Polytechnic University, Hong Kong SAR, China, supervised by Prof. Song Guo, Fellow of IEEE.  He received B.E. degree in information security from Northeastern University, and obtained his M.Sc. degree from Xidian University in cyberspace security, supervised by Prof. Qingqi Pei in ISN.
 
 His research interests include blockchain, database and information retrieval.
 
