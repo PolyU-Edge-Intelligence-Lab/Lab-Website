@@ -3,11 +3,12 @@ title: "Incentive-Driven Long-term Optimization for Edge Learning by Hierarchica
 authors:
 - Yi Liu
 - Leijie Wu
-- Yufeng Zhan
+- Yufen Zhan
 - Song Guo
 - Zicong Hong
-date: "2021-04-01"
+date: "2021-07"
 doi: ""
+
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,8 +17,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*IEEE International Conference on Parallel and Distributed Systems*"
-publication_short: In "*ICDCS* (CCF-B)"
+publication: In * IEEE International Conference on Parallel and Distributed Systems*
+publication_short: In *ICDCS*
 
 # links:
 # - name: Custom Link

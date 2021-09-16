@@ -1,13 +1,13 @@
 ---
-title: "MVCom: Scheduling Most Valuable Committees for the Large-Scale Sharded Blockchain"
+title: "Revisiting Double-Spending Attacks on the Bitcoin Blockchain: New Findings"
 authors:
+- Jian Zheng
 - Huawei Huang
-- Zhenyi Huang
-- Xiaowen Peng
+- Canlin Li
 - Zibin Zheng
 - Song Guo
-date: "2021-07"
-doi: ""
+date: "2021-06"
+doi: "10.1109/IWQOS52092.2021.9521306"
 
 
 # Publication type.
@@ -17,13 +17,13 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Distributed Computing Systems*
-publication_short: In *ICDCS*
+publication: In *IEEE/ACM International Symposium on Quality of Service*
+publication_short: In *IWQOS*
 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://www.researchgate.net/profile/Huawei-Huang-4/publication/350152541_MVCom_Scheduling_Most_Valuable_Committees_for_the_Large-Scale_Sharded_Blockchain/links/607e82d22fb9097c0cf75d76/MVCom-Scheduling-Most-Valuable-Committees-for-the-Large-Scale-Sharded-Blockchain.pdf
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9521306
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

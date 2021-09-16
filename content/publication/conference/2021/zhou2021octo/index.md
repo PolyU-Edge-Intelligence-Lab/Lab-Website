@@ -1,12 +1,16 @@
 ---
-title: "MVCom: Scheduling Most Valuable Committees for the Large-Scale Sharded Blockchain"
+title: "Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning"
 authors:
-- Huawei Huang
-- Zhenyi Huang
-- Xiaowen Peng
-- Zibin Zheng
+- Qihua Zhou
 - Song Guo
-date: "2021-07"
+- Zhihao Qu
+- Jingcai Guo
+- Zhenda Xu
+- Jiewei Zhang
+- Tao Guo
+- Boyuan Luo
+- Jingren Zhou
+date: "2021-07-14"
 doi: ""
 
 
@@ -17,13 +21,13 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Distributed Computing Systems*
-publication_short: In *ICDCS*
+publication: In *USENIX Annual Technical Conference*
+publication_short: In *USENIX ATC*
 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://www.researchgate.net/profile/Huawei-Huang-4/publication/350152541_MVCom_Scheduling_Most_Valuable_Committees_for_the_Large-Scale_Sharded_Blockchain/links/607e82d22fb9097c0cf75d76/MVCom-Scheduling-Most-Valuable-Committees-for-the-Large-Scale-Sharded-Blockchain.pdf
+url_pdf: https://www.usenix.org/system/files/atc21-zhou.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
