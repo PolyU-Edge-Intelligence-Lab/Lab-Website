@@ -65,7 +65,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Visitors
+- Research Students
 ---
 
 Peiran Dong (董沛然) is currently pursuing the PhD degree in The Hong Kong Polytechnic University. His research interests include efficient neural networks, network compression and data quantization. 
