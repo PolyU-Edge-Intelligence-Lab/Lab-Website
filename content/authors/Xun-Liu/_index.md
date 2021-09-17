@@ -29,7 +29,8 @@ interests:
 
 education:
   courses:
-  - course: MEng in Computer Software and Theory
+
+  - course: MSc in Computer Software and Theory
     institution: University of Chinese Academy of Sciences
     year: 2017-2020
   - course: BSc in Computer Science
