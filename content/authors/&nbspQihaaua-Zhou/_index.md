@@ -1,9 +1,15 @@
-
 ---
-# Qihua Zhou 
-title: Qihua Zhou
 
-# Qihua Zhou
+# Display name
+
+# Format: Your_given_name Your_surname 
+
+title: Qihh Zhou
+
+# Username
+
+# Format: this should match the folder name
+
 authors:
 - Qihua-Zhou
 
