@@ -4,7 +4,7 @@
 
 # Format: Your_given_name Your_surname 
 
-title: &nbsp Qihua Zhou
+title: Qihua Zhou
 
 # Username
 
