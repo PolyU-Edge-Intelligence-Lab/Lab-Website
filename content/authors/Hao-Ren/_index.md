@@ -42,9 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:hao1991.ren@polyu.edu.hk'
- - icon: google-scholar
-    icon_pack: ai
-link:'https://scholar.google.com/citations?user=P_ImPS0AAAAJ&hl=zh-CN'
+- icon: google-scholar
+  icon_pack: ai
+  link:'https://scholar.google.com/citations?user=P_ImPS0AAAAJ&hl=zh-CN'
 # - icon: github
 #   icon_pack: fab
 #   link: ''
