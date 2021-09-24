@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:csqhou@comp.polyu.edu.hk'
+  link: 'mailto:csqzhou@comp.polyu.edu.hk'
 - icon: github
   icon_pack: fab
   link: https://github.com/kimihe
