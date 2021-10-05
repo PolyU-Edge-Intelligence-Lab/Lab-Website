@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Conference on Neural Information Processing Systems*
-publication_short: In *NeurIPS (CCF-A)*
+publication_short: In *NeurIPS* (CCF-A)
 
 # links:
 # - name: Custom Link
