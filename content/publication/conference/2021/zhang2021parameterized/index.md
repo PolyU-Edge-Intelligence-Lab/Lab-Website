@@ -7,7 +7,7 @@ authors:
 - Haozhao Wang
 - Wenchao Xu
 - Feijie Wu
-date: "2021-12-01"
+date: "2021-01-01"
 doi: ""
 
 
@@ -18,8 +18,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conference on Neural Information Processing Systems*
-publication_short: In *NeurIPS* (CCF-A)
+publication: In "*Conference on Neural Information Processing Systems*"
+publication_short: In "*NeurIPS* (CCF-A)"
 
 # links:
 # - name: Custom Link
