@@ -19,8 +19,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ACM Symposium on Cloud Computing*
-publication_short: In *ACM SoCC*
+publication: In "*ACM Symposium on Cloud Computing*"
+publication_short: In "*ACM SoCC*"
 
 # links:
 # - name: Custom Link
