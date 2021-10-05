@@ -22,7 +22,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *USENIX Annual Technical Conference*
-publication_short: In *USENIX ATC*
+publication_short: In *USENIX ATC* (CCF-A)
 
 # links:
 # - name: Custom Link
