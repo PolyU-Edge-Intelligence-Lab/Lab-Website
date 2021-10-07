@@ -1,12 +1,14 @@
 ---
-title: "Incentive-Driven Long-term Optimization for Edge Learning by Hierarchical Reinforcement Mechanism"
+title: "Edge Learning: The Enabling Technology for Distributed Big Data Analytics in the Edge"
 authors:
-- Yi Liu
-- Leijie Wu
-- Yufen Zhan
-- Song Guo
-- Zicong Hong
-date: "2021-07-01"
+- Jie Zhang  
+- Zhihao Qu  
+- Chenxi Chen 
+- Haozhao Wang 
+- Yufeng Zhan 
+- Baoliu Ye  
+- Song Guo 
+date: "2021-07-18"
 doi: ""
 
 
@@ -14,22 +16,22 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In * IEEE International Conference on Parallel and Distributed Systems*
-publication_short: In *ICDCS*
+publication: In *ACM Computing Surveys*
+publication_short: In *ACM Computing Surveys* 
 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3464419
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-  url_slides: 'https://docs.google.com/presentation/d/102VqdcMJwJ_yw8YdagS4EsD4DBIUOihU/edit?usp=sharing&ouid=110676489435373231463&rtpof=true&sd=true'
-  url_video: 'https://www.youtube.com/watch?v=lFqrhjRzYCA'
+# url_slides: ''
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
