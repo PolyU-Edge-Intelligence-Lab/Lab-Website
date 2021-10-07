@@ -30,7 +30,7 @@ publication_short: In *USENIX ATC* (CCF-A)
 url_pdf: https://www.usenix.org/system/files/atc21-zhou.pdf
 # url_code: '#'
 # url_dataset: '#'
-# url_poster: '#'
+  url_poster: 'https://www.usenix.org/conference/atc21/presentation/zhou-qihua'
 # url_project: ''
 # url_slides: ''
 # url_video: '#'
