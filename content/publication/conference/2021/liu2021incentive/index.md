@@ -27,8 +27,8 @@ publication_short: In *ICDCS*
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
-# url_project: ''
-  url_slides: 'https://docs.google.com/presentation/d/102VqdcMJwJ_yw8YdagS4EsD4DBIUOihU/edit?usp=sharing&ouid=110676489435373231463&rtpof=true&sd=true'
+# url_project: '#'
+#  url_slides: ''
   url_video: 'https://www.youtube.com/watch?v=lFqrhjRzYCA'
 
 # Featured image
