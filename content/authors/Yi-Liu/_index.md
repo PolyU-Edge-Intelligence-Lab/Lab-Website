@@ -67,6 +67,6 @@ user_groups:
 - Research Students
 ---
 
-Yi Liu is a PhD Student of artificial intelligence. His research interests include reinforcement learning, edge computing, federated learning and neural architecture search. 
+Yi Liu is a PhD Student of artificial intelligence. His research interests include reinforcement learning, edge computing, federated learning and neural architecture search.  
 
 ---
