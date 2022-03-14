@@ -11,5 +11,5 @@ Congratulations to Professor Song Guo for 2020 Best Paper Award for IEEE Transac
 
 ## Award Certificate
 
-{{< figure src="IEEE-CS-Best Paper Award_TC_Guo.pdf" caption="Certificate of Internet+ Contest" >}}
+{{< figure src="1.png" caption="Certificate of Internet+ Contest" >}}
 
