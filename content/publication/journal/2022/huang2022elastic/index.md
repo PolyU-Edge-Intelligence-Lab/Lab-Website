@@ -1,5 +1,6 @@
 ---
 title: "Elastic Resource Allocation against Imbalanced Transaction Assignments in Sharding-based Permissioned Blockchains"
+authors:
 - Huawei Huang
 - Zhengyu Yue
 - Xiaowen Peng

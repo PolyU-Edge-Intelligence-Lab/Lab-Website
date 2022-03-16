@@ -1,5 +1,6 @@
 ---
 title: "Server Placement for Edge Computing: A Robust Submodular Maximization Approach"
+authors:
 - Zhaolong Ning
 - Yuxuan Yang
 - Xiaojie Wang

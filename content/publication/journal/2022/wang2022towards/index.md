@@ -1,5 +1,6 @@
 ---
 title: "Towards Predictive Forwarding Strategy in Vehicular Named Data Networking"
+authors:
 - Junxia Wang
 - Jiangtao Luo
 - Yongyi Ran

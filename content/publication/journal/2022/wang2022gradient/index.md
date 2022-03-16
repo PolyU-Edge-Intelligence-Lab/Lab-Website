@@ -1,5 +1,6 @@
 ---
 title: "Gradient Scheduling with Global Momentum for Asynchronous Federated Learning in Edge Environment"
+authors:
 - Haozhao Wang
 - Ruixuan Li
 - Chengjie Li

@@ -1,5 +1,6 @@
 ---
 title: "SDN-based Resource Allocation in Edge and Cloud Computing Systems: An Evolutionary Stackelberg Differential Game Approach"
+authors:
 - Jun Du
 - Chunxiao Jiang
 - Abderrahim Benslimane

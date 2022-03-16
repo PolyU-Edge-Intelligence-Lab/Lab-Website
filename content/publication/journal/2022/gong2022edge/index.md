@@ -1,5 +1,6 @@
 ---
 title: "Edge Intelligence-driven Joint Offloading and Resource Allocation for Future 6G Industrial Internet of Things"
+authors:
 - Yongkang Gong
 - Haipeng Yao
 - Jingjing Wang
