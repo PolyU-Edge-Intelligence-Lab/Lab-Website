@@ -7,8 +7,6 @@ date: 2021-12-07
 
 <!--more-->
 
-[Related Links](https://jnamaral.github.io/icpp20/program/)
-
 ## Award Certificate
 
 {{< figure src="1.jpg" caption="Certificate of Internet+ Contest" >}}
