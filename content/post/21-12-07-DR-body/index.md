@@ -7,6 +7,8 @@ date: 2021-12-07
 
 <!--more-->
 
+[Related Links](https://mp.weixin.qq.com/s/NElnRdORmRUFyCqN-oqUFQ)
+
 ## Award Certificate
 
 {{< figure src="1.jpg" caption="Certificate of Internet+ Contest" >}}
