@@ -1,5 +1,6 @@
 ---
 title: "Server Placement for Edge Computing: A Robust Submodular Maximization Approach"
+authors:
 - Jing Li
 - Weifa Liang
 - Yuchen Li
