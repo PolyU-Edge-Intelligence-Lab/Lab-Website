@@ -2,7 +2,7 @@
 ---
 # Display name
 # Format: Your_given_name Your_surname 
-title: Pan Junbao
+title: Junbao Pan
 
 # Username
 # Format: this should match the folder name
@@ -41,7 +41,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'csjbpan@comp.polyu.edu.hk'
-#- icon: github
+  #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 
