@@ -1,14 +1,13 @@
 ---
-title: "Lasagna: Accelerating Secure Deep Learning Inference in SGX-enabled Edge Cloud"
+title: "CYCLE: Sustainable Off-Chain Payment Channel Network with Asynchronous Rebalancing"
 authors:
-- Yuepeng Li
-- Deze Zeng
-- Lin Gu
-- Quan Chen
+- Zicong Hong
 - Song Guo
-- Albert Zomaya
-- Minyi Guo
-date: "2021-09-01"
+- Rui Zhang
+- Peng Li
+- Yufeng Zhan
+- Wuhui Cheng
+date: "2022-01-01"
 doi: ""
 
 
@@ -19,13 +18,13 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*ACM Symposium on Cloud Computing*"
-publication_short: In "*ACM SoCC*"
+publication: In "*the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks*"
+publication_short: In "*DSN* (CCF-B)"
 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: https://www.usenix.org/system/files/atc21-zhou.pdf
+# url_pdf: 
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

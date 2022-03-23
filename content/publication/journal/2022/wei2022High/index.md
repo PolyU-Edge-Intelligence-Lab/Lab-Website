@@ -1,12 +1,13 @@
 ---
-title: "Gradient Scheduling with Global Momentum for Asynchronous Federated Learning in Edge Environment"
+title: "High Performance UAV Crowdsensing: A Deep Reinforcement Learning Approach"
 authors:
-- Haozhao Wang
-- Ruixuan Li
-- Chengjie Li
-- Pan Zhou
-- Yuhua Li
-- Wenchao Xu
+- Kaimin Wei
+- Kai Huang
+- Yongdong Wu
+- Zhetao Li
+- Hongliang He
+- Jilian Zhang
+- Jinpeng Chen
 - Song Guo
 
 date: "2022-01-01"
@@ -20,9 +21,9 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Internet of Things Journal*"
-publication_short: "IoTJ (JCR-Q1)"
+publication_short: "IOTJ (JCR-Q1)"
 
-# url_pdf: 
+# url_pdf: https://ieeexplore.ieee.org/abstract/document/9699396
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

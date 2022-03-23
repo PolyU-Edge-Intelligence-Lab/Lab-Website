@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Network Science and Engineering*"
-publication_short: ""
+publication_short: "TNSE (JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
 # url_code: ''

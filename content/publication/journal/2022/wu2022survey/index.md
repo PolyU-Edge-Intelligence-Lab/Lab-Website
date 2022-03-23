@@ -1,7 +1,7 @@
 ---
 title: "A Survey of Intelligent Network Slicing Management for Industrial IoT: Integrated Approaches for Smart Transportation, Smart Energy, and Smart Factory"
 authors:
-- yulei Wu
+- Yulei Wu
 - Hong-Ning Dai
 - Haozhe Wang
 - Zehui Xiong
@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Communications Surveys and Tutorials*"
-publication_short: ""
+publication_short: "CST (JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9732420
 # url_code: ''
