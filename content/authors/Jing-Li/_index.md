@@ -65,3 +65,4 @@ user_groups:
 ---
 
 Jing Li received the PhD degree and the BSc degree with the first class Honours from The Australian National University in 2022 and 2018, respectively. He is currently a postdoctoral fellow at The Hong Kong Polytechnic University. His research interests include mobile edge computing, internet of things, network function virtualization, and combinatorial optimization. He has published papers in top journals and conferences such as IEEE TMC, IEEE TPDS, ACM TOSN, and IEEE ICDCS.
+
