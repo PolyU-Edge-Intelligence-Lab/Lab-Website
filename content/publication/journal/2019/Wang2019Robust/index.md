@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Big Data*"
-publication_short: "TBDATA"
+publication_short: "TBDATA(CCF-C)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/7968454
 # url_code: ''

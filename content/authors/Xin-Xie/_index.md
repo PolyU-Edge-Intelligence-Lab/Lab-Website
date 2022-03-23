@@ -62,3 +62,5 @@ email: ""
 user_groups:
 - Research Staffs
 ---
+
+Xin Xie's research interests include RFID technologies and wireless networks. He once worked as a Research Assistant with The Hong Kong Polytechnic University, under the supervision of Prof. Bing Xiao. He also worked as a Visiting Researcher with the Purdue University, under the supervision of Prof. He Wang.

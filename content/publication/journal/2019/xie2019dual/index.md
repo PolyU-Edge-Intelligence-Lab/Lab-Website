@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Computer Networks*"
-publication_short: "comnet"
+publication_short: "CN (CCF-B)"
 
 url_pdf: https://www.sciencedirect.com/science/article/pii/S1389128619303962?casa_token=RYaQFKqFxb0AAAAA:CnzD7S_o_TWReDW-CjJRqs3NsLAc9N75wfMOqzlS0udoM13JmO14rEKjO5PmwFzDgXAcWVoZ
 # url_code: ''

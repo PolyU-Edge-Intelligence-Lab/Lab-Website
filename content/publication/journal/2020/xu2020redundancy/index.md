@@ -1,5 +1,5 @@
 ---
-title: "Redundancy Avoidance for Big Data in Data Centers: {A} Conventional Neural Network Approach"
+title: "Redundancy Avoidance for Big Data in Data Centers: A Conventional Neural Network Approach"
 authors:
 - Chenhan Xu
 - Kun Wang
@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Network Science and Engineering*"
-publication_short: "TNSE"
+publication_short: "TNSE (JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/document/8371209
 # url_code: ''

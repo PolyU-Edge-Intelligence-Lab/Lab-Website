@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing*
-publication_short: In *MobiHoc*
+publication_short: In *MobiHoc (CCF-B)*
 
 # links:
 # - name: Custom Link

@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Multimedia*"
-publication_short: "TMM"
+publication_short: "TMM (CCF-B)"
 
 url_pdf: http://www.ece.ubc.ca/~minchen/min_paper/2016/2016-IEEE-TMM-3-Harold-Zz.pdf
 # url_code: ''

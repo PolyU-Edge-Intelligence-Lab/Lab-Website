@@ -43,9 +43,9 @@ social:
   icon_pack: fas
   link: 'mailto:csyiliu@comp.polyu.edu.hk'
 
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=cb8uO2sAAAAJ
 
 - icon: github
   icon_pack: fab
@@ -67,6 +67,6 @@ user_groups:
 - Research Students
 ---
 
-Yi Liu is a PhD Student of artificial intelligence. His research interests include reinforcement learning, edge computing, federated learning and neural architecture search. 
+Yi Liu is a PhD Student of artificial intelligence. His research interests include reinforcement learning, edge computing, federated learning and neural architecture search.  
 
 ---

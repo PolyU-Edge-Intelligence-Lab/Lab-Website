@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Wireless Communications*"
-publication_short: "MWC"
+publication_short: "MWC (JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/document/9116086
 # url_code: ''

@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Network and Computer Applications*"
-publication_short: "JNCA"
+publication_short: "JNCA (CCF-C/JCR-Q1)"
 
 url_pdf: https://www.sciencedirect.com/science/article/pii/S1084804519300931
 # url_code: ''

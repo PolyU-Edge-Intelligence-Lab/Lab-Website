@@ -22,7 +22,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Parallel and Distributed Systems*"
-publication_short: "TVT"
+publication_short: "TVT (JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/document/7738559
 # url_code: ''

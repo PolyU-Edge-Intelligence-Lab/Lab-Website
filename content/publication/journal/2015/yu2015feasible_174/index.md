@@ -16,7 +16,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Computers*"
-publication_short: "IEEE T COMPUT"
+publication_short: "IEEE TC(CCF-A)"
 
 url_pdf: https://scholar.google.com.hk/scholar?output=instlink&q=info:_Br2S2K8JwgJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=4215462415927162315&oi=lle
 # url_code: ''

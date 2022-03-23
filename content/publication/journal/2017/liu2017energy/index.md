@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Systems Journal*"
-publication_short: "JSYST"
+publication_short: "JSYST (JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/7445156
 # url_code: ''

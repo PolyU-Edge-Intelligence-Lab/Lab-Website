@@ -1,15 +1,15 @@
 ---
 title: "Scalable and Communication-efficient Decentralized Federated Edge Learning with Multi-blockchain Framework"
 authors:
-- Jiawen Kang
-- Zehui Xiong
-- Chunxiao Jiang
-- Yi Liu+
-- Song Guo
-- Yang Zhang
-- Dusit Niyato
+- Kang Jiawen
+- Xiong Zehui 
+- Jiang Chunxiao 
+- Liu Yi
+- Guo Song 
+- Zhang Yang 
+- Niyato Dusit 
 - Cyril Leung
-- Chunyan Miao
+- Miao Chunyan 
 date: "2020-01-01"
 doi: ""
 

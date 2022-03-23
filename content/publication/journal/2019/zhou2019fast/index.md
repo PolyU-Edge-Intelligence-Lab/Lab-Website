@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Computers*"
-publication_short: "TC"
+publication_short: "TC (CCF-A)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8781824
 # url_code: ''

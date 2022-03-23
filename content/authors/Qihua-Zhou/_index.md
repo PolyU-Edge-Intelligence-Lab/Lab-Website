@@ -1,9 +1,15 @@
-
 ---
-# Qihua Zhou 
+
+# Display name
+
+# Format: Your_given_name Your_surname 
+
 title: Qihua Zhou
 
-# Qihua Zhou
+# Username
+
+# Format: this should match the folder name
+
 authors:
 - Qihua-Zhou
 
@@ -38,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:csqhou@comp.polyu.edu.hk'
+  link: 'mailto:csqzhou@comp.polyu.edu.hk'
 - icon: github
   icon_pack: fab
   link: https://github.com/kimihe

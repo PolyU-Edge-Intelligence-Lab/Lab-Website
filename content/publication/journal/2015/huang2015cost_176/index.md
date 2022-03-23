@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Parallel and Distributed Systems*"
-publication_short: "IEEE T PARALL DISTR"
+publication_short: "IEEE TPDS(CCF-A)"
 
 url_pdf: https://www4.comp.polyu.edu.hk/~cssongguo/papers/fetchcache.pdf
 # url_code: ''

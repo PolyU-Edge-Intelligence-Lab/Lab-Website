@@ -1,5 +1,5 @@
 ---
-title: "Blockchain Meets Edge Computing: {A} Distributed and Trusted Authentication System"
+title: "Blockchain Meets Edge Computing: A Distributed and Trusted Authentication System"
 authors:
 - Shaoyong Guo
 - Xing Hu
@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Industrial Informatics*"
-publication_short: ""
+publication_short: "(JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/document/8818339
 # url_code: ''

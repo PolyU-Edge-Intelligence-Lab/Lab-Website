@@ -22,7 +22,7 @@ publication_short: In *MASS*
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9356051
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9356051"
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

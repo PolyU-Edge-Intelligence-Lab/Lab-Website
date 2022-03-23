@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Communications*"
-publication_short: "TCOMM"
+publication_short: "TCOMM(JCR-Q1)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8536407
 # url_code: ''

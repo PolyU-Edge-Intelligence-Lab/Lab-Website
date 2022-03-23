@@ -44,8 +44,8 @@ Prof. Guo is the Editor-in-Chief of [IEEE Open Journal of the Computer Society](
 
 I am looking for strongly motivated PhD students, Research Assistant and Postdoctoral Fellow to join our research group. Our research interests are as follows:
 
-* {{< staticref "files/EdgeAI.pdf" "newtab" >}}Edge AI and Federated Learning{{< /staticref >}}
-* {{< staticref "files/SmartSensing.pdf" "newtab" >}}AI empowered Internet-of-Things{{< /staticref >}}
+* {{< staticref "files/edgeai.pdf" "newtab" >}}Edge AI and Federated Learning{{< /staticref >}}
+* {{< staticref "files/smartsensing.pdf" "newtab" >}}AI empowered Internet-of-Things{{< /staticref >}}
 * Edge Computing Driven Ubiquitous Blockchain
 
 ## News

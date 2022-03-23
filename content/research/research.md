@@ -33,6 +33,8 @@ content:
     tag: Smart Healthcare
   - name: Blockchain
     tag: Blockchain
+  - name: TinyML
+    tag: TinyML
   - name: Federated Learning
     tag: Federated Learning
 
