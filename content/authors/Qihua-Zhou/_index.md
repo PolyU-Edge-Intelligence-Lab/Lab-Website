@@ -27,10 +27,10 @@ organizations:
   url: ""
 
 interests:
-- Distributed Systems
-- Parallel Computing
-- Domain-specific Hardware Accelerators
-- On-device Learning
+- distributed AI systems
+- large-scale parallel processing
+- tiny ML systems
+- domain-specific accelerators 
 
 education:
   courses:
@@ -65,6 +65,6 @@ user_groups:
 - Research Students
 ---
 
-Qihua Zhou is a PhD student with the Department of Computing, The Hong Kong Polytechnic University. His research interests are about distributed systems, parallel computing, on-device learning and domain-specific hardware accelerators.
+Qihua Zhou is a PhD student with the Department of Computing, The Hong Kong Polytechnic University. His research interests are about distributed AI systems, large-scale parallel processing, tiny ML systems and domain-specific accelerators. Currently, he is a member of Dr.Body-Lab (http://www.zerodrbody.com/#/about), collaborating with Dr. Zhenda Xu. He is also an intern of Microsoft Research Asia, focusing on the design of efficient visual perception systems and optimization of cross-modal representative learners.
 
 ---
