@@ -42,6 +42,9 @@ education:
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
 social:
+- icon: house-user
+  icon_pack: fas
+  link: http://qihuazhou.com
 - icon: envelope
   icon_pack: fas
   link: 'mailto:csqzhou@comp.polyu.edu.hk'
