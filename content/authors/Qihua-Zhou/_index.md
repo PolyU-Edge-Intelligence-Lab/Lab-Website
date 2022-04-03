@@ -51,6 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/kimihe
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.hk/citations?user=vsD8e8QAAAAJ&hl
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
 #- icon: cv
