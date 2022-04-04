@@ -1,6 +1,6 @@
 ---
-title: Edge Application Layer Blockchain-empowered Edge Learning
-summary: Blockchain-empowered edge learning is a novel distributed learning architecture to dispense with a dedicated server in traditional distributed learning and provide trustworthy training for edge devices.
+title: Intelligent Consensus Layer in Learning-Driven Dynamic Architecture
+summary: Most existing blockchain systems adopt a static policy that cannot efciently deal with the dynamic environment in the blockchain system, i.e., joining and leaving of nodes, and malicious attack. Therefore, we propose a novel dynamic sharding-based blockchain framework to achieve a good balance between performance and security without compromising scalability under a dynamic environment.
 tags:
 - Blockchain
 date: "2022-01-01"
@@ -23,4 +23,11 @@ image:
 # url_video: ""
 ---
 
-Blockchain-empowered edge learning is a novel distributed learning architecture to dispense with a dedicated server in traditional distributed learning and provide trustworthy training for edge devices. It is based on a blockchain platform in which the edge devices for distributed learning participate in the consensus and commit and receive transactions about the learning process including edge data collection, edge model weights, training results, etc. However, existing blockchains cannot be directly used for swarm learning because their consensus protocols often commit transactions in blocks, each of which requires minutes, while swarm learning produces massive data about the learning processes in real-time. Moreover, the edge devices are often unable to meet the hardware requirement of the existing blockchain consensus such as the computation-intensive mining in Proof-of-Work (PoW). Therefore, we are going to design a streaming blockchain system and smart contract engine for swarm learning.s
+## Introduction
+
+Most existing blockchain systems adopt a static policy that cannot efciently deal with the dynamic environment in the blockchain system, i.e., joining and leaving of nodes, and malicious attack. Therefore, we propose a novel dynamic sharding-based blockchain framework to achieve a good balance between performance and security without compromising scalability under a dynamic environment. For the framework, a deep reinforcement learning (DRL)-based consensus is designed to acquire optimal sharding policies in a series of dynamic and high-dimensional environment states.
+
+## Reference
+
+SkyChain: A Deep Reinforcement Learning-Empowered Dynamic Blockchain Sharding System, Best Paper Award Runner Up received in ICPP 2020 (CCF-B).
+
