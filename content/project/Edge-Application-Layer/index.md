@@ -1,5 +1,5 @@
 ---
-title: Edge Application Layer: Blockchain-empowered Edge Learning
+title: Edge Application Layer Blockchain-empowered Edge Learning
 summary: Blockchain-empowered edge learning is a novel distributed learning architecture to dispense with a dedicated server in traditional distributed learning and provide trustworthy training for edge devices.
 tags:
 - Blockchain
