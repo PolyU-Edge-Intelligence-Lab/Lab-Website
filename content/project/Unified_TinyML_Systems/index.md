@@ -3,7 +3,7 @@ title: A Unified TinyML System for Multi-modal Edge Intelligence and Real-time V
 summary: Our research focuses on the software and hardware synergy of on-device learning techniques, covering the scope of model-level neural network design, algorithm-level training optimization and hardware-level arithmetic acceleration.
 tags:
 - TinyML
-date: "2022-04-05"
+date: "2022-01-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
