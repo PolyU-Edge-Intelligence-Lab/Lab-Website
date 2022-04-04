@@ -9,7 +9,7 @@ date: "2022-01-01"
 external_link: ""
 
 image:
-  caption: Blockchain Sharding 
+  caption:  
   focal_point: Smart
 
 # links:
