@@ -3,7 +3,7 @@ title: Hybrid On-/Off-Chain Distributed Storage
 summary: Personal data produced from widely emerged cyberspace activities are expected to promote information dissemination and engagement, or even make business intelligence more powerful. 
 tags:
 - Blockchain
-date: "2022-01-01"
+date: "2022-03-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

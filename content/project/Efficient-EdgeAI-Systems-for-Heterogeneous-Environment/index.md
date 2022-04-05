@@ -26,7 +26,7 @@ image:
 
 ## Research Overview
 
-{{< figure src="research-overview.png" caption="Research Overview of the Federated Learning Paradigm" >}}
+{{< figure src="featured.png" caption="Research Overview of the Federated Learning Paradigm" >}}
 
 Our team aims to design promising solutions for future AI applications in Federated Learning (FL) systems, which enable distributed computing nodes to collaboratively train machine learning models without exposing their own data. We focus on solving the following challenging issues:
 
