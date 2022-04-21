@@ -1,5 +1,5 @@
 ---
-title: Research Opportunity 5 Masked Autoencoders for Occlusion-aware Visual Learners
+title: Masked Autoencoders for Occlusion-aware Visual Learners
 summary: Our research focuses on the software and hardware synergy of on-device learning techniques, covering the scope of model-level neural network design, algorithm-level training optimization and hardware-level arithmetic acceleration.
 tags:
 - TinyML

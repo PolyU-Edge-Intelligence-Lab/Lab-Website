@@ -1,5 +1,5 @@
 ---
-title: Research Opportunity 4 Progressive Network Sparsification and Latent Feature Compression for Scalable Collaborative Learning.
+title: Progressive Network Sparsification and Latent Feature Compression for Scalable Collaborative Learning.
 summary: Our research focuses on the software and hardware synergy of on-device learning techniques, covering the scope of model-level neural network design, algorithm-level training optimization and hardware-level arithmetic acceleration.
 tags:
 - TinyML

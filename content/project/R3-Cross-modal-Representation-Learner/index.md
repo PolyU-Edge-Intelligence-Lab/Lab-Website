@@ -1,5 +1,5 @@
 ---
-title: Research Opportunity 3 A Unified Contrastive Representation Learner for Cross-modal Federated Learning Systems.
+title: A Unified Contrastive Representation Learner for Cross-modal Federated Learning Systems.
 summary: Our research focuses on the software and hardware synergy of on-device learning techniques, covering the scope of model-level neural network design, algorithm-level training optimization and hardware-level arithmetic acceleration.
 tags:
 - TinyML
