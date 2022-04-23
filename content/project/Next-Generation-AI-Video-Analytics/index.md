@@ -33,13 +33,13 @@ Video-based abnormal driving behavior and mental detection is becoming more and 
 
 ## Methodology
 
-1. Follow the previous research – In Psychology, HKU perform power analysis to determine the sample size (number of participants) required for detecting an effect, it have multiple predictors (e.g., 7 predictors will need 103).
-2. Mental factors features was identified in the previous research assuming a medium effect size (alpha 0.05 and 80% Power).
+1. Follow the previous research – In Psychology, HKU perform power analysis to determine the sample size (number of participants) required for detecting an effect, it have multiple predictors.
+2. Mental factors features were identified in the previous research assuming a medium effect size (alpha 0.05 and 80% Power).
 3. Big data collection in this project – Taxi Driver (at least 500 hours road driving video record) (e.g.: The Taxi driver who have been deducted the driving marks, in traffic jam situation).
 4. Feature labelling - facial expression, texture, eye tracking, facial muscle change.
 5. Train up the database.
 
 ## Incentive Factors
 
-- Fanling Taxi Company (Mobile Shop Group Limited) supports this project, the camera can be installed in the Taxi to capture the real data (e.g.: angry or suddenly emotion change etc.) for analysis. Collect the taxi driver data (at least 500 hours road driving video record). 
+- Fanling Taxi Company (Mobile Shop Group Limited) supports this project, the camera can be installed in the Taxi to capture the real data (e.g.: angry or suddenly emotion change etc.) for analysis. 
 - Mr. Wong (Director of Fanling Taxi Company) stated that his team want to join the Taxi Service Commendations Scheme and seek the technology to improve their quality of service. He and his team are to thirst for joining the trial.
