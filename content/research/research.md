@@ -25,16 +25,17 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Smart City
-    tag: Smart City
-  - name: Smart Healthcare
-    tag: Smart Healthcare
   - name: Blockchain
     tag: Blockchain
   - name: TinyML
     tag: TinyML
   - name: Federated Learning
     tag: Federated Learning
+  - name: Smart City
+    tag: Smart City
+  - name: Smart Healthcare
+    tag: Smart Healthcare
+  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
