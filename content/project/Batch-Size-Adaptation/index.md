@@ -4,7 +4,7 @@ summary: To tackle non-IID data challenge in FL, we consider to design a new met
 
 tags:
 - Federated Learning
-date: "2022-04-01"
+date: "2022-03-20"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

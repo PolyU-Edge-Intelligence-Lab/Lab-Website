@@ -3,7 +3,7 @@ title: Edge AI in smart city
 summary: 
 tags:
 - Smart City
-date: "2021-03-20"
+date: "2022-03-20"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

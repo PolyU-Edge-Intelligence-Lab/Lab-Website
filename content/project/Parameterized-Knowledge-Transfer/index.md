@@ -4,7 +4,7 @@ summary: Most existing pFL methods rely on model parameters aggregation at the s
 
 tags:
 - Federated Learning
-date: "2022-04-01"
+date: "2022-03-17"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

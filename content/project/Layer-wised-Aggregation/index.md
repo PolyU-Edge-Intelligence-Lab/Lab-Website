@@ -4,7 +4,7 @@ summary: We design a novel pFL training framework dubbed Layer-wised Personalize
 
 tags:
 - Federated Learning
-date: "2022-04-01"
+date: "2022-03-19"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -4,7 +4,7 @@ summary: A few of works have designed incentive mechanisms for FL, but these mec
 
 tags:
 - Federated Learning
-date: "2022-04-01"
+date: "2022-03-15"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
