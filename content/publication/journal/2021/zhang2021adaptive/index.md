@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Computers*"
-publication_short: IoTJ (JCR-Q2)
+publication_short: IoTJ (JCR-Q1)
 
 
 url_pdf: https://www.computer.org/csdl/journal/tc/5555/01/09496155/1vyjwTtgm2Y
