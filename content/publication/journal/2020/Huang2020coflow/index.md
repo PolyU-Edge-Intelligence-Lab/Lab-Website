@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "* IEEE Transactions on Mobile Computing*"
-publication_short: "TMC"
+publication_short: "TMC (CCF-A)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8807289?casa_token=fD3ehGvMkRcAAAAA:tWQvrroizjygnSQoop4NxlK9_8DVTVJy7gBS3NwftDztKc5lAqtdqP7DyuIb0E_OPVNfLCW7eQ4
 # url_code: ''

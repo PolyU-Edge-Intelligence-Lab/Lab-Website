@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *The 35th Annual IEEE International Conference on Computer Communications*
-publication_short: In *INFOCOM*
+publication_short: In *INFOCOM (CCF-A)*
 
 # links:
 # - name: Custom Link

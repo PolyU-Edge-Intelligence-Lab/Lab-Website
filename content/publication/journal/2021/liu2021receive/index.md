@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Mobile Computing*"
-publication_short: TMC (JCR-Q1)
+publication_short: TMC (CCF-A)
 
 
 url_pdf: https://www.computer.org/csdl/journal/tm/5555/01/09468928/1uR9HkGZelW

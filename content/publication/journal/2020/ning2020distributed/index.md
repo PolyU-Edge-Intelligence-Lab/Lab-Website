@@ -22,7 +22,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Trans. Parallel Distributed Syst.*"
-publication_short: "TPDS"
+publication_short: "TPDS (CCF-A)"
 
 url_pdf: https://doi.org/10.1109/TPDS.2020.3046000
 # url_code: ''

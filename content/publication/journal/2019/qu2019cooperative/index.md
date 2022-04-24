@@ -23,7 +23,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Mobile Computing*"
-publication_short: "TMC"
+publication_short: "TMC (CCF-A)"
 
 # links:
 # - name: Custom Link

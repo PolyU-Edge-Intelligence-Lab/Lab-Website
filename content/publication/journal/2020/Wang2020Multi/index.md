@@ -16,7 +16,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*  IEEE Transactions on Parallel and Distributed Systems*"
-publication_short: "TPDS"
+publication_short: "TPDS (CCF-A)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9197692?casa_token=pTZuZZ_An88AAAAA:FrpG7ve2KAG44WcKxGdyWWVCTt8hKKc5OLv7fRy1iwjvFyOM18WVTu-cFpqGksZQaaccwV9rUTs
 # url_code: ''

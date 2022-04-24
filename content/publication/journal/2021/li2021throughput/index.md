@@ -1,5 +1,5 @@
 ---
-title: "Server Placement for Edge Computing: A Robust Submodular Maximization Approach"
+title: "Throughput Maximization of Delay-Aware DNN Inference in Edge Computing by Exploring DNN Model Partitioning and Inference Parallelism"
 authors:
 - Jing Li
 - Weifa Liang
@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Mobile Computing*"
-publication_short: "TMC"
+publication_short: "TMC (CCF-A)"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9606540
 # url_code: ''

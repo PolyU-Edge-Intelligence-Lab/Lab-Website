@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Neural Networks and Learning Systems*"
-publication_short: TNNLS (JCR-Q1)
+publication_short: TNNLS (CCF-B)
 
 
 url_pdf: https://ieeexplore.ieee.org/document/9503108
