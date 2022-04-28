@@ -1,5 +1,5 @@
 ---
-title: Heterogeneous Data \& Expensive Communication Layer-wised Aggregation
+title: Heterogeneous Data \& Expensive Communication- Layer-wised Aggregation
 summary: We design a novel pFL training framework dubbed Layer-wised Personalized Federated learning (pFedLA) that can discern the importance of each layer from different clients, and thus is able to optimize the personalized model aggregation for clients with heterogeneous data. 
 
 tags:

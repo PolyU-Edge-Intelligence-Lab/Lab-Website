@@ -1,5 +1,5 @@
 ---
-title: Heterogeneous Hardware \& Data Parameterized Knowledge Transfer
+title: Heterogeneous Hardware \& Data- Parameterized Knowledge Transfer
 summary: Most existing pFL methods rely on model parameters aggregation at the server side, which require all models to have the same structure and size. Such constraints would prevent status quo pFL methods from further application in practical scenarios, where clients are often willing to own unique models, i.e., with customized neural architectures to adapt to heterogeneous capacities in computation, communication and storage space, etc. We seek to develop a novel training framework that can accommodate heterogeneous model structures for each client and achieve personalized knowledge transfer in each FL training round. 
 
 tags:
