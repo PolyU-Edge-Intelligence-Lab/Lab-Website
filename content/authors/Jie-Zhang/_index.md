@@ -7,7 +7,7 @@ title: Jie Zhang
 # Username
 # Format: this should match the folder name
 authors:
-- Jie-Zhang
+- Jie Zhang
 
 # Is this the primary user of the site?
 # no need to modify 
@@ -68,6 +68,8 @@ user_groups:
 - Research Students
 ---
 
-Jie Zhang (张婕) is a PhD student of computer scicence at the PolyU Edge Intelligence Lab. Her reasearch intrestes include federated learning, edge/cloud computing and machine learning algorithms, modeling, systems.
+Jie Zhang (张婕) is a PhD student of in the Department of Computing at Hong Kong Polytechnic University, Hong Kong SAR, China, supervised by Prof. Song Guo. Her research interests include edge computing, machine learning, deep reinforcement learning, federated learning and computer vision.
+
+# More information please refer to my [homepage](https://www.andrewng.org)
 
 ---
