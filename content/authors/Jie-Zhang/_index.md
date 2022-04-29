@@ -70,6 +70,5 @@ user_groups:
 
 Jie Zhang (张婕) is a PhD student of in the Department of Computing at Hong Kong Polytechnic University, Hong Kong SAR, China, supervised by Prof. Song Guo. Her research interests include edge computing, machine learning, deep reinforcement learning, federated learning and computer vision.
 
-# More information please refer to my [homepage](https://www.andrewng.org)
-
 ---
+
