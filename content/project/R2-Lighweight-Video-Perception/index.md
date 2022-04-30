@@ -1,9 +1,9 @@
 ---
-title: Task-independent Patch Skip for Real-time Visual Perception.
+title: Research Opportunity 2- Flexible Patch Skip for Real-time Visual Perception.
 summary: Our research focuses on the software and hardware synergy of on-device learning techniques, covering the scope of model-level neural network design, algorithm-level training optimization and hardware-level arithmetic acceleration.
 tags:
 - TinyML
-date: "2022-04-17"
+date: "2022-04-05"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -23,6 +23,9 @@ image:
 # url_video: ""
 ---
 
-### Research Opportunity 2: Task-independent Patch Skip for Real-time Visual Perception
+### Research Opportunity 2: Flexible Patch Skip for Real-time Visual Perception
+{{< figure src="4.png" caption="Opportunities 2" >}}
 
-**Illustration:** exploiting temporal redundancy in video streams is a promising way to implement efficient on-device video perception systems. We abstract away the computation saving problem from video perception tasks and propose a task-independent acceleration methodology that can generalize to different runtime environments. Following this principle, we intend to develop new quality-determining factors for system design and present an automatic computation skipping method to support diverse video perception settings by decoupling acceleration and tasks. We intend to equip each convolution layer with a learnable gate to selectively determine which patches could be safely skipped without compromising model accuracy. The gate is optimized via a tough self-supervisory procedure and holistically learns high-level semantics to distinguish similarity and difference across frames. The tiny architecture of the gate is compatible with commodity edge devices and can serve as a plug-and-play module in CNN backbones to enable patch-skippable networks. 
+**Illustration:** utilizing the temporal redundancy in video streams to construct efficient on-device video perception systems is a potential approach. We isolate the computation-saving challenge from video perception tasks and offer a task-independent acceleration approach that may be applied across a variety of runtime contexts. By separating acceleration and tasks, we plan to build novel quality-determining criteria for system design and provide an autonomous computation skipping approach to enable different video perception settings. We want to use a learnable gate in each convolution layer to decide which patches may be safely omitted without affecting model accuracy. The gate is optimized by a rigorous self-supervising approach that learns high-level semantics holistically to discern similarity and difference across frames.
+Such a small gate architecture is compatible with common edge devices, and it can be used as a plug-and-play module in CNN backbones to provide patch-skippable networks.
+
