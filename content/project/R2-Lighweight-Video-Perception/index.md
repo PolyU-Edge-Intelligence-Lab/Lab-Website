@@ -23,9 +23,6 @@ image:
 # url_video: ""
 ---
 
-### Research Opportunity 2: Flexible Patch Skip for Real-time Visual Perception
-{{< figure src="4.png" caption="Opportunities 2" >}}
-
 **Illustration:** utilizing the temporal redundancy in video streams to construct efficient on-device video perception systems is a potential approach. We isolate the computation-saving challenge from video perception tasks and offer a task-independent acceleration approach that may be applied across a variety of runtime contexts. By separating acceleration and tasks, we plan to build novel quality-determining criteria for system design and provide an autonomous computation skipping approach to enable different video perception settings. We want to use a learnable gate in each convolution layer to decide which patches may be safely omitted without affecting model accuracy. The gate is optimized by a rigorous self-supervising approach that learns high-level semantics holistically to discern similarity and difference across frames.
 Such a small gate architecture is compatible with common edge devices, and it can be used as a plug-and-play module in CNN backbones to provide patch-skippable networks.
 
