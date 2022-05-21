@@ -22,3 +22,6 @@ main:
   - name: News
     url: '/post'
     weight: 60
+  - name: Workshop
+    url: '/workshop'
+    weight: 70
