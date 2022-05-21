@@ -1,9 +1,9 @@
 ---
-title: Edge AI in smart city
+title: International Workshop on Edge Intelligence and Future Network- towards Ubiquitous Connectivity 
 summary: 
-tags:
-- Smart City
-date: "2022-03-20"
+#tags:
+#- Smart City
+date: "2022-05-20"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -23,19 +23,50 @@ image:
 # url_video: ""
 ---
 
-## Research Overview
+# Introduction
 
-Our team aims to design promising solutions for  future AI applications based on edge intelligent technologies, which can empower construction, public health, environment, transportation and other industries, and promote the upgrading of urban intelligence.
 
-### COVID-19 Forward Forecast and Policy Evaluation Platform
 
-{{< figure src="1.png" caption="COVID-19 Forward Forecast and Policy Evaluation Platform" >}}
+# Organizer
 
-### Intelligent construction site safety detection system
 
-{{< figure src="2.png" caption="Intelligent construction site safety detection system" >}}
 
-### Low-cost air quality testing technology
+# Program Schedule
 
-{{< figure src="3.png" caption="Low-cost air quality testing technology" >}}
+| Time        | Session |
+| ----------- | ------- |
+| 8:45 - 9:00 | Opening |
+|             |         |
+|             |         |
+|             |         |
+|             |         |
+|             |         |
+|             |         |
+|             |         |
+|             |         |
+
+
+
+# Keynote Speaker
+
+##### Talk1
+```html
+<table>
+    <tr>
+            <th>模板方法模式</th>
+            <th>策略模式</th>
+    </tr>
+    <tr>
+        <td><img src="https://img-blog.csdnimg.cn/20200924235910632.png" /></td>
+        <td><img src="https://img-blog.csdnimg.cn/20200924235904859.png" /></td>
+    </tr>
+</table>
+```
+##### Talk2
+
+
+
+# Sponsor
+
+
 
