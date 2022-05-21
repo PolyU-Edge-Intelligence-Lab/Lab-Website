@@ -17,7 +17,7 @@ type: book
 # url_video: ""
 ---
 
-## [Introduction](https://polyu.netlify.app/workshop/2/)
+## Introduction
 
 
 
