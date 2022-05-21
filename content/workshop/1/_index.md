@@ -1,17 +1,11 @@
 ---
 title: International Workshop on Edge Intelligence and Future Network- towards Ubiquitous Connectivity 
-summary: 
 #tags:
 #- Smart City
 date: "2022-05-20"
+type: book
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
-
-image:
-  caption: 
-  focal_point: Smart
-
 # links:
 # - icon: twitter
 #   icon_pack: fab
@@ -25,15 +19,15 @@ image:
 
 {{< toc hide_on="xl" >}}
 
-# [Introduction]()
+# Introduction
 
 
 
-# [Organizer]()
+# Organizer
 
 
 
-# [Program Schedule]()
+# Program Schedule
 
 | Time &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; | Session &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -49,7 +43,7 @@ image:
 
 
 
-# [Keynote]()
+# Keynote
 
 #### Talk1:  **Computation Offloading and Task Scheduling on the Network Edge**
 
@@ -75,7 +69,7 @@ Nei Kato is a full professor and the Dean with Graduate School of Information Sc
 
 
 
-# [Sponsor]()
+# Sponsor
 
 
 
