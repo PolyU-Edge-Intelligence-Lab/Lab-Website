@@ -33,7 +33,7 @@ image:
 
 # Program Schedule
 
-| Time &emsp; &emsp;&emsp;&emsp;&emsp; | Session &emsp; &emsp;&emsp;&emsp;&emsp;|
+| Time &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; | Session &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;|
 | :----------------------------------: | :-----: |
 |             8:45 - 9:00              | Opening |
 |                                      |         |
