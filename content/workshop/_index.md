@@ -19,15 +19,13 @@ type: book
 
 ## Introduction
 
-{{< toc hide_on="xl" >}}
+
 
 ## Organizer
 
-{{< toc hide_on="xl" >}}
+
 
 ## Program Schedule
-
-{{< toc hide_on="xl" >}}
 
 | Time &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; | Session &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
