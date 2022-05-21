@@ -33,8 +33,8 @@ image:
 
 # Program Schedule
 
-| Time        | Session |
-| ----------- | ------- |
+|    Time     | Session |
+| :---------: | :-----: |
 | 8:45 - 9:00 | Opening |
 |             |         |
 |             |         |
@@ -50,18 +50,11 @@ image:
 # Keynote Speaker
 
 ##### Talk1
-```html
-<table>
-    <tr>
-            <th>模板方法模式</th>
-            <th>策略模式</th>
-    </tr>
-    <tr>
-        <td><img src="https://img-blog.csdnimg.cn/20200924235910632.png" /></td>
-        <td><img src="https://img-blog.csdnimg.cn/20200924235904859.png" /></td>
-    </tr>
-</table>
-```
+
+![](https://blog.ikke.moe/img/miui7.png)
+这里是段落内容，注意两行中间并没有任何的换行
+
+
 ##### Talk2
 
 
