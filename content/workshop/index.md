@@ -23,31 +23,33 @@ image:
 # url_video: ""
 ---
 
-# Introduction
+{{< toc hide_on="xl" >}}
+
+# [Introduction]()
 
 
 
-# Organizer
+# [Organizer]()
 
 
 
-# Program Schedule
+# [Program Schedule]()
 
-| Time &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; | Session &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;|
-| :----------------------------------: | :-----: |
-|             8:45 - 9:00              | Opening |
-|                                      |         |
-|                                      |         |
-|                                      |         |
-|                                      |         |
-|                                      |         |
-|                                      |         |
-|                                      |         |
-|                                      |         |
+| Time &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; | Session &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 8:45 - 9:00                                                  | Opening                                                      |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
 
 
 
-# Keynote
+# [Keynote]()
 
 #### Talk1:  **Computation Offloading and Task Scheduling on the Network Edge**
 
@@ -73,7 +75,7 @@ Nei Kato is a full professor and the Dean with Graduate School of Information Sc
 
 
 
-# Sponsor
+# [Sponsor]()
 
 
 
