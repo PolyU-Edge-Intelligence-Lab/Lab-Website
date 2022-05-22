@@ -17,6 +17,8 @@ type: book
 # url_video: ""
 ---
 
+![](featured.png)
+
 ## Introduction
 
 
