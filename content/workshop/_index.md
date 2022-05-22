@@ -1,5 +1,5 @@
 ---
-title: International Workshop on Edge Intelligence and Future Network- towards Ubiquitous Connectivity 
+#title: International Workshop on Edge Intelligence and Future Network- towards Ubiquitous Connectivity 
 #tags:
 #- Smart City
 date: "2022-05-20"
@@ -19,29 +19,15 @@ type: book
 
 ![](featured.png)
 
+# International Workshop on Edge Intelligence and Future Network- towards Ubiquitous Connectivity 
+
 ## Introduction
 
-## Organizing Committee
+## Organizer
 
-Organizing Chair Prof. Xuemin (Sherman) Shen
+![](icon.png) ![](logo.png)
 
-Workshop Chair: Prof. Song Guo 
-
-## Program Schedule
-
-| Time &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; | Session &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; |
-| :----------------------------------------------------------- | :----------------------------------------------------------- |
-| 8:45 - 9:00                                                  | Opening                                                      |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-
-
+![](s2.jpg)
 
 ## Organizing Committee
 
@@ -53,7 +39,7 @@ Workshop Chair: Prof. Song Guo
 ## Program Schedule
 
 | Time &emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; | Session &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; | Speaker &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; |
-| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | 08:45 - 09:00  | Opening Session                                                                         | Song Guo               |
 | 09:00 - 09:45  | Talk 1: Computation Offloading and Task Scheduling onthe Network Edge                   | Xuemin (Sherman) Shen  |
 | 09:45 - 10:30  | Talk 2: Vehicle as a Service (VaaS): How to Leverage Vehicles to Beef Up the Edge       | Yuguang (Michael) Fang |
@@ -154,7 +140,7 @@ Department of Computer Science, City University of Hong Kong
 
 ## Sponsor
 
-![](icon.png) ![](logo.png)
 
-![](s1.jpg)![](s2.jpg)
+
+![](s1.jpg)
 
