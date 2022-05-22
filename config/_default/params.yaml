@@ -58,7 +58,7 @@ directions: Mong Man Wai Building, Department of Computing, The Hong Kong Polyte
 # Site header
 
 main_menu:
-  enable: false
+  enable: true
   align: r
   show_logo: true
   show_language: false
