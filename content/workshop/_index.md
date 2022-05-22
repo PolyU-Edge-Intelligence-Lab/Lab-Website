@@ -82,7 +82,7 @@ Dr. Fang received the US National Science Foundation Career Award in 2001 and th
 
 #### Talk3: **Task Scheduling for Multi-Access Edge Computing in IRS-Aided Vehicular Networks**
 
-**Speaker:** Nei Kato, Professor, Fellow of IEEE
+**Speaker:** Nei Kato, Professor, Fellow of Engineering Academy of Japan, IEEE, IEICE
 
 Graduate School of Information Sciences, Tohoku University
 
