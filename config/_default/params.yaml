@@ -121,7 +121,7 @@ projects:
   talk_view: 2
 breadcrumb:
   page_types:
-    book: true
+    book: false
 comments:
   provider: ''
   commentable:
