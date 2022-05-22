@@ -23,7 +23,7 @@ type: book
 
 ## Organizer
 
-
+![](icon.png)![](logo.png)
 
 ## Program Schedule
 
@@ -97,5 +97,5 @@ Emeritus Professor of Electrical and Computer Engineering, The University of Bri
 
 ## Sponsor
 
-
+![](s1.jpg)![](s2.jpg)
 
