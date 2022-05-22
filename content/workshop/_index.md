@@ -40,9 +40,7 @@ type: book
 
 ## Organizer
 
-![](icon.png) ![](logo.png)
-
-![](s2.jpg)
+![](logo1.png)
 
 ## Organizing Committee
 
@@ -54,7 +52,5 @@ Prof. Song Guo
 
 ## Sponsor
 
-
-
-![](s1.jpg)
+![](logo2.png)
 
