@@ -3,7 +3,7 @@ title: International Workshop on Edge Intelligence and Future Network- towards U
 #tags:
 #- Smart City
 date: "2022-05-20"
-#type: book
+type: book
 
 # Optional external URL for project (replaces project detail page).
 # links:
