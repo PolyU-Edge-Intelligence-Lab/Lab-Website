@@ -3,7 +3,7 @@ Number: 1
 #title: Computation Offloading and Task Scheduling on the Network Edge
 date: '2022-05-10'
 type: page
-summary: ![](../k1.jpg)
+summary: link
 ---
 
 # Computation Offloading and Task Scheduling on the Network Edge
