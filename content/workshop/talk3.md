@@ -1,7 +1,7 @@
 ---
 number: 3
 title: Task Scheduling for Multi-Access Edge Computing in IRS-Aided Vehicular Networks
-date: '2022-05-22'
+date: '2022-05-08'
 #type: book
 weight: 10
 ---

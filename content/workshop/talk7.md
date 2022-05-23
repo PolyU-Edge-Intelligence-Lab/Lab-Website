@@ -1,7 +1,7 @@
 ---
 number: 7
 title: Edge Intelligence and V2X Enabled Autonomous Driving
-date: '2022-05-22'
+date: '2022-05-04'
 #type: book
 weight: 10
 ---
