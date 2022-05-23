@@ -7,9 +7,8 @@ weight: 10
 ---
 
 **Albert Y. Zomaya**, Peter Nicol Russell Chair Professor  
-Fellow of AAAS, IEEE
-
-Peter Nicol Russell Chair Professor of Computer Science, University of Sydney 
+Fellow of AAAS, IEEE  
+Peter Nicol Russell Chair Professor of Computer Science, University of Sydney   
 Director of the Centre for Distributed and High-Performance Computing, University of Sydney
 
 ![](../k5.png)Albert Y. ZOMAYA is Peter Nicol Russell Chair Professor of Computer Science and Director of the Centre for Distributed and High-Performance Computing at the University of Sydney. To date, he has published > 700 scientific papers and articles and is (co-)author/editor of >30 books. A sought-after speaker, he has delivered >250 keynote addresses, invited seminars, and media briefings. He is currently the Editor in Chief of the ACM Computing Surveys and served in the past as Editor in Chief of the IEEE Transactions on Computers (2010-2014) and the IEEE Transactions on Sustainable Computing (2016-2020).
