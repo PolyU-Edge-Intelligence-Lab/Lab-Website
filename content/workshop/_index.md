@@ -48,11 +48,13 @@ type: book
 Prof. Xuemin (Sherman) Shen
 
 ### General Chair 
-Prof. Song Guo 
+Prof. Song Guo   
+Qifeng Liu
 
 ## Sponsor
 
-PolyU Edge Intelligence Lab
+PolyU Edge Intelligence Lab  
 粤港澳大湾区人工智能与机器人联合会
+
 ![](logo2.png)
 
