@@ -19,7 +19,7 @@ type: book
 
 ![](featured.png)
 
-# International Workshop on Edge Intelligence and Future Network- towards Ubiquitous Connectivity 
+# International Workshop on Edge Intelligence and Future Network: towards Ubiquitous Connectivity 
 
 ## Introduction
 
@@ -44,11 +44,12 @@ type: book
 
 ## Organizing Committee
 
-### Organizing Chair: 
+### Honorary Chair 
 Prof. Xuemin (Sherman) Shen
 
-### Workshop Chair: 
+### General Chair
 Prof. Song Guo 
+Qifeng Liu
 
 ## Sponsor
 
