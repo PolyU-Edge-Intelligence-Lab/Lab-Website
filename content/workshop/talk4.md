@@ -3,7 +3,7 @@ number: 4
 # title: AIoT as a Service – Framework, Opportunities, and Challenges
 date: '2022-05-07'
 type: page
-summary: link
+summary: Deadline
 ---
 
 # AIoT as a Service – Framework, Opportunities, and Challenges
