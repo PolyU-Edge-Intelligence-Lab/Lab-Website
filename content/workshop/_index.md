@@ -45,12 +45,7 @@ Qifeng Liu
 
 ## Organizer
 
-![](logo1.png)
+![](org.png)
 
-## Sponsor
 
-PolyU Edge Intelligence Lab  
-粤港澳大湾区人工智能与机器人联合会
-
-![](logo2.png)
 

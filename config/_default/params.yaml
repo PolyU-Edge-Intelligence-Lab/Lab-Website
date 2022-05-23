@@ -64,7 +64,7 @@ main_menu:
   show_language: false
   show_day_night: true
   show_search: false
-  highlight_active_link: true
+  highlight_active_link: false
 
 # Localization
 
@@ -94,13 +94,13 @@ show_related:
   book: false
   page: false
   post: false
-  project: true
+  project: false
   publication: false
   event: false
 reading_time: true
 section_pager: false
 docs_section_pager: false
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false

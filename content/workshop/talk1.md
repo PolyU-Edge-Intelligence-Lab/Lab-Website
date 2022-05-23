@@ -1,11 +1,9 @@
 ---
 title: Talk1- Computation Offloading and Task Scheduling on the Network Edge
 date: '2022-01-01'
-type: book
-weight: 10
 ---
 
-Xuemin (Sherman) Shen, University Professor  
+**Xuemin (Sherman) Shen,** University Professor  
 Fellow of RSC, CAE, EIC, IEEE, Foreign Academian of Chinese Academy of Engineering  
 Department of Electrical and Computer Engineering, University of Waterloo
 
