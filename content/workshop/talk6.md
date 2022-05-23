@@ -1,6 +1,7 @@
 ---
+number: 6
 title: 区块链 – 零信任之上的共识
-date: '2022-01-01'
+date: '2022-05-27'
 type: book
 weight: 10
 ---
