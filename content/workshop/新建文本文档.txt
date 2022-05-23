@@ -1,7 +1,0 @@
-1. 图，会议名字，logo
-2. 题目remove
-3.committee
-4. genaral chair
-5. organizer&sponsor
-6.talk去掉
-7. Speaker去掉，名字加粗
