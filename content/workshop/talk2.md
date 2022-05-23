@@ -1,7 +1,7 @@
 ---
 number: 2
 title: Vehicle as a Service (VaaS)- How to Leverage Vehicles to Beef Up the Edge 
-date: '2022-01-01'
+date: '2022-05-27'
 type: book
 weight: 10
 ---

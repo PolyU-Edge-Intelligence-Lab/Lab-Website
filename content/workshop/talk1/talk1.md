@@ -1,7 +1,9 @@
 ---
 Number: 1
 title: Computation Offloading and Task Scheduling on the Network Edge
-date: '2022-01-01'
+date: '2022-05-27'
+type: book
+weight: 10
 ---
 
 **Xuemin (Sherman) Shen,** University Professor  
