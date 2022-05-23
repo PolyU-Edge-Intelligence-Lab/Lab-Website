@@ -44,6 +44,8 @@ Qifeng Liu
 | 16:15 - 17:00 | Talk 8: Industrial Talk                                      | TBD                    |
 
 ## Organizer
+香港理工大学边缘智能实验室, The PolyU Edge Intelligence Laboratory (PEILab)  
+粤港澳大湾区人工智能与机器人联合会, Guangdong-Hong Kong-Macao Greater Bay Area Artificial Intelligence and Robotics Society (GBAIRS)  
 
 ![](org.png)
 
