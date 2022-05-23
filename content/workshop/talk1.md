@@ -1,5 +1,5 @@
 ---
-title: Talk1- Computation Offloading and Task Scheduling on the Network Edge
+title: Computation Offloading and Task Scheduling on the Network Edge
 date: '2022-01-01'
 ---
 
