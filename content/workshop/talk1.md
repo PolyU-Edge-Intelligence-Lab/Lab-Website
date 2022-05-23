@@ -3,8 +3,10 @@ Number: 1
 #title: Computation Offloading and Task Scheduling on the Network Edge
 date: '2022-05-10'
 type: page
-weight: 10
+summary: 
 ---
+
+# Computation Offloading and Task Scheduling on the Network Edge
 
 **Xuemin (Sherman) Shen,** University Professor  
 Fellow of RSC, CAE, EIC, IEEE, Foreign Academian of Chinese Academy of Engineering  
