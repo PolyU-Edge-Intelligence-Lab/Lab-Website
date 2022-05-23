@@ -3,7 +3,7 @@ number: 2
 # title: Vehicle as a Service (VaaS)- How to Leverage Vehicles to Beef Up the Edge 
 date: '2022-05-09'
 type: page
-summary:
+summary: link
 ---
 
 # Vehicle as a Service (VaaS)- How to Leverage Vehicles to Beef Up the Edge 

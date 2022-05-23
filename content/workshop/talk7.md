@@ -3,7 +3,7 @@ number: 7
 #title: Edge Intelligence and V2X Enabled Autonomous Driving
 date: '2022-05-04'
 type: page
-summary:
+summary: link
 ---
 
 # Edge Intelligence and V2X Enabled Autonomous Driving
