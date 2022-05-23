@@ -52,6 +52,9 @@ Qifeng Liu
 ## Zoom Link
 
 Zoom Meeting ID: 979 8286 5871
+
 Passcode: 395844
+
 Zoom Meeting Link: https://polyu.zoom.us/j/97982865871?pwd=NUJGUWw0b1pnellCNzQvSys3V1ZBUT09
+
 Join by Skype for Business https://polyu.zoom.us/skype/97982865871
