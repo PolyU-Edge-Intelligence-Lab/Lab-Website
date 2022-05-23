@@ -23,6 +23,4 @@ Dr. Shen received the R.A. Fessenden Award in 2019 from IEEE, Canada, Award of M
 
 
 
-{{<DIV align="justify">
-  Lorem ipsum 
-</DIV>}}
+{{<p>  Lorem ipsum </p>}}
