@@ -1,5 +1,6 @@
 ---
-title: Talk2- Vehicle as a Service (VaaS)- How to Leverage Vehicles to Beef Up the Edge 
+number: 2
+title: Vehicle as a Service (VaaS)- How to Leverage Vehicles to Beef Up the Edge 
 date: '2022-01-01'
 type: book
 weight: 10
