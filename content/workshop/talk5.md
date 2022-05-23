@@ -2,7 +2,7 @@
 number: 5
 # title: Edge-AI and Mission-critical Industrial Applications
 date: '2022-05-06'
-#type: book
+type: page
 weight: 10
 summary:
 ---

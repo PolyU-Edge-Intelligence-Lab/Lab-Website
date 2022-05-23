@@ -2,8 +2,7 @@
 number: 4
 # title: AIoT as a Service – Framework, Opportunities, and Challenges
 date: '2022-05-07'
-#type: book
-weight: 10
+type: page
 summary: 
 ---
 
