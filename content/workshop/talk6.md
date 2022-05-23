@@ -1,10 +1,13 @@
 ---
 number: 6
-title: 区块链 – 零信任之上的共识
+#title: 区块链 – 零信任之上的共识
 date: '2022-05-05'
 #type: book
 weight: 10
+summary: 
 ---
+
+# 区块链 – 零信任之上的共识
 
 **Xiuzhen Cheng 成秀珍**, Professor  
 Fellow of IEEE

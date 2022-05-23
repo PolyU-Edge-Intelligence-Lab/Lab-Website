@@ -1,10 +1,12 @@
 ---
 number: 3
-title: Task Scheduling for Multi-Access Edge Computing in IRS-Aided Vehicular Networks
+#title: Task Scheduling for Multi-Access Edge Computing in IRS-Aided Vehicular Networks
 date: '2022-05-08'
 #type: book
-weight: 10
+summary: 
 ---
+
+# Task Scheduling for Multi-Access Edge Computing in IRS-Aided Vehicular Networks
 
 **Nei Kato**, Professor, Fellow of Engineering Academy of Japan, IEEE, IEICE
 
