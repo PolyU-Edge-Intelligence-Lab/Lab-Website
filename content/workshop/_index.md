@@ -3,7 +3,7 @@
 #tags:
 #- Smart City
 date: "2022-05-20"
-type: book
+#type: book
 
 # Optional external URL for project (replaces project detail page).
 # links:
@@ -16,8 +16,6 @@ type: book
 # url_slides: ""
 # url_video: ""
 ---
-
-![](featured.png)
 
 ## Organizing Committee
 
