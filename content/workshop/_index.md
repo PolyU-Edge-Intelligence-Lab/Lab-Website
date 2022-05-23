@@ -49,4 +49,3 @@ Qifeng Liu
 
 ![](org.png)
 
-## Registration
