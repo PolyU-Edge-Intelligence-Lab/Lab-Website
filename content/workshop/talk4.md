@@ -5,7 +5,7 @@ type: book
 weight: 10
 ---
 
-**Speaker:** Victor C.M. Leung, Distinguished Professor, Fellow of RSC, FCAE, FEIC, Life Fellow of IEEE
+**Victor C.M. Leung**, Distinguished Professor, Fellow of RSC, FCAE, FEIC, Life Fellow of IEEE
 
 Distinguished Professor of Computer Science and Software Engineering, Shenzhen University
 Emeritus Professor of Electrical and Computer Engineering, The University of British Columbia

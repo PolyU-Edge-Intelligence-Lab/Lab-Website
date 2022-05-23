@@ -5,7 +5,7 @@ type: book
 weight: 10
 ---
 
-Jianping Wang
+**Jianping Wang**
 
 Department of Computer Science, City University of Hong Kong
 

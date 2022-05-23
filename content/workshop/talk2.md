@@ -5,7 +5,7 @@ type: book
 weight: 10
 ---
 
-**Speaker:** Yuguang (Michael) Fang, Distinguished Professor, Fellow of AAAS, IEEE
+**Yuguang (Michael) Fang,** Distinguished Professor, Fellow of AAAS, IEEE
 
 Department of Electrical and Computer Engineering, University of Florida 
 

@@ -5,7 +5,7 @@ type: book
 weight: 10
 ---
 
-**Speaker:** Nei Kato, Professor, Fellow of Engineering Academy of Japan, IEEE, IEICE
+**Nei Kato**, Professor, Fellow of Engineering Academy of Japan, IEEE, IEICE
 
 Graduate School of Information Sciences, Tohoku University
 

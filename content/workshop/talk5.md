@@ -5,7 +5,7 @@ type: book
 weight: 10
 ---
 
-**Speaker:** Albert Y. Zomaya, Peter Nicol Russell Chair Professor, Fellow of AAAS, IEEE
+**Albert Y. Zomaya**, Peter Nicol Russell Chair Professor, Fellow of AAAS, IEEE
 
 Peter Nicol Russell Chair Professor of Computer Science, University of Sydney 
 Director of the Centre for Distributed and High-Performance Computing, University of Sydney
