@@ -1,7 +1,7 @@
 ---
 Number: 1
 title: Computation Offloading and Task Scheduling on the Network Edge
-date: '2022-05-27'
+date: '2022-05-22'
 type: book
 weight: 10
 ---
