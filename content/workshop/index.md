@@ -49,5 +49,3 @@ Qifeng Liu
 
 ![](org.png)
 
-{{< list_children >}}
-
