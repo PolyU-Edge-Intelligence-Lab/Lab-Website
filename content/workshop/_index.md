@@ -33,7 +33,7 @@ Qifeng Liu
 | Time          | Session                                                      | Speaker                |
 | ------------- | :----------------------------------------------------------- | :--------------------- |
 | 08:45 - 09:00 | Opening Session                                              | Song Guo               |
-| 09:00 - 09:45 | [Talk 1: Computation Offloading and Task Scheduling onthe Network Edge](talk1\talk1) | Xuemin (Sherman) Shen  |
+| 09:00 - 09:45 | [Talk 1: Computation Offloading and Task Scheduling onthe Network Edge](..\work\talk1\talk1) | Xuemin (Sherman) Shen  |
 | 09:45 - 10:30 | Talk 2: Vehicle as a Service (VaaS): How to Leverage Vehicles to Beef Up the Edge | Yuguang (Michael) Fang |
 | 10:30 - 11:15 | Talk 3: Task Scheduling for Multi-Access Edge Computing in IRS-Aided Vehicular Networks | Nei Kato               |
 | 11:15 - 12:00 | Talk 4: AIoT as a Service – Framework, Opportunities, and Challenges | Victor C.M. Leung      |
