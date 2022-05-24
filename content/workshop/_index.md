@@ -41,7 +41,7 @@ Qifeng Liu
 | 14:00 - 14:45 | [Talk 5: Edge-AI and Mission-critical Industrial Applications](talk5) | Albert Y. Zomaya                |
 | 14:45 - 15:30 | [Talk 6: 区块链 – 零信任之上的共识](talk6)                   | Xiuzhen Cheng                   |
 | 15:30 - 16:15 | [Talk 7: Edge Intelligence and V2X Enabled Autonomous Driving](talk7) | Jianping Wang                   |
-| 16:15 - 17:00 | Talk 8: Industrial Talk                                      | TBD                             |
+| 16:15 - 17:00 | [Talk 8: AI in Multimedia Advertising](talk8) | Wei Liu                  |
 
 ## Organizer
 香港理工大学边缘智能实验室, The PolyU Edge Intelligence Laboratory (PEILab)  
