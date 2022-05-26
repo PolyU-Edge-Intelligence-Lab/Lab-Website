@@ -1,5 +1,5 @@
 ---
-title: Research Opportunity 2- Flexible Patch Skip for Real-time Visual Perception.
+title: Flexible Patch Skip for Real-time Visual Perception.
 summary: Our research focuses on the software and hardware synergy of on-device learning techniques, covering the scope of model-level neural network design, algorithm-level training optimization and hardware-level arithmetic acceleration.
 tags:
 - TinyML
