@@ -6,7 +6,7 @@ authors:
 
 superuser: false
 
-role: "Professor & Associate Head"
+role: "Professor"
 
 organizations:
 - name: The Hong Kong Polytechnic University
