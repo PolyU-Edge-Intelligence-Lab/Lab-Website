@@ -17,4 +17,5 @@ Department of Computer Science, City University of Hong Kong
 
 **Abstract:** In recent years, autonomous driving has made great progress toward full autonomy enabled by edge intelligence and V2X. In this talk, we will first examine the vulnerabilities of a single autonomous vehicle from hardware, software, environment, and human factors. We will highlight the aspects where edge intelligence and V2X can help individual autonomous vehicles drive safely. We will then present a few edge intelligences and V2X techniques to help achieve full autonomy through cooperative sensing, cooperative driving, cooperative attack detection, and edge computing. At last, we will present a few future research directions. 
 
-**Slides:** [零信任计算 成秀珍](files/零信任计算 成秀珍)
+
+
