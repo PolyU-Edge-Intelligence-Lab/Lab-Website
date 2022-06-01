@@ -18,4 +18,4 @@ School of Computer Science and Technology, Shandong University
 
 **Abstract:** 本报告主要回答两个问题：1、为什么说区块链的本质是零信任情况下实现多主体间成功协作的技术；2、拓展区块链应用面临哪些挑战。最后介绍一下我们在区块链方向上所做的一些工作。 
 
-**Slides:** [零信任计算 成秀珍](files/零信任计算-成秀珍.pdf)
+**Slides:** [零信任计算 成秀珍](../../../files/零信任计算-成秀珍.pdf)
