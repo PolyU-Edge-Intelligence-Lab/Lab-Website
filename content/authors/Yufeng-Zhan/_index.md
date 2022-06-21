@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Post-doctoral Fellow
+# role: Post-doctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +45,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:yu-feng.zhan@bit.edu.cn'
-#- icon: google-scholar
+  #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=qzCgBxUAAAAJ&hl=en
 #- icon: github
@@ -65,7 +65,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Staffs
+- Previous Members
 ---
 
 詹玉峰 is an assistant professor in the School of Automation, Beijing Institute of Technology, China. Before, he was a post-doctoral fellow in The Hong Kong Polytechnic University, working with Prof. Song GUO. In July 2018, he obtained Ph.D. degree at Beijing Institute of Technology, under the supervision of Prof. Yuanqing XIA.

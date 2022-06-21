@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Post-doctoral Fellow
+# role: Post-doctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +45,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:xiaojie.kara.wang@ieee.org'
-#- icon: google-scholar
+  #- icon: google-scholar
  # icon_pack: ai
  # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 #- icon: github
@@ -65,11 +65,11 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Staffs
+- Previous Members
 ---
 
 Xiaojie Wang's research interests include mobile edge computing, resource management and artificial intelligence. She has published over 40 scientific papers in international journals and conferences, such as IEEE JSAC, IEEE TMC, IEEE TPDS, IEEE TITS, IEEE COMST, IEEE Wireless Communications and IEEE Communications Magzine. She also serves as guest editors and reviewers of several journals, such as IEEE TII, IEEE TCSS, IEEE IoT journal, IEEE Network and IEEE WCMC. 
-  
+
 
 
 ---

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Post-doctoral Fellow
+# role: Post-doctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Staffs
+- Previous Members
 ---
 
 Xin Xie's research interests include RFID technologies and wireless networks. He once worked as a Research Assistant with The Hong Kong Polytechnic University, under the supervision of Prof. Bing Xiao. He also worked as a Visiting Researcher with the Purdue University, under the supervision of Prof. He Wang.

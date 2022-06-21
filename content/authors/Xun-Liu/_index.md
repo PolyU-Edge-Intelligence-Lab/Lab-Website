@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Research Assistant
+# role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -43,10 +43,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:xunliu.ucas@gmail.com'
-#- icon: google-scholar
+  #- icon: google-scholar
   #icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
+  #- icon: github
   #icon_pack: fab
   #link: https://github.com/gcushen
 
@@ -63,7 +63,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Staffs
+- Previous Members
 ---
 
 Xun Liu is a Research Assistant at the PolyU Edge Intelligence Lab, supervised by Prof. Song Guo. Her primary research area is Artificial Intelligence, focusing on Edge Learning, Federated Learning and TinyAI. 

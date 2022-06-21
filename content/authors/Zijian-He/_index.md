@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Research Assistant
+# role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -59,5 +59,5 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Staffs
+- Previous Members
 ---

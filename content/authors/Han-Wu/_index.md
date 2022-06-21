@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: PhD Student
+# role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -65,7 +65,7 @@ education:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Students
+- Previous Members
 ---
 
 Han WU is currently a PhD student in the Department of Computing in the Hong Kong Polytechnic University. His research interests include Machine Learning, Federated Learning, and Big Data.
