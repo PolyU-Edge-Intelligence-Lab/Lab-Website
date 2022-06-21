@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Staffs
+- Previous Members
 ---
 
 Hao Ren is now working as a Postdoctoral fellow at The Hong Kong Polytechnic University, supervised by Prof. Song Guo. Currently, his main research interest is secure and privacy-preserving machine learning. He was a full-time visiting Ph.D. student at ECE department, University of Waterloo, Canada, from February 2018 to January 2020, supervised by Prof. Xuemin (Sherman) Shen. He has published more than fourteen papers on prestigious international conferences and journals including ACM ACSAC, ACM ASIACCS, IEEE TCC, IEEE Network, etc. He is a member of IEEE.

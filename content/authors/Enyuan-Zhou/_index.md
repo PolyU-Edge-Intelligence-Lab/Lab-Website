@@ -6,6 +6,7 @@ authors:
 
 superuser: false
 
+#PhD student, Post-doctoral Fellow or Research Assistant, e.g..
 role: PhD Student
 
 organizations:
