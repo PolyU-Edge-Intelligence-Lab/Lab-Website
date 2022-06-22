@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zengyue@smail.nju.edu.cn'
+  link: mailto:zengyue@smail.nju.edu.cn
 - icon: google-scholar
   icon_pack: ai
   link: [‪https://scholar.google.com/citations?user=Y1uyAm8AAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=Y1uyAm8AAAAJ&hl=zh-CN)
