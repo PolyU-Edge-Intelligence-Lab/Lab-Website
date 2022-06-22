@@ -45,13 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:zengyue@smail.nju.edu.cn
+  link: 'mailto:zengyue@smail.nju.edu.cn'
 - icon: google-scholar
   icon_pack: ai
-  link: [‪https://scholar.google.com/citations?user=Y1uyAm8AAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=Y1uyAm8AAAAJ&hl=zh-CN)
+  link: https://scholar.google.com/citations?user=Y1uyAm8AAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
-  link: [https://github.com/zy-nju/](https://github.com/zy-nju/)
+  link: https://github.com/zy-nju/
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
 # -icon: cv
