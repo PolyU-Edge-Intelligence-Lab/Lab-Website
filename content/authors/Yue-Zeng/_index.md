@@ -66,7 +66,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Assistant
+- Research Staffs
 ---
 
 Zeng Yue (曾悦) is a Research Assistant of the computer science at the Edge Intelligence Lab, supervised by Prof. Guo Song. His research interests include deep reinforcement learning, network function virtualization, and software-defined networking.
