@@ -2,12 +2,12 @@
 ---
 # Display name
 # Format: Your_given_name Your_surname 
-title: Jie Zhang
+title: Fushuo Huo
 
 # Username
 # Format: this should match the folder name
 authors:
-- Jie Zhang
+- Fushuo Huo
 
 # Is this the primary user of the site?
 # no need to modify 
@@ -23,39 +23,39 @@ organizations:
   url: ""
 
 interests:
-- Federated Learning
-- Edge/Cloud Computing
+- Computer Vision
+- Multimodal Learning
 - Artificial Intelligence
 
 education:
   courses:
   - course: PhD in Computer Science
     institution: The Hong Kong Polytechnic University
-    year: 2018-Now
-  - course: MEng in Computer Science
-    institution: China University of Geosciences (Wuhan), Wuhan, China
-    year: 2015-2018
-  - course: BSc in Network Engineering
-    institution: China University of Geosciences (Wuhan), Wuhan, China
-    year: 2011-2015
+    year: 2022-Now
+  - course: MSc in Electrical Engineering
+    institution: Chongqing University, Chongqing, China
+    year: 2019-2022
+  - course: BSc in Electrical Engineering
+    institution: China University of Mining and Technology, Xuzhou, China
+    year: 2015-2019
 
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:18104473r@connect.polyu.hk'
+  link: '1104477320@qq.com'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=JRCNlI8AAAAJ&hl=en
+  link: https://sc.panda321.com/citations?user=tcX5RMYAAAAJ&hl=zh-CN&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/cugzj
+  link: #
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
-- icon: cv
-  icon_pack: ai
-  link: resume/cv-jie-zhang/cv.pdf
+# -icon: cv
+# icon_pack: ai
+# link: #
 
 # Choose which group that you belong to
 #  available groups:
@@ -68,7 +68,7 @@ user_groups:
 - Research Students
 ---
 
-Jie Zhang (张婕) is a PhD student of in the Department of Computing at Hong Kong Polytechnic University, Hong Kong SAR, China, supervised by Prof. Song Guo. Her research interests include edge computing, machine learning, deep reinforcement learning, federated learning and computer vision.
+Fushuo Huo (霍赋硕) is a PhD student of in the Department of Computing at Hong Kong Polytechnic University, Hong Kong SAR, China, supervised by Prof. Song Guo and Wenchao Xu. His research interests include computer vision, multimodal learning,  and artificial intelligence.
 
 ---
 
