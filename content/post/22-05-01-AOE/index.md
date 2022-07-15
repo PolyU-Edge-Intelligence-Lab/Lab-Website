@@ -1,5 +1,5 @@
 ---
-title: Project-6G: Wireless Access and Connectivity for an Intelligent and Sustainable World
+title: Project-6G-Wireless Access and Connectivity for an Intelligent and Sustainable World
 date: 2022-05-01
 ---
 
