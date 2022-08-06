@@ -1,5 +1,5 @@
 ---
-title: "SFC-Enabled Reliable Service Provisioning in Mobile Edge Computing via Digital Twins”
+title: "SFC-Enabled Reliable Service Provisioning in Mobile Edge Computing via Digital Twins"
 authors:
 - Jing Li
 - Song Guo
