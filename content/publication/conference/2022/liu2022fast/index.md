@@ -1,14 +1,11 @@
 ---
-title: "Achieving Scalability and Load Balance across Blockchain Shards for State Sharding"
+title: "Fast Secure Aggregation for Privacy-Preserving Federated Learning"
 authors:
-- Canlin Li
-- Huawei Huang
-- Yetong Zhao
-- Xiaowen Peng
-- Ruijie Yang
-- Zibin Zheng
+- Yanjun Liu
+- Hongwei Li
+- Meng Hao
 - Song Guo
-date: "2022-07-01"
+date: "2022-07-02"
 doi: ""
 
 
@@ -19,8 +16,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*the 41st International Symposium on Reliable Distributed Systems*"
-publication_short: In "*SRDS* (CCF-B)"
+publication: In "*IEEE Global Telecommunications Conference*"
+publication_short: In "*Globecom*"
 
 # links:
 # - name: Custom Link

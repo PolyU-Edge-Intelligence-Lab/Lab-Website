@@ -1,14 +1,13 @@
 ---
-title: "Achieving Scalability and Load Balance across Blockchain Shards for State Sharding"
+title: "Computation Offloading and Energy Harvesting Schemes for Sum Rate Maximization in SAG Networks"
 authors:
-- Canlin Li
-- Huawei Huang
-- Yetong Zhao
-- Xiaowen Peng
-- Ruijie Yang
-- Zibin Zheng
+- Yongkang Gong
+- Haipeng Yao
+- Zehui Xiong
 - Song Guo
-date: "2022-07-01"
+- F. Richard Yu
+- Dusit Niyato, “
+date: "2022-07-02"
 doi: ""
 
 
@@ -19,8 +18,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*the 41st International Symposium on Reliable Distributed Systems*"
-publication_short: In "*SRDS* (CCF-B)"
+publication: In "*IEEE Global Telecommunications Conference*"
+publication_short: In "*Globecom*"
 
 # links:
 # - name: Custom Link

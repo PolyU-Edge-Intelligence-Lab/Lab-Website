@@ -1,14 +1,13 @@
 ---
-title: "Achieving Scalability and Load Balance across Blockchain Shards for State Sharding"
+title: "SFC-Enabled Reliable Service Provisioning in Mobile Edge Computing via Digital Twins”
 authors:
-- Canlin Li
-- Huawei Huang
-- Yetong Zhao
-- Xiaowen Peng
-- Ruijie Yang
-- Zibin Zheng
+- Jing Li
 - Song Guo
-date: "2022-07-01"
+- Weifa Liang
+- Quan Chen
+- Zichuan Xu
+- and Wenzheng Xu, “
+date: "2022-07-02"
 doi: ""
 
 
@@ -19,8 +18,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*the 41st International Symposium on Reliable Distributed Systems*"
-publication_short: In "*SRDS* (CCF-B)"
+publication: In "*IEEE International Conference on Mobile Ad-Hoc and Smart Systems*"
+publication_short: In "*MASS*"
 
 # links:
 # - name: Custom Link
