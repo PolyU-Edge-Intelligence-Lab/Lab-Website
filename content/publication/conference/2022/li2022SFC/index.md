@@ -6,7 +6,7 @@ authors:
 - Weifa Liang
 - Quan Chen
 - Zichuan Xu
-- and Wenzheng Xu, “
+- and Wenzheng Xu
 date: "2022-07-02"
 doi: ""
 
