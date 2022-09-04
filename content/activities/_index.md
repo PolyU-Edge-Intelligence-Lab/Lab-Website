@@ -1,1 +1,1 @@
-![](featured.jpg)
+![](home.jpg)
