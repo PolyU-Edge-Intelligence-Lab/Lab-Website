@@ -25,3 +25,6 @@ main:
   - name: Workshop
     url: '/workshop'
     weight: 70
+  - name: Activities
+    url: '/activities'
+    weight: 80
