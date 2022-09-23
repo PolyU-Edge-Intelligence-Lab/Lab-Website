@@ -9,7 +9,7 @@ authors:
 - Victor C. M. Leung
 
 
-date: "2022-01-01"
+date: "2022-08-01"
 doi: "10.1109/TWC.2022.3159779"
 
 # Publication type.

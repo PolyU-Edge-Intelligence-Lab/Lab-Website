@@ -1,15 +1,15 @@
 ---
-title: "Design of Intelligent Connected Cruise Control with Vehicle-to-Vehicle Communication Delays"
+title: "Intermittent Pulling with Local Compensation for Communication-Efficient Distributed Learning"
 authors:
-- Zhuwei Wang
-- Senfan Jin
-- Chao Fang
-- Lihan Liu
-- Meng Li
+- Haozhao Wang
+- Zhihao Qu
 - Song Guo
+- Xin Gao
+- Ruixuan Li
+- Baoliu Ye,
 
-date: "2022-08-01"
-doi: "10.1109/TVT.2022.3177008"
+date: "2022-04-01"
+doi: ""
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -18,10 +18,10 @@ doi: "10.1109/TVT.2022.3177008"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Vehicular Technology*"
-publication_short: "TVT (CCF-B)"
+publication: "*IEEE Transactions on Emerging Topics in Computing*"
+publication_short: "TETC"
 
-# url_pdf: https://ieeexplore.ieee.org/abstract/document/9699396
+# url_pdf: 
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

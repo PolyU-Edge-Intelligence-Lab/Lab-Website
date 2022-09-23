@@ -1,14 +1,18 @@
 ---
-title: "Minimizing the Age-of-Critical-Information: An Imitation Learning-based Scheduling Approach Under Partial Observations"
+title: "Blockchain-enabled Intelligent Transportation Systems: A Distributed Crowdsensing Framework"
 authors:
-- Xiaojie Wang
 - Zhaolong Ning
+- Shouming Sun
+- Xiaojie Wang
+- Lei Guo
 - Song Guo
-- Miaowen Wen
-- Vincent Poor
+- Xiping Hu
+- Bin Hu
+- Ricky Y. K. Kwok
 
-date: "2021-01-21"
-doi: "10.1109/TMC.2021.3053136"
+
+date: "2021-01-01"
+doi: "10.1109/TMC.2021.3079984"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -20,7 +24,7 @@ publication_types: ["2"]
 publication: "*IEEE Transactions on Mobile Computing*"
 publication_short: "TMC (CCF-A)"
 
-url_pdf: https://ieeexplore.ieee.org/abstract/document/9332275
+# url_pdf: https://ieeexplore.ieee.org/abstract/document/9625737
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

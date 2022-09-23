@@ -1,14 +1,14 @@
 ---
-title: "A Tag-correlation-based Approach to Fast Identification of Group Tags"
+title: "Minimizing the Age-of-Critical-Information: An Imitation Learning-based Scheduling Approach Under Partial Observations"
 authors:
-- Xin Xie
-- Xiulong Liu
-- Heng Qi
+- Xiaojie Wang
+- Zhaolong Ning
 - Song Guo
-- Keqiu Li
+- Miaowen Wen
+- Vincent Poor
 
-date: "2021-01-18"
-doi: "10.1109/TMC.2021.3052572"
+date: "2022-09-01"
+doi: "10.1109/TMC.2021.3053136"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "*IEEE Transactions on Mobile Computing*"
 publication_short: "TMC (CCF-A)"
 
-url_pdf: https://ieeexplore.ieee.org/document/9328282
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9332275
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

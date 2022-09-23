@@ -1,7 +1,7 @@
 ---
 title: "Energy Inefficiency Diagnosis for Android Applications: A Literature Review"
 authors: 
-- uxia Sun
+- Yuxia Sun
 - Jiefeng Fang
 - Yanjia Chen
 - Yepang Liu
@@ -10,7 +10,7 @@ authors:
 - Xinkai Chen
 - Ziyuan Tan
 
-date: "2021-09-02"
+date: "2022-09-02"
 doi: "10.1007/s11704-021-0532-4"
 
 # Publication type.

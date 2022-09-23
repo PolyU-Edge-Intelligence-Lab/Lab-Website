@@ -1,16 +1,15 @@
 ---
-title: "Optimizing Video Caching at the Edge: A Hybrid Multi-Point Process Approach"
+title: "Federated Unlearning: Guarantee the Right of Clients to Forget"
 authors:
-- Xianzhi Zhang
-- Yipeng Zhou
-- Di Wu
-- Miao Hu
-- Xi Zheng
-- Min Chen
+- Leijie Wu
 - Song Guo
+- Junxiao Wang
+- Zicong Hong
+- Jie Zhang
+- Yaohong Ding
 
 date: "2022-09-01"
-doi: "10.1109/TPDS.2022.3147240"
+doi: ""
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -19,10 +18,10 @@ doi: "10.1109/TPDS.2022.3147240"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Parallel and Distributed Systems*"
-publication_short: "TPDS (CCF-A)"
+publication: "*IEEE Network (JCR-Q1)*"
+# publication_short: "CST (JCR-Q1)"
 
-url_pdf: https://ieeexplore.ieee.org/abstract/document/9699396
+# url_pdf: https://ieeexplore.ieee.org/abstract/document/9732420
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

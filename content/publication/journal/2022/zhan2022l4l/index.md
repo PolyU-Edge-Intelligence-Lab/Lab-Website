@@ -1,16 +1,13 @@
 ---
-title: "Heterogeneity-aware Gradient Coding for Tolerating and Leveraging Stragglers"
+title: "L4L: Experience-Driven Computational Resource Control in Federated Learning"
 authors:
-- Haozhao Wang
+- Yufeng Zhan
+- Peng Li
+- Leijie Wu
 - Song Guo
-- Bin Tang
-- Ruixuan Li
-- Yutong Yang
-- Zhihao Qu
-- Yi Wang
 
-date: "2021-03-03"
-doi: "10.1109/TC.2021.3063180"
+date: "2022-04-01"
+doi: "10.1109/TC.2021.3068219"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -22,7 +19,7 @@ publication_types: ["2"]
 publication: "*IEEE Transactions on Computers*"
 publication_short: "TC (CCF-A)"
 
-url_pdf: https://ieeexplore.ieee.org/abstract/document/9368996
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9384231
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

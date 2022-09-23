@@ -1,13 +1,14 @@
 ---
-title: "L4L: Experience-Driven Computational Resource Control in Federated Learning"
+title: "Towards Predictive Forwarding Strategy in Vehicular Named Data Networking"
 authors:
-- Yufeng Zhan
-- Peng Li
-- Leijie Wu
+- Xiaojie Wang
+- Zhaolong Ning
+- Lei Guo
 - Song Guo
+- Xinbo Gao
 
-date: "2021-03-23"
-doi: "10.1109/TC.2021.3068219"
+date: "2022-08-01"
+doi: "10.1109/TPDS.2021.3129618"
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -16,10 +17,10 @@ doi: "10.1109/TC.2021.3068219"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Computers*"
-publication_short: "TC (CCF-A)"
+publication: "*IEEE Transactions on Parallel and Distributed Systems*"
+publication_short: "TPDS (CCF-A)"
 
-url_pdf: https://ieeexplore.ieee.org/abstract/document/9384231
+# url_pdf: 
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

@@ -8,7 +8,7 @@ authors:
 - Jingyu Wang
 - Jianxi Liao
 
-date: "2021-02-26"
+date: "2022-09-02"
 doi: "10.1109/TCC.2021.3062398"
 
 # Publication type.

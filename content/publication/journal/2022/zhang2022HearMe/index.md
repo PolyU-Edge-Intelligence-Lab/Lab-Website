@@ -1,16 +1,19 @@
 ---
-title: "Optimizing Video Caching at the Edge: A Hybrid Multi-Point Process Approach"
+title: "HearMe: Accurate and Real-time Lip Reading based on Commercial
+RFID Devices"
 authors:
-- Xianzhi Zhang
-- Yipeng Zhou
-- Di Wu
-- Miao Hu
-- Xi Zheng
-- Min Chen
+- Shigeng Zhang
+- Zijing Ma
+- Kaixuan Lu
+- Xuan Liu
+- Jia Liu
 - Song Guo
+- Albert Y. Zomaya
+- Jian Zhang
+- Jianxin Wang
 
 date: "2022-09-01"
-doi: "10.1109/TPDS.2022.3147240"
+doi: ""
 
 # Publication type.
 # 1 = Conference paper; 2 = Journal article;
@@ -19,10 +22,10 @@ doi: "10.1109/TPDS.2022.3147240"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Parallel and Distributed Systems*"
-publication_short: "TPDS (CCF-A)"
+publication: "*IEEE Transactions on Mobile Computing*"
+publication_short: "TMC (CCF-A)"
 
-url_pdf: https://ieeexplore.ieee.org/abstract/document/9699396
+# url_pdf: https://ieeexplore.ieee.org/abstract/document/9732420
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

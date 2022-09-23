@@ -8,7 +8,7 @@ authors:
 - Xuesong Qiu
 - Suxiang Zhang
 
-date: "2021-09-03"
+date: "2022-04-01"
 doi: "10.1109/JIOT.2021.3110097"
 
 # Publication type.
