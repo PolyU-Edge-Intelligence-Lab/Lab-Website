@@ -1,14 +1,14 @@
 ---
-title: "Sign Bit is Enough: A Learning Synchronization Framework for Multi-hop All-reduce with Ultimate Compression"
+title: "Energy-Constrained D2D Assisted Federated Learning in Edge Computing"
 authors:
-- Feijie Wu
-- Shiqi He
+- Yuchen Li
+- Weifa Liang
+- Jing Li
+- Xiuzhen Cheng
+- Dongxiao Yu
+- Albert Zomaya
 - Song Guo
-- Zhihao Qu
-- Haozhao Wang
-- Weihua Zhuang
-- Jie Zhang
-date: "2022-07-10"
+date: "2022-09-02"
 doi: ""
 
 
@@ -19,8 +19,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*The 59th Design Automation Conference*"
-publication_short: In "*DAC* (CCF-A)"
+publication: In "*the 25th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems*"
+publication_short: In "*MSWiM*"
 
 # links:
 # - name: Custom Link

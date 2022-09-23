@@ -1,14 +1,14 @@
 ---
-title: "Sign Bit is Enough: A Learning Synchronization Framework for Multi-hop All-reduce with Ultimate Compression"
+title: "2D Photogrammetry Image of Adolescent Idiopathic Scoliosis Screening Using Deep Learning"
 authors:
-- Feijie Wu
-- Shiqi He
-- Song Guo
-- Zhihao Qu
-- Haozhao Wang
-- Weihua Zhuang
-- Jie Zhang
-date: "2022-07-10"
+- Zhenda Xu
+- Jiazi Ouyang
+- Qiang Gao
+- Aiqian Gan
+- Qihua Zhou
+- Jiahao Hu
+- and Song Guo
+date: "2022-09-03"
 doi: ""
 
 
@@ -19,8 +19,9 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*The 59th Design Automation Conference*"
-publication_short: In "*DAC* (CCF-A)"
+publication: In "*18th
+International Symposium on Bioinformatics Research and Applications*"
+publication_short: In "*ISBRA*"
 
 # links:
 # - name: Custom Link

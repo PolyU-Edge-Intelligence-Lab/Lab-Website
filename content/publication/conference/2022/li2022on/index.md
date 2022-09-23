@@ -1,14 +1,12 @@
 ---
-title: "Sign Bit is Enough: A Learning Synchronization Framework for Multi-hop All-reduce with Ultimate Compression"
+title: "On the Joint Optimization of Function Assignment and Communication Scheduling toward Performance Efficient Serverless Edge Computing"
 authors:
-- Feijie Wu
-- Shiqi He
+- Yuepeng Li
+- Deze Zeng
+- Lin Gu
+- Kun Wang
 - Song Guo
-- Zhihao Qu
-- Haozhao Wang
-- Weihua Zhuang
-- Jie Zhang
-date: "2022-07-10"
+date: "2022-06-10"
 doi: ""
 
 
@@ -19,8 +17,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*The 59th Design Automation Conference*"
-publication_short: In "*DAC* (CCF-A)"
+publication: In "*IEEE/ACM International Symposium on Quality of Service*"
+publication_short: In "*IWQoS*"
 
 # links:
 # - name: Custom Link

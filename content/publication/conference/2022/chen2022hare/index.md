@@ -1,14 +1,11 @@
 ---
-title: "Sign Bit is Enough: A Learning Synchronization Framework for Multi-hop All-reduce with Ultimate Compression"
+title: "Hare- Exploiting Inter-job and Intra-job Parallelism of Distributed Machine Learning on Heterogeneous GPUs"
 authors:
-- Feijie Wu
-- Shiqi He
+- Fahao Chen
+- Peng Li
+- Celimuge Wu
 - Song Guo
-- Zhihao Qu
-- Haozhao Wang
-- Weihua Zhuang
-- Jie Zhang
-date: "2022-07-10"
+date: "2022-06-27"
 doi: ""
 
 
@@ -19,8 +16,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*The 59th Design Automation Conference*"
-publication_short: In "*DAC* (CCF-A)"
+publication: In "*the 31st ACM Symposium 52 on High-Performance Parallel and Distributed Computing*"
+publication_short: In "*HPDC* (CCF-B)"
 
 # links:
 # - name: Custom Link
