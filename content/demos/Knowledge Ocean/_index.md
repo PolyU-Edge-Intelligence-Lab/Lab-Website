@@ -6,6 +6,8 @@ date: '2022-10-01'
 type: book
 ---
 
+{{< figure src="featured.png" >}}
+
 ## Background
 
 With the popularity of distributed systems, blockchain, and cryptography technologies, the era of Web 3.0 is forthcoming. Web 3.0 is expected to break the status quo that a few large Internet technology companies monopolize the World Wide Web. In Web 3.0, the content created by users is expected to be owned and controlled by the users. The value created will be fairly and transparently allocated according to the consensus of all users.
