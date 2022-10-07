@@ -22,7 +22,7 @@ The project can return the ownership of knowledge to users and break the monopol
 
 ## Content in this demo
 
-**Video:** [Knowledge Ocean](../../../files/Demo_KO.mp4)
+**Video:** [Knowledge Ocean](../../../files/demo_ko.mp4)
 
 
 
