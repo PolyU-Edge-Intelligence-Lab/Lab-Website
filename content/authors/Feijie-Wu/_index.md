@@ -59,7 +59,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Students
+- Previous Members
 ---
 
 More information please refer to my [homepage](https://harli.me/)

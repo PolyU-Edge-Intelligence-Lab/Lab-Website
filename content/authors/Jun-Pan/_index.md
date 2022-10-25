@@ -59,7 +59,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Students
+- Previous Members
 ---
 
 潘駿 is a master of philosophy student at the Hong Kong Polytechnic University. His research interests include On-Device Learning, Computer Vision and Human Posture Estimation.
