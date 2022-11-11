@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: The Hong Kong Polytechnic University
-    year: 2018-Now
+    year: 2019-2022
   - course: MEng in Computer Science
     institution: China University of Geosciences (Wuhan), Wuhan, China
     year: 2015-2018
@@ -68,7 +68,10 @@ user_groups:
 - Research Staffs
 ---
 
-Jie Zhang (张婕) is a PhD student in the Department of Computing at Hong Kong Polytechnic University, Hong Kong SAR, China, supervised by Prof. Song Guo. Her research interests include edge computing, machine learning, deep reinforcement learning, federated learning and computer vision.
+Jie Zhang (张婕) received her Ph.D. degree from Hong Kong Polytechnic University, supervised by Prof. Song Guo. Before that, she received the B.E. and M.E. degree from the School of Computer Science, China University of Geosciences, Wuhan, in 2015 and 2018, respectively. She is currently a postdoctoral fellow at The Hong Kong Polytechnic University.
+Her research interest broadly lies in the areas of edge computing and artificial intelligence. Some specific topics such as federated learning, reinforcement learning and computer vision are highly involved.
+She has served as program committee member or reviewer for several prestigious conferences and journals such as CVPR, AAAI, INFOCOM, PerCom, IEEE IoTJ, IEEE TCC, IEEE TVT, IEEE OJCS, etc.
+
 
 
 ---
