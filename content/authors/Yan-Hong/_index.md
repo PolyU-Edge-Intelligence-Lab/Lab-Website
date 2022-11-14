@@ -40,7 +40,7 @@ education:
     year: 2015-2018
   - course: M.A. in Fashion & Textile Design
     institution: The Hong Kong Polytechnic University, Hong Kong
-    year: 2014-2015
+    year: 2013-2014
   - course: BEng in Fashion Design and Engineering
     institution: Soochow University, China
     year: 2009-2013
@@ -72,7 +72,7 @@ user_groups:
 - Research Staffs
 ---
 
-Yan Hong (洪岩) is a Postdoctoral fellow at the Hong Kong Polytechnic University, supervised by Prof. Song Guo. He is also a Fellow of the British Royal Society of Arts (FRSA). He is also the executive director of the Jiangsu Provincial University Joint Laboratory for International Cooperation in Sustainable Textile Materials and Engineering. He was selected by the China Postdoctoral International Exchange Program in 2018. In 2021, he was also selected as a Young Talent awarded by China Association for Science and Technology. He is currently a member of the China Technology Entrepreneurship Association Manufacturing Innovation and Entrepreneurship Working Committee. He is serving as the editorial board member of Industria Textile. He is also the EMBA tutor at Newton Business School. His research interests include AI Design, AI Industrial Informatics, and Knowledge Engineering.
+Yan Hong (洪岩) is a Postdoctoral fellow at the Hong Kong Polytechnic University, supervised by Prof. Song Guo. He is also a Fellow of the British Royal Society of Arts(FRSA). He is also the executive director of the Jiangsu Provincial University Joint Laboratory for International Cooperation in Sustainable Textile Materials and Engineering. Previously, he has been an Associate Professor of Soochow University (20219-2022). He was selected by the China Postdoctoral International Exchange Program in 2018. In 2021, he was also selected as a Young Talent awarded by China Association for Science and Technology. He is currently a member of the China Technology Entrepreneurship Association Manufacturing Innovation and Entrepreneurship Working Committee. He is serving as the editorial board member of Industria Textile. He is also the EMBA tutor at Newton Business School. His research interests include AI Design, AI Industrial Informatics, and Knowledge Engineering.
 
 
 ---
