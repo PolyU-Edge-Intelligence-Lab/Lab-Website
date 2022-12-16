@@ -27,10 +27,10 @@ organizations:
   url: ""
 
 interests:
-- distributed AI systems
-- large-scale parallel processing
-- tiny ML systems
-- domain-specific accelerators 
+- TinyML Systems
+- Distributed AI Systems
+- Video Perception
+- Computer Vision
 
 education:
   courses:
@@ -71,6 +71,4 @@ user_groups:
 - Research Students
 ---
 
-Qihua Zhou is a PhD student with the Department of Computing, The Hong Kong Polytechnic University. His research interests are about distributed AI systems, large-scale parallel processing, tiny ML systems and domain-specific accelerators. Currently, he is a member of Dr.Body-Lab (http://www.zerodrbody.com/#/about), collaborating with Dr. Zhenda Xu. He is also an intern of Microsoft Research Asia, focusing on the design of efficient visual perception systems and optimization of cross-modal representative learners.
-
----
+Qihua Zhou is a PhD candidate with the Department of Computing, The Hong Kong Polytechnic University. His research interests are about TinyML systems, distributed AI systems, video perception and mobile vision applications. He was an research intern in Microsoft Research Asia, focusing on the design of efficient video codecs and streaming systems. He is also a member of Dr.Body-Lab (https://zerodrbody.wixsite.com/drbody), collaborating with Dr. Zhenda Xu. 
