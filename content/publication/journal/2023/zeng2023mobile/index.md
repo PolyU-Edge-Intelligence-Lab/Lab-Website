@@ -21,7 +21,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Communications*"
-# publication_short: "TCOM (CCF-B)"
+publication_short: "TCOM (CCF-B)"
 
 # url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
 # url_code: ''
