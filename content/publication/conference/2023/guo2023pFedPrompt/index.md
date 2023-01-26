@@ -3,7 +3,7 @@ title: "pFedPrompt: Learning Personalized Prompt for Vision-Language Models in F
 authors:
 - Tao Guo
 - Song Guo
-- Chunxiao Jiang
+- Junxiao Wang
 date: "2023-01-22"
 doi: ""
 
