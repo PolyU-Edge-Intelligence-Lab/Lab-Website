@@ -38,16 +38,17 @@ education:
 
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
-# social:
-# - icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:18104473r@connect.polyu.hk'
-# - icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=JRCNlI8AAAAJ&hl=en
-# - icon: github
-#  icon_pack: fab
-#  link: https://github.com/cugzj
+social:
+
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:xiaochenglu1997@gmail.com'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.hk/citations?user=S7XO5kIAAAAJ&hl=zh-CN
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Forest-art
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
 # -icon: cv
@@ -62,10 +63,12 @@ education:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Students
+- Research Staffs
 ---
 
-Ruibin Li (李锐斌) is a PhD student of in the Department of Computing at Hong Kong Polytechnic University, Hong Kong SAR, China, supervised by Prof. Song Guo. Her research interests include edge computing, machine learning, deep reinforcement learning, federated learning and computer vision.
+Xiaocheng Lu (芦肖城) is a Research Assistant of the computer science at the Edge Intelligence Lab in Hong Kong Polytechnic University (PolyU), supervised by Prof. Guo Song. Before that, he received the B.E. and M.E. degree from the School of Computer Science, Northwestern Polytechnical University, Xi'an, in 2019 and 2022, respectively.
+
+His research interest broadly lies in the areas of edge computing and artificial intelligence. Some specific topics such as zero/few-shot learning, federated learning, and computer vision are highly involved.
 
 ---
 
