@@ -34,9 +34,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/garlicZhou
-- icon: cv
-  icon_pack: ai
-  link: resume/cv-enyuan-zhou/cv.pdf
+# - icon: cv
+# icon_pack: ai
+#  link: resume/cv-enyuan-zhou/cv.pdf
 
 highlight_name: false
 
