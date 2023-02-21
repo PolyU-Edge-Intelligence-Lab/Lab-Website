@@ -68,7 +68,7 @@ user_groups:
 - Research Staffs
 ---
 
-Ruibin Li (李锐斌) is a PhD student of in the Department of Computing at Hong Kong Polytechnic University, Hong Kong SAR, China, supervised by Prof. Song Guo. Her research interests include edge computing, machine learning, deep reinforcement learning, federated learning and computer vision.
+Bai Sikai (白思开) is a Research Assistant of the computer science at the Edge Intelligence Lab, supervised by Prof. Guo Song. His research interests include deep federated learning, network function virtualization, Machine Learning and Edge Computing.
 
 ---
 
