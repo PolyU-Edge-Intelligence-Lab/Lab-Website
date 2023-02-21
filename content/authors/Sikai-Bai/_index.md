@@ -29,14 +29,11 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: The Hong Kong Polytechnic University
-    year: 2022-Now
   - course: MEng in Computer Science
-    institution: Tianjin University (Tianjin), Tianjin, China
+    institution: Northwestern Polytechnical University
     year: 2019-2022
-  - course: BSc in Computer Science
-    institution: Tianjin University (Tianjin), Tianjin, China
+  - course: BSc in Software Engineering
+    institution: China University of Geosciences (Wuhan), Wuhan, China
     year: 2015-2019
 
 # Social/Academic Networking
