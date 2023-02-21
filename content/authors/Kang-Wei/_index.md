@@ -13,7 +13,7 @@ authors:
 # no need to modify 
 superuser: false
 
-- Role/position
+# Role/position
 
   # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
 
@@ -35,12 +35,12 @@ superuser: false
   education:
     courses:
 
-    - course: MEng in Computer Science
-      institution: Northwestern Polytechnical University (NWPU), Xi'an, China
-      year: 2019-2022
-    - course: BSc in Automation
-      institution: Northwestern Polytechnical University (NWPU), Xi'an, China
-      year: 2015-2019
+- course: MEng in Computer Science
+  institution: Northwestern Polytechnical University (NWPU), Xi'an, China
+  year: 2019-2022
+- course: BSc in Automation
+  institution: Northwestern Polytechnical University (NWPU), Xi'an, China
+  year: 2015-2019
 
   # Social/Academic Networking
 
