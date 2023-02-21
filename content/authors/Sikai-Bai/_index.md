@@ -2,7 +2,7 @@
 ---
 # Display name
 # Format: Your_given_name Your_surname 
-title: Ruibin Li
+title: Sikai Bai
 
 # Username
 # Format: this should match the folder name
@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: PhD Student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ organizations:
 interests:
 - Federated Learning
 - Edge/Cloud Computing
-- Reinforcement Learning
+- Artificial Intelligence
 
 education:
   courses:
