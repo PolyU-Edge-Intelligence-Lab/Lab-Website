@@ -2,12 +2,12 @@
 ---
 # Display name
 # Format: Your_given_name Your_surname 
-title: Xiaocheng Lu
+title: Sikai Bai
 
 # Username
 # Format: this should match the folder name
 authors:
-- Xiaocheng Lu
+- Sikai Bai
 
 # Is this the primary user of the site?
 # no need to modify 
@@ -23,18 +23,16 @@ organizations:
   url: ""
 
 interests:
-- Zero/Few-Shot Learning
+- Federated Learning
 - Edge/Cloud Computing
 - Artificial Intelligence
 
 education:
-  courses:
-
   - course: MEng in Computer Science
-    institution: Northwestern Polytechnical University (NWPU), Xi'an, China
+    institution: Northwestern Polytechnical University
     year: 2019-2022
-  - course: BSc in Automation
-    institution: Northwestern Polytechnical University (NWPU), Xi'an, China
+  - course: BSc in Software Engineering
+    institution: China University of Geosciences (Wuhan), Wuhan, China
     year: 2015-2019
 
 # Social/Academic Networking
@@ -42,18 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:xiaochenglu1997@gmail.com'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com.hk/citations?user=S7XO5kIAAAAJ&hl=zh-CN
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Forest-art
+  link: 'mailto:whitesk1973@gmail.com'
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
-# -icon: cv
-# icon_pack: ai
-# link: resume/cv-jie-zhang/cv.pdf
+- # icon: cv
+  
+- # icon_pack: ai
+  # link: resume/cv-jie-zhang/cv-jie-zhang.pdf
 
 # Choose which group that you belong to
 #  available groups:
@@ -66,9 +59,8 @@ user_groups:
 - Research Staffs
 ---
 
-Xiaocheng Lu (芦肖城) is a Research Assistant of the computer science at the Edge Intelligence Lab in Hong Kong Polytechnic University (PolyU), supervised by Prof. Guo Song. Before that, he received the B.E. and M.E. degree from the School of Computer Science, Northwestern Polytechnical University, Xi'an, in 2019 and 2022, respectively.
+Bai Sikai (白思开) is a Research Assistant of the computer science at the Edge Intelligence Lab, supervised by Prof. Guo Song. His research interests include deep federated learning, network function virtualization, Machine Learning and Edge Computing.
 
-His research interest broadly lies in the areas of edge computing and artificial intelligence. Some specific topics such as zero/few-shot learning, federated learning, and computer vision are highly involved.
+
 
 ---
-
