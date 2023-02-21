@@ -13,56 +13,76 @@ authors:
 # no need to modify 
 superuser: false
 
-# Role/position
-# other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Post-doctoral Fellow
+- Role/position
 
-# Organizations/Affiliations
-organizations:
-- name: The Hong Kong Polytechnic University
-  url: ""
+  # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
 
-interests:
-- Trustworthy AI
-- Federated Learning
-- Wireless Communications
-- Edge/Cloud Computing
+  role: Research Assistant
 
-education:
-  courses:
-  - course: PhD in Information and Communication Engineering
-    institution: Nanjing University of Science and Technology, Nanjing, China
-    year: 2018-2022
-  - course: MEng in Electronic and Information Engineering
-    institution: Nanjing University of Science and Technology, Nanjing, China
-    year: 2017-2018
-  - course: BSc in Information Engineering
-    institution: Xidian University, Xian, China
-    year: 2010-2014
+  # Organizations/Affiliations
 
-# Social/Academic Networking
-# To disable, comment blew lines with `#`.
-social:
+  organizations:
 
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:whitesk1973@gmail.com'
+  - name: The Hong Kong Polytechnic University
+    url: ""
 
-# To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
-- # icon: cv
-  
-- # icon_pack: ai
-  # link: https://adamwei-boop.github.io/kang-wei.github.io//
+  interests:
 
-# Choose which group that you belong to
-#  available groups:
-#  - Director (Head of Lab)
-#  - Research Staffs (RA, Postdoc, RAP, e.g.)
-#  - Research Students (Master/PhD student, e.g.)
-#  - Visitors (Visiting prof/student, e.g.)
-#  - Previous Members (Alumni)
-user_groups:
-- Research Staffs
+  - Zero/Few-Shot Learning
+  - Edge/Cloud Computing
+  - Artificial Intelligence
+
+  education:
+    courses:
+
+    - course: MEng in Computer Science
+      institution: Northwestern Polytechnical University (NWPU), Xi'an, China
+      year: 2019-2022
+    - course: BSc in Automation
+      institution: Northwestern Polytechnical University (NWPU), Xi'an, China
+      year: 2015-2019
+
+  # Social/Academic Networking
+
+  # To disable, comment blew lines with `#`.
+
+  social:
+
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:xiaochenglu1997@gmail.com'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.hk/citations?user=S7XO5kIAAAAJ&hl=zh-CN
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Forest-art
+
+  # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
+
+  - # icon: cv
+
+  - # icon_pack: ai
+
+    # link: resume/cv-jie-zhang/cv-jie-zhang.pdf
+
+  # Choose which group that you belong to
+
+  #  available groups:
+
+  #  - Director (Head of Lab)
+
+  #  - Research Staffs (RA, Postdoc, RAP, e.g.)
+
+  #  - Research Students (Master/PhD student, e.g.)
+
+  #  - Visitors (Visiting prof/student, e.g.)
+
+  #  - Previous Members (Alumni)
+
+  user_groups:
+
+  - Research Staffs
 ---
 
 Kang Wei (韦康) received his Ph.D. degree from Nanjing University of Science and Technology, supervised by Prof. Jun Li. Before that, he received the B.S. degree in information engineering from Xidian University, Xian, China, in 2014. He is currently a postdoctoral fellow at The Hong Kong Polytechnic University.
