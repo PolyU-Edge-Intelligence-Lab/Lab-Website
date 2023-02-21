@@ -39,9 +39,12 @@ education:
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
 # social:
-# - icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:18104473r@connect.polyu.hk'
+social:
+
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:whitesk1973@gmail.com'
+
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=JRCNlI8AAAAJ&hl=en
