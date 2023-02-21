@@ -2,12 +2,12 @@
 ---
 # Display name
 # Format: Your_given_name Your_surname 
-title: Ruibin Li
+title: Xiaocheng Lu
 
 # Username
 # Format: this should match the folder name
 authors:
-- Ruibin Li
+- Xiaocheng Lu
 
 # Is this the primary user of the site?
 # no need to modify 
@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: PhD Student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -23,20 +23,17 @@ organizations:
   url: ""
 
 interests:
-- Federated Learning
+- Zero/Few-Shot Learning
 - Edge/Cloud Computing
-- Reinforcement Learning
+- Artificial Intelligence
 
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: The Hong Kong Polytechnic University
-    year: 2022-Now
   - course: MEng in Computer Science
-    institution: Tianjin University (Tianjin), Tianjin, China
+    institution: Northwestern Polytechnical University (NWPU), Xi'an, China
     year: 2019-2022
-  - course: BSc in Computer Science
-    institution: Tianjin University (Tianjin), Tianjin, China
+  - course: BSc in Automation
+    institution: Northwestern Polytechnical University (NWPU), Xi'an, China
     year: 2015-2019
 
 # Social/Academic Networking
