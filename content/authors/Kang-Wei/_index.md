@@ -43,15 +43,10 @@ education:
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
 social:
+
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:18104473r@connect.polyu.hk'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=CYqbLN8AAAAJ&hl=zh-CN
-- icon: github
-  icon_pack: fab
-  link: https://github.com//AdamWei-boop
+  link: 'mailto:whitesk1973@gmail.com'
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
 - # icon: cv
