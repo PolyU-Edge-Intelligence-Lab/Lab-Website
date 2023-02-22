@@ -1,15 +1,13 @@
 ---
-title: "PROPHET: Conflict-Free Sharding Blockchain via Byzantine-Tolerant Deterministic Ordering"
+title: "GriDB: Scaling Blockchain Database via Sharding and Off-Chain Cross-Shard Mechanism"
 authors:
 - Zicong Hong
 - Song Guo
 - Enyuan Zhou
-- Jianting Zhang
-- Chen Wuhui
-- Jinwen Liang
-- Jie Zhang
+- Wuhui Chen
+- Huawei Huang
 - Albert Zomaya
-date: "2022-12-12"
+date: "2023-02-12"
 doi: ""
 
 
@@ -20,8 +18,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*IEEE Conference on Computer Communications*"
-publication_short: In "*INFOCOM* (CCF-A)"
+publication: In "*49th International Conference on Very Large Data Bases (VLDB) (CCF-A)*"
+# publication_short: In "*INFOCOM* (CCF-A)"
 
 # links:
 # - name: Custom Link
