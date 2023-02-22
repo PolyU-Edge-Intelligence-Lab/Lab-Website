@@ -35,10 +35,10 @@ education:
 
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:chuan.he@connect.polyu.hk'
+# social:
+- # icon: envelope
+  # icon_pack: fas
+  # link: 'mailto:chuan.he@connect.polyu.hk'
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
 - # icon: cv
