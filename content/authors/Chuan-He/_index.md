@@ -41,9 +41,9 @@ education:
   # link: 'mailto:chuan.he@connect.polyu.hk'
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
-- # icon: cv
+# icon: cv
   
-- # icon_pack: ai
+# icon_pack: ai
   # link: resume/cv-jie-zhang/cv-jie-zhang.pdf
 
 # Choose which group that you belong to
