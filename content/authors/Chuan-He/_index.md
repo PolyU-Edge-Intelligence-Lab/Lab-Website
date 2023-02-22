@@ -36,7 +36,7 @@ education:
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
 # social:
-- # icon: envelope
+# icon: envelope
   # icon_pack: fas
   # link: 'mailto:chuan.he@connect.polyu.hk'
 
