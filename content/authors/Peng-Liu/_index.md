@@ -48,12 +48,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:pengl.liu@connect.polyu.hk'
-#- icon: google-scholar
+  #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=JRCNlI8AAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/myme5261314
+# icon: github
+# icon_pack: fab
+# link: https://github.com/myme5261314
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
 - # icon: cv
@@ -74,7 +74,5 @@ user_groups:
 
 Peng Liu (刘鹏) is now studying Eng.D. program from Hong Kong Polytechnic University, supervised by Prof. Song Guo. Before that, he received the B.E. and M.E. degree from the School of Information Engineering, China University of Geosciences, Wuhan, in 2012 and 2015, respectively. He is also currently an employee who leads a small team at PingAn Techonology (Shenzhen) Co.Ltd.
 His research interest broadly lies in the areas of computer vision and artificial intelligence, he is also responsible for building big middle platform of Vision AI products in his company.
-
-
 
 ---
