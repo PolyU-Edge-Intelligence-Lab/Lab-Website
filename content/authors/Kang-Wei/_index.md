@@ -1,7 +1,5 @@
-
 ---
 # Display name
-# Format: Your_given_name Your_surname 
 title: Kang Wei
 
 # Username
