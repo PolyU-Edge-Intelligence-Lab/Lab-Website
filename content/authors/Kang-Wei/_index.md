@@ -73,4 +73,3 @@ He has won the 2022 IEEE Signal Processing Society Best Paper Award (IEEE信号�
 He has served as reviewer for several prestigious conferences and journals such as ACM KDD, IEEE JSAC, IEEE TIFS, IEEE TKDE, IEEE TMC, etc. From Jun. 2021 to Dec. 2021, he was a research intern (Rhinoceros Bird Project) at Tencent, Shenzhen, supervised by Yong Cheng. 
 He mainly focuses on privacy protection and optimization techniques for edge intelligence, such as federated learning, differential privacy and network resource allocation.
 
----
