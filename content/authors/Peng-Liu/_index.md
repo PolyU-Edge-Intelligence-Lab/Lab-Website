@@ -42,34 +42,46 @@ education:
     institution: China University of Geosciences (Wuhan), Wuhan, China
     year: 2008-2012
 
-# Social/Academic Networking
-# To disable, comment blew lines with `#`.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:pengl.liu@connect.polyu.hk'
-  #- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=JRCNlI8AAAAJ&hl=en
-# icon: github
-# icon_pack: fab
-# link: https://github.com/myme5261314
+- Social/Academic Networking
 
-# To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
-- # icon: cv
-  
-- # icon_pack: ai
-  # link: resume/cv-jie-zhang/cv-jie-zhang.pdf
+  # To disable, comment blew lines with `#`.
 
-# Choose which group that you belong to
-#  available groups:
-#  - Director (Head of Lab)
-#  - Research Staffs (RA, Postdoc, RAP, e.g.)
-#  - Research Students (Master/PhD student, e.g.)
-#  - Visitors (Visiting prof/student, e.g.)
-#  - Previous Members (Alumni)
-user_groups:
-- Research Students
+  social:
+
+  - icon: envelope
+    icon_pack: fas
+    link: 'csjbpan@comp.polyu.edu.hk'
+    #- icon: github
+
+  #  icon_pack: fab
+
+  #  link: https://github.com/gcushen
+
+  # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
+
+  #- icon: cv
+
+  #  icon_pack: ai
+
+  #  link: resume/cv-andrew-ng/cv.pdf
+
+  # Choose which group that you belong to
+
+  #  available groups:
+
+  #  - Director (Head of Lab)
+
+  #  - Research Staffs (RA, Postdoc, RAP, e.g.)
+
+  #  - Research Students (Master/PhD student, e.g.)
+
+  #  - Visitors (Visiting prof/student, e.g.)
+
+  #  - Previous Members (Alumni)
+
+  user_groups:
+
+  - Research Students 
 ---
 
 Peng Liu (刘鹏) is now studying Eng.D. program from Hong Kong Polytechnic University, supervised by Prof. Song Guo. Before that, he received the B.E. and M.E. degree from the School of Information Engineering, China University of Geosciences, Wuhan, in 2012 and 2015, respectively. He is also currently an employee who leads a small team at PingAn Techonology (Shenzhen) Co.Ltd.
