@@ -21,20 +21,22 @@ organizations:
 # bio: I am broadly interested in computer networking with a special focus on software defined networks, virtualized network function and cloud.
 
 interests:
-- Edge Learning
-- Differential Privacy
-- Future Network Architecture
+- Trustworthy AI
+- Federated Learning
+- Wireless Communications
+- Edge/Cloud Computing
 
 education:
   courses:
-  - course: PhD in Computer Technology Application
-    institution: Dalian University of Technology
-    year: 2016-2020
-  - course: MEng in Computer Systems Organization
-    institution: Dalian University of Technology
-    year: 2014-2017
-  - course: BE in Software Engineering
-    institution: Dalian Maritime University
+  courses:
+  - course: PhD in Information and Communication Engineering
+    institution: Nanjing University of Science and Technology, Nanjing, China
+    year: 2018-2022
+  - course: MEng in Electronic and Information Engineering
+    institution: Nanjing University of Science and Technology, Nanjing, China
+    year: 2017-2018
+  - course: BSc in Information Engineering
+    institution: Xidian University, Xian, China
     year: 2010-2014
 
 # Social/Academic Networking
@@ -44,13 +46,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:junxiao.wang@polyu.edu.hk'
+  link: 'mailto:18104473r@connect.polyu.hk'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=H6RsGygAAAAJ
+  link: https://scholar.google.com/citations?user=CYqbLN8AAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
-  link: https://github.com/wangjunxiao
+  link: https://github.com//AdamWei-boop
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon: cv
@@ -69,7 +71,8 @@ user_groups:
 - Research Staffs
 ---
 
-Junxiao Wang is broadly interested in computer networking with a special focus on software defined networks, virtualized network function and cloud. He once worked as a Visiting Researcher with the Queen Mary, University of London, under the supervision of Prof. Steve Uhlig.
-
-More information please refer to my [homepage](https://jxiao.wang/)
+Kang Wei (韦康) received his Ph.D. degree from Nanjing University of Science and Technology, supervised by Prof. Jun Li. Before that, he received the B.S. degree in information engineering from Xidian University, Xian, China, in 2014. He is currently a postdoctoral fellow at The Hong Kong Polytechnic University.
+He has won the 2022 IEEE Signal Processing Society Best Paper Award (IEEE信号处理学会最佳论文) and 2022 Willy China Open Science Author of the Year (Wiley中国开放科学2022年度作者).
+He has served as reviewer for several prestigious conferences and journals such as ACM KDD, IEEE JSAC, IEEE TIFS, IEEE TKDE, IEEE TMC, etc. From Jun. 2021 to Dec. 2021, he was a research intern (Rhinoceros Bird Project) at Tencent, Shenzhen, supervised by Yong Cheng. 
+He mainly focuses on privacy protection and optimization techniques for edge intelligence, such as federated learning, differential privacy and network resource allocation.
 
