@@ -1,26 +1,24 @@
-
 ---
 # Display name
-# Format: Your_given_name Your_surname 
 title: Kang Wei
 
-# Username
-# Format: this should match the folder name
+# Username (this should match the folder name)
 authors:
 - Kang Wei
 
 # Is this the primary user of the site?
-# no need to modify 
 superuser: false
 
 # Role/position
-# other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
 role: Post-doctoral Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: The Hong Kong Polytechnic University
   url: ""
+
+# Short bio (displayed in user profile at end of posts)
+# bio: I am broadly interested in computer networking with a special focus on software defined networks, virtualized network function and cloud.
 
 interests:
 - Trustworthy AI
@@ -29,6 +27,7 @@ interests:
 - Edge/Cloud Computing
 
 education:
+  courses:
   courses:
   - course: PhD in Information and Communication Engineering
     institution: Nanjing University of Science and Technology, Nanjing, China
@@ -41,7 +40,9 @@ education:
     year: 2010-2014
 
 # Social/Academic Networking
-# To disable, comment blew lines with `#`.
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -52,21 +53,20 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com//AdamWei-boop
-
-# To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
+  icon_pack: ai
   link: https://adamwei-boop.github.io/kang-wei.github.io/files/CV_Kang_WEI.pdf
-  
-- # icon_pack: ai
-  # link: https://adamwei-boop.github.io/kang-wei.github.io//
 
-# Choose which group that you belong to
-#  available groups:
-#  - Director (Head of Lab)
-#  - Research Staffs (RA, Postdoc, RAP, e.g.)
-#  - Research Students (Master/PhD student, e.g.)
-#  - Visitors (Visiting prof/student, e.g.)
-#  - Previous Members (Alumni)
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Research Staffs
 ---
@@ -81,4 +81,3 @@ He has won the 2022 IEEE Signal Processing Society Best Paper Award (IEEE信号�
 
 For more information, please see my <a href="https://adamwei-boop.github.io/kang-wei.github.io/files/CV_Kang_WEI.pdf">[Curriculum Vitae]</a> and <a href="https://scholar.google.com/citations?user=CYqbLN8AAAAJ&hl=zh-CN">[Google Scholar]</a>.
 
----
