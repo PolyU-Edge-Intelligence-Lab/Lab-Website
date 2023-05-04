@@ -3,7 +3,7 @@ title: Zero Dynamic Medical Technology won Gold Medal at Geneva Inventions Expo
 date: 2023-04-29
 ---
 
-Congratulations to Zhenda Xu and Professor Song Guo for being awarded Gold Medal on the 48th International Exhibition of Inventions Geneva (Geneva Inventions Expo), widely regarded as among the most important annual global events devoted exclusively to inventions.
+Congratulations to Zhenda Xu and Professor Song Guo for being awarded Gold Medal at the 48th International Exhibition of Inventions Geneva (Geneva Inventions Expo), widely regarded as among the most important annual global events devoted exclusively to inventions.
 
 <!--more-->
 
