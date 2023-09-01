@@ -3,7 +3,7 @@ widget: blank
 headless: true
 weight: 5
 
-title: "Welcome to PEILab 👋"
+title: "Welcome to EILab 👋"
 subtitle: ""
 
 design:
@@ -23,7 +23,14 @@ advanced:
 
 ## Who We Are
 
-The PolyU Edge Intelligence Laboratory (PEILab), directed by [Prof. Song Guo](https://www4.comp.polyu.edu.hk/~cssongguo/), is developing novel and efficient deep learning architectures, algorithms, and systems over ubiquitous mobile, IoT, and wearable devices. Specific topics of current interest include edge on-device learning, federated learning, and implementation of large-scale deep neural networks in cloud-edge hybrid systems.
+The Edge Intelligence Laboratory (EILab), is a joint laboratory from Hong Kong University of Science and Technology and Hong Kong Polytechnic University,  directed by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo). 
+
+The team at EILab Lab focus on the following research areas:
+
+- Edge on-device Learning
+- Federated Learning
+- Large-scale Deep Neural Networks in Cloud-edge Hybrid Systems
+- Privacy-preserving and Trustworthy Computing
 
 ## Join Us
 
