@@ -23,7 +23,7 @@ advanced:
 
 ## Who We Are
 
-The Edge Intelligence Laboratory (EILab), is a joint laboratory from Hong Kong University of Science and Technology and Hong Kong Polytechnic University,  directed by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo). 
+The Edge Intelligence Laboratory (EILab) is a joint laboratory from Hong Kong University of Science and Technology and Hong Kong Polytechnic University,  directed by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo). 
 
 The team at EILab Lab focus on the following research areas:
 
