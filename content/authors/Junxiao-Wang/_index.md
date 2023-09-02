@@ -66,10 +66,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Staffs
+- Previous Members
 ---
 
-Junxiao Wang is broadly interested in computer networking with a special focus on software defined networks, virtualized network function and cloud. He once worked as a Visiting Researcher with the Queen Mary, University of London, under the supervision of Prof. Steve Uhlig.
+Junxiao Wang is broadly interested in computer networking with a special focus on software defined networks, virtualized network function and cloud. He once worked as a Visiting Researcher with the Queen Mary, University of London, under the supervision of Prof. Steve Uhlig. He worked as a postdoctoral fellow in our laboratory from 2021.3 to 2023.3, and then he went to King Abdullah University of Science and Technology (KAUST) as a postdoctoral fellow.
 
 More information please refer to my [homepage](https://jxiao.wang/)
 

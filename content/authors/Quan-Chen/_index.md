@@ -61,7 +61,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Staffs
+- Previous Members
 ---
 
 Dr Chen is a postdoctoral fellow at the Hong Kong Polytechnic University. His research interests include wireless networking, data communication, energy harvesting. He is the receipt of the 2018 ACM SIGCOM CHINA Excellent Doctoral Dissertation and the 2018 CCF Excellent Doctoral Dissertation Nomination Award. He has published several papers in the referred conferences and journals, such as IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, INFOCOM and ICDCS, etc. 

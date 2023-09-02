@@ -42,7 +42,7 @@ social:
 highlight_name: false
 
 user_groups:
-- Research Staffs
+- Previous Members
 ---
 
 Shijing Yuan is a research assistant in the Department of Computing at Hong Kong Polytechnic University, Hong Kong SAR, China, supervised by Prof. Song Guo, Fellow of IEEE.  He received B.E. degree in Electronic Information Engineering from Nanjing University of Posts and Telecommunications. Now, he is pursuing his PhD degree from SJTU in Computer Science and Technology.

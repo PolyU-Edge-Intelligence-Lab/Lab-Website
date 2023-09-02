@@ -59,10 +59,10 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Staffs
+- Previous Members
 ---
 
-Mingyang Zhao (赵明阳) is a Research Assistant of the computer science at the Edge Intelligence Lab, supervised by Prof. Guo Song. His research interests include applied cryptography, blockchain, and cloud-edge security.
+Mingyang Zhao (赵明阳) is a Research Assistant of the computer science at the Edge Intelligence Lab, supervised by Prof. Guo Song. His research interests include applied cryptography, blockchain, and cloud-edge security. He worked as a research assistant in our laboratory from 2023.6 to 2023.8, and then he went to the Beijing Institute of Technology as a postgraduate student.
 
 ---
 

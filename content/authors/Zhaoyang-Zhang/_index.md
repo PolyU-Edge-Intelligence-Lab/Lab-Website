@@ -35,7 +35,7 @@ social:
 highlight_name: false
 
 user_groups:
-- Research Staffs
+- Previous Members
 ---
 
 Zhaoyang Zhang (张昭阳) is a Research Assistant at the PolyU Edge Intelligence Lab (PEILab), supervised by Prof. Guo Song (IEEE Fellow). His research interests include federated learning, multimodal learning, and zero/few-shot learning.
