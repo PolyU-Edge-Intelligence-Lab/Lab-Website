@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-weight: 5
+weight: 10
 
 title: ""
 subtitle: ""
@@ -11,7 +11,7 @@ design:
   background:
     image: hello2.jpg
     image_darken: 0
-    image_size: 
+    image_size: cover
     image_position: right
     image_parallax: true
     text_color_light: false
