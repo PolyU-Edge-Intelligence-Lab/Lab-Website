@@ -23,14 +23,14 @@ advanced:
 
 ## Who We Are
 
-The Pervasive Edge Intelligence Laboratory (PEILab) is a joint laboratory from Hong Kong University of Science and Technology and Hong Kong Polytechnic University,  directed by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo). 
+The Pervasive Edge Intelligence Laboratory (PEILab), directed by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), is developing novel and efficient deep learning architectures, algorithms, and systems over ubiquitous mobile, IoT, and wearable devices. 
 
-The team at PEILab Lab focus on the following research areas:
+We focus on the following research areas
 
-- Edge on-device Learning
+- Edge-On-Device Learning
 - Federated Learning
 - Large-scale Deep Neural Networks in Cloud-edge Hybrid Systems
-- Privacy-preserving and Trustworthy Computing
+- Privacy and Trustworthy Computing
 
 ## Join Us
 
