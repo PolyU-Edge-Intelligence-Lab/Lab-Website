@@ -9,7 +9,7 @@ subtitle: ""
 design:
   columns: '1'
   background:
-    image: hello2.jpg
+    image: news2.jpg
     image_darken: 0
     image_size: 
     image_position: right
