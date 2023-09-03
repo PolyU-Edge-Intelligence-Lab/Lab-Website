@@ -37,5 +37,3 @@ The team at PEILab Lab focus on the following research areas:
 We are looking for strongly motivated PhD students, Research Assistants, and Postdoctoral Fellows.
 
 [{{< icon name="envelope" pack="fas" >}}Song Guo](mailto:songguo@cse.ust.hk)
-
-![3](3.jpg)
