@@ -18,7 +18,7 @@ date: "2023-04-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Computers (TC) (CCF-A)"
+publication: *IEEE Transactions on Computers (TC) (CCF-A)*
 # publication_short: "TNSE (JCR-Q1)"
 
 # url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
