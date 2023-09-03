@@ -15,7 +15,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The ACM Web Conference (WWW) (CCF-A)*
+publication: In The ACM Web Conference (WWW) (CCF-A)
 #publication_short: In "*WWW* (CCF-A)"
 
 # links:

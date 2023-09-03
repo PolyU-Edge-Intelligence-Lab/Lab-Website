@@ -19,7 +19,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (CCF-A)*
+publication: In IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (CCF-A)
 #publication_short: In "*WWW* (CCF-A)"
 
 # links:

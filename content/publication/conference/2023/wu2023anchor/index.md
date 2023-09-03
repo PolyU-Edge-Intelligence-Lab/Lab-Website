@@ -18,7 +18,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *40th International Conference on Machine Learning (ICML) (CCF-A)*
+publication: In 40th International Conference on Machine Learning (ICML) (CCF-A)
 # publication_short: In "*INFOCOM* (CCF-A)"
 
 # links:

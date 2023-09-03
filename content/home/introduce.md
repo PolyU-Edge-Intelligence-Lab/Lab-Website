@@ -29,7 +29,7 @@ We focus on the following research areas
 
 - Edge-On-Device Learning
 - Federated Learning
-- Large-scale Deep Neural Networks in Cloud-edge Hybrid Systems
+- Large-scale Deep Neural Networks in Cloud-Edge Hybrid Systems
 - Privacy and Trustworthy Computing
 
 ## Join Us

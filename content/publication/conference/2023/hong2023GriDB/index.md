@@ -18,7 +18,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *49th International Conference on Very Large Data Bases (VLDB) (CCF-A)*
+publication: In 49th International Conference on Very Large Data Bases (VLDB) (CCF-A)
 # publication_short: In "*INFOCOM* (CCF-A)"
 
 # links:

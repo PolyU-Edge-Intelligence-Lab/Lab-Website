@@ -15,7 +15,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (CCF-A)*
+publication: In 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (CCF-A)
 #publication_short: In "*INFOCOM* (CCF-A)"
 
 # links:
