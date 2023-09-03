@@ -28,10 +28,9 @@ The Pervasive Edge Intelligence Laboratory (PEILab), directed by [Prof. Song Guo
 
 We focus on the following research areas
 
-- Edge-On-Device Learning
-- Federated Learning
-- Large-scale Deep Neural Networks in Cloud-Edge Hybrid Systems
-- Privacy and Trustworthy Computing
+- Federated Learning & On-Device Learning 
+- Cloud-Edge Hybrid Cyberinfrastructure for Foundation Models    
+- Trustworthy AI Governance
 
 ## Join Us
 

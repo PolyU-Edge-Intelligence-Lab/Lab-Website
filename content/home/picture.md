@@ -9,7 +9,7 @@ subtitle: ""
 design:
   columns: '1'
   background:
-    image: news2.jpg
+    image: hello2.jpg
     image_darken: 0
     image_size: 
     image_position: right
@@ -18,7 +18,7 @@ design:
     text_position: 
 advanced:
   css_style:
-  css_class: fullscreen
+  css_class: 
 
 
 ---
