@@ -9,8 +9,8 @@ subtitle: ""
 design:
   columns: '1'
   background:
-    image: hello.jpg
-    image_darken: 0.7
+    image: 
+    image_darken: 0
     image_size: cover
     image_position: right
     image_parallax: true
