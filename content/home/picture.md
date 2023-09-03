@@ -3,7 +3,7 @@ widget: blank
 headless: true
 weight: 5
 
-title: ""
+title: "We are a family"
 subtitle: ""
     
 design:
