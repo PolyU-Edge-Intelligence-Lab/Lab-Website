@@ -20,7 +20,7 @@ date: "2023-03-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *IEEE Transactions on Parallel and Distributed Systems (TPDS) (CCF-A)*
+publication: IEEE Transactions on Parallel and Distributed Systems (TPDS) (CCF-A)
 # publication_short: "TCOM (CCF-B)"
 
 # url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470

@@ -20,7 +20,7 @@ date: "2023-01-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *ACM Computing Surveys*
+publication: ACM Computing Surveys
 # publication_short: "TNSE (JCR-Q1)"
 
 # url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
