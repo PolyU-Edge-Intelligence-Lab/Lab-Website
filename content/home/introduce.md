@@ -1,13 +1,13 @@
 ---
 widget: blank
 headless: true
-weight: 5
+weight: 1
 
 title: "Welcome to PEILab 👋"
 subtitle: ""
 
 design:
-  columns: '1'
+  columns: '2'
   background:
     image: hello.jpg
     image_darken: 0.7
