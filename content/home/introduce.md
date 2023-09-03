@@ -15,6 +15,7 @@ design:
     image_position: right
     image_parallax: true
     text_color_light: false
+    text_position: left
 advanced:
   css_style:
   css_class: 
