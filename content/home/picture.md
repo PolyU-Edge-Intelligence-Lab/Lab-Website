@@ -17,7 +17,7 @@ design:
     text_color_light: false
 advanced:
   css_style:
-  css_class: 
+  css_class: fullscreen
 
 ---
 
