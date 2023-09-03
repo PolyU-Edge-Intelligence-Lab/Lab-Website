@@ -7,12 +7,12 @@ title: ""
 subtitle: ""
     
 design:
-  columns: '1'
+  columns: '2'
   background:
     image: hello2.jpg
     image_darken: 0
     image_size: cover
-    image_position: right
+    image_position: 
     image_parallax: true
     text_color_light: false
     text_position: 
