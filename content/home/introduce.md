@@ -9,13 +9,13 @@ subtitle: ""
 design:
   columns: '2'
   background:
-    image: hello.jpg
+    image: 
     image_darken: 0
     image_size: cover
     image_position: right
     image_parallax: true
     text_color_light: false
-    text_position: left
+    text_position: 
 advanced:
   css_style:
   css_class: 
