@@ -16,8 +16,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*the 31st ACM Symposium 52 on High-Performance Parallel and Distributed Computing*"
-publication_short: In "*HPDC* (CCF-B)"
+publication: In the 31st ACM Symposium 52 on High-Performance Parallel and Distributed Computing (HPDC) (CCF-B)
+#publication_short: In "*HPDC* (CCF-B)"
 
 # links:
 # - name: Custom Link

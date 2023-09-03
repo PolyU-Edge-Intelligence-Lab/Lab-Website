@@ -19,8 +19,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*the 25th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems*"
-publication_short: In "*MSWiM*"
+publication: In the 25th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)
+# publication_short: In 
 
 # links:
 # - name: Custom Link

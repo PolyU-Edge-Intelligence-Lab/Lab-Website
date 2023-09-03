@@ -19,8 +19,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*the 41st International Symposium on Reliable Distributed Systems*"
-publication_short: In "*SRDS* (CCF-B)"
+publication: In the 41st International Symposium on Reliable Distributed Systems (SRDS) (CCF-B)
+# publication_short: In "
 
 # links:
 # - name: Custom Link

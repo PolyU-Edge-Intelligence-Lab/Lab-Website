@@ -18,8 +18,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks*"
-publication_short: In "*DSN* (CCF-B)"
+publication: In the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) (CCF-B)
+# publication_short: In "
 
 # links:
 # - name: Custom Link

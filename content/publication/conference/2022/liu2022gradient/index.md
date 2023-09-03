@@ -17,8 +17,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*the Thirty-Seventh AAAI Conference on Artificial Intelligence*"
-publication_short: In "*AAAI* (CCF-A, Student Abstract and Poster Program)"
+publication: In the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI) (CCF-A, Student Abstract and Poster Program)
+# publication_short: In 
 
 # links:
 # - name: Custom Link

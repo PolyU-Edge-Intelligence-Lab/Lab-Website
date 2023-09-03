@@ -18,14 +18,14 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*the Thirty-Seventh AAAI Conference on Artificial Intelligence*"
-publication_short: In "*AAAI* (CCF-A)"
+publication: In the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI) (CCF-A)
+#publication_short: In "*"
 
 # links:
 # - name: Custom Link
 #   url: http://example.org
 # url_pdf: 
-# url_code: '#'
+# url_code: '#
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''

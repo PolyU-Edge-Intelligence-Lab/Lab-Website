@@ -17,8 +17,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence*"
-publication_short: In "*IJCAI-ECAI* (CCF-A)"
+publication: In the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI) (CCF-A)
+# publication_short: In "*"
 
 # links:
 # - name: Custom Link

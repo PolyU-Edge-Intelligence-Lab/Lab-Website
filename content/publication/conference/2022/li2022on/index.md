@@ -17,8 +17,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*IEEE/ACM International Symposium on Quality of Service*"
-publication_short: In "*IWQoS*"
+publication: In IEEE/ACM International Symposium on Quality of Service (IWQoS)
+# publication_short: In "**"
 
 # links:
 # - name: Custom Link

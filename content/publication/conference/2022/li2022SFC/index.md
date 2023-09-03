@@ -18,8 +18,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*IEEE International Conference on Mobile Ad-Hoc and Smart Systems*"
-publication_short: In "*MASS*"
+publication: In IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS
+# publication_short: In "**"
 
 # links:
 # - name: Custom Link

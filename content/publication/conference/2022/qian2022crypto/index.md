@@ -18,8 +18,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*EEE Global Telecommunications Conference*"
-publication_short: In "*Globecom*"
+publication: In IEEE Global Telecommunications Conference (Globecom)
+# publication_short: In "**"
 
 # links:
 # - name: Custom Link

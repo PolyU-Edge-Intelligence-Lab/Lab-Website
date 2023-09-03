@@ -19,8 +19,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*18th International Symposium on Bioinformatics Research and Applications*"
-publication_short: In "*ISBRA*"
+publication: In 18th International Symposium on Bioinformatics Research and Applications (ISBRA)
+#publication_short: In "**"
 
 # links:
 # - name: Custom Link

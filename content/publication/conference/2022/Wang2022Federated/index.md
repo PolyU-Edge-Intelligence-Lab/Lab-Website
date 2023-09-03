@@ -16,8 +16,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*The Web Conference*"
-publication_short: In "*WWW* (CCF-A)"
+publication: In The Web Conference (WWW) (CCF-A)
+# publication_short: In "*"
 
 # links:
 # - name: Custom Link

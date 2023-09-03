@@ -19,8 +19,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*The 59th Design Automation Conference*"
-publication_short: In "*DAC* (CCF-A)"
+publication: In The 59th Design Automation Conference (DAC) (CCF-A)
+#publication_short: In "*"
 
 # links:
 # - name: Custom Link
