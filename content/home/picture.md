@@ -1,15 +1,15 @@
 ---
 widget: blank
 headless: true
-weight: 10
+weight: 1
 
 title: ""
 subtitle: ""
 
 design:
-  columns: '1'
+  columns: '2'
   background:
-    image: hello2.jpg
+    image: 
     image_darken: 0
     image_size: cover
     image_position: right
@@ -20,3 +20,4 @@ advanced:
   css_style:
   css_class: 
 
+---
