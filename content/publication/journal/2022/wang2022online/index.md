@@ -17,8 +17,8 @@ doi: "10.1109/TPDS.2021.3129618"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Parallel and Distributed Systems*"
-publication_short: "TPDS (CCF-A)"
+publication: IEEE Transactions on Parallel and Distributed Systems (TPDS) (CCF-A)
+# publication_short: ""
 
 # url_pdf: 
 # url_code: ''

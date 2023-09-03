@@ -19,8 +19,8 @@ doi: "10.1109/TWC.2022.3159779"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Wireless Communications*"
-publication_short: "TWC (CCF-B)"
+publication: IEEE Transactions on Wireless Communications (TWC) (CCF-B)
+# publication_short: ""
 
 url_pdf: https://ieeexplore.ieee.org/document/9740503
 # url_code: ''

@@ -18,8 +18,8 @@ date: "2022-09-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Computers*"
-publication_short: "TC (CCF-A)"
+publication: IEEE Transactions on Computers (TC) (CCF-A)
+# publication_short: ""
 
 # url_pdf: https://ieeexplore.ieee.org/abstract/document/9678070
 # url_code: ''

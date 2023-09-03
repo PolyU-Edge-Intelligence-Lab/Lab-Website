@@ -18,8 +18,8 @@ doi: "10.1109/TNET.2022.3152150"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE/ACM Transactions on Networking*"
-publication_short: "TNET (CCF-A)"
+publication: IEEE/ACM Transactions on Networking (TNET) (CCF-A)
+# publication_short: ")"
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9722568
 # url_code: ''

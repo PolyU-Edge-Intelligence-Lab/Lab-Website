@@ -18,8 +18,8 @@ doi: "10.1109/TNSE.2022.3141728"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Network Science and Engineering*"
-publication_short: "TNSE (JCR-Q1)"
+publication: IEEE Transactions on Network Science and Engineering (TNSE)
+#publication_short: ""
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
 # url_code: ''

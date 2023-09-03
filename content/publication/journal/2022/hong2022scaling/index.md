@@ -15,8 +15,8 @@ date: "2022-07-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal on Selected Areas in Communications*"
-publication_short: "JSAC (CCF-A)"
+publication: IEEE Journal on Selected Areas in Communications (JSAC) (CCF-A)
+# publication_short: ""
 
 # url_pdf: https://ieeexplore.ieee.org/abstract/document/9699396
 # url_code: ''

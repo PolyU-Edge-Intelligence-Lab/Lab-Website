@@ -18,8 +18,8 @@ doi: "10.1109/TVT.2022.3177008"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Vehicular Technology*"
-publication_short: "TVT (CCF-B)"
+publication: IEEE Transactions on Vehicular Technology (TVT)
+
 
 # url_pdf: https://ieeexplore.ieee.org/abstract/document/9699396
 # url_code: ''

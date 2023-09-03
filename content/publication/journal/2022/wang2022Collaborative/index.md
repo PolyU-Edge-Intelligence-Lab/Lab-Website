@@ -17,8 +17,8 @@ date: "2022-01-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Neural Networks and Learning Systems*"
-publication_short: "TNNLS (CCF-B)"
+publication: IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (CCF-B)
+#publication_short: ""
 
 # url_pdf: https://ieeexplore.ieee.org/abstract/document/9722568
 # url_code: ''

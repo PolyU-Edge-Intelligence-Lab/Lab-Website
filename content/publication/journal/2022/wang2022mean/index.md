@@ -18,8 +18,8 @@ doi: "10.1109/TMC.2022.3186699"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Mobile Computin*"
-publication_short: "TMC (CCF-A)"
+publication: IEEE Transactions on Mobile Computin (TMC) (CCF-A)
+
 
 # url_pdf: https://ieeexplore.ieee.org/abstract/document/9699396
 # url_code: ''

@@ -19,8 +19,8 @@ date: "2022-07-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Services Computing*"
-publication_short: "TSC (JCR-Q1)"
+publication: IEEE Transactions on Services Computing (TSC) (CCF-A)
+# publication_short: ""
 
 # url_pdf: https://ieeexplore.ieee.org/abstract/document/9722568
 # url_code: ''

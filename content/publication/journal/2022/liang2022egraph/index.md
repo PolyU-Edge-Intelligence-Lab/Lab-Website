@@ -26,8 +26,8 @@ doi: "10.1109/TKDE.2022.3171588"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Knowledge and Data Engineering*"
-publication_short: "TKDE (CCF-A)"
+publication: IEEE Transactions on Knowledge and Data Engineering (TKDE) (CCF-A)
+# publication_short: ""
 
 # url_pdf: https://ieeexplore.ieee.org/abstract/document/9699396
 # url_code: ''
