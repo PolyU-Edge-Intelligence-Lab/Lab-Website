@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-weight: 5
+weight: 1
 
 title: "Welcome to PEILab 👋"
 subtitle: ""
