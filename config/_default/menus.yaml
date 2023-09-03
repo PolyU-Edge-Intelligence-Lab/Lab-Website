@@ -9,10 +9,10 @@ main:
     weight: 10
   - name: Gallery
     url: '/gallery'
-    weight: 80
+    weight: 20
   - name: Research
     url: '/research'
-    weight: 20
+    weight: 80
   - name: People
     url: '/people'
     weight: 30 
