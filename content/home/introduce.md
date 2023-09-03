@@ -14,7 +14,7 @@ design:
     image_size: cover
     image_position: right
     image_parallax: true
-    text_color_light: true
+    text_color_light: false
 advanced:
   css_style:
   css_class: 
