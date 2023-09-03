@@ -18,7 +18,7 @@ design:
     text_position: 
 advanced:
   css_style:
-  css_class: 
+  css_class: fullscreen
 
 
 ---
