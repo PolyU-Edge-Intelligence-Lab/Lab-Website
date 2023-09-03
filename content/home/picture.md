@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-weight: 1
+weight: 5
 
 title: ""
 subtitle: ""
@@ -9,7 +9,7 @@ subtitle: ""
 design:
   columns: '2'
   background:
-    image: 
+    image: hello2.jpg
     image_darken: 0
     image_size: cover
     image_position: right
