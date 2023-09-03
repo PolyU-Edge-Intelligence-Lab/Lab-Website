@@ -29,10 +29,10 @@ twitter: ''
 #   postcode: '94305'
 #   country: United States
 #   country_code: US
-coordinates:
-  latitude: '22.304194857359292'
-  longitude: '114.18058002713065'
-directions: Mong Man Wai Building, Department of Computing, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong SAR
+# coordinates:
+ # latitude: '22.304194857359292'
+ # longitude: '114.18058002713065'
+# directions: Mong Man Wai Building, Department of Computing, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong SAR
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
