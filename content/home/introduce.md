@@ -3,7 +3,7 @@ widget: blank
 headless: true
 weight: 5
 
-title: "Welcome to EILab 👋"
+title: "Welcome to PEILab 👋"
 subtitle: ""
 
 design:
@@ -17,15 +17,15 @@ design:
     text_color_light: true
 advanced:
   css_style:
-  css_class: fullscreen
+  css_class: 
 
 ---
 
 ## Who We Are
 
-The Edge Intelligence Laboratory (EILab) is a joint laboratory from Hong Kong University of Science and Technology and Hong Kong Polytechnic University,  directed by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo). 
+The Pervasive Edge Intelligence Laboratory (PEILab) is a joint laboratory from Hong Kong University of Science and Technology and Hong Kong Polytechnic University,  directed by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo). 
 
-The team at EILab Lab focus on the following research areas:
+The team at PEILab Lab focus on the following research areas:
 
 - Edge on-device Learning
 - Federated Learning
