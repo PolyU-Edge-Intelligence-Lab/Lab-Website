@@ -38,3 +38,4 @@ We are looking for strongly motivated PhD students, Research Assistants, and Pos
 
 [{{< icon name="envelope" pack="fas" >}}Song Guo](mailto:songguo@cse.ust.hk)
 
+![3](3.jpg)
