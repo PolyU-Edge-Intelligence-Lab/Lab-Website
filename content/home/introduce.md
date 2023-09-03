@@ -36,4 +36,5 @@ The team at EILab Lab focus on the following research areas:
 
 We are looking for strongly motivated PhD students, Research Assistants, and Postdoctoral Fellows.
 
-[{{< icon name="envelope" pack="fas" >}}Song Guo](mailto:song.guo@polyu.edu.hk)
+[{{< icon name="envelope" pack="fas" >}}Song Guo](mailto:songguo@cse.ust.hk)
+
