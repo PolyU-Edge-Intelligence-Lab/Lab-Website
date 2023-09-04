@@ -7,7 +7,7 @@ title: "Welcome to PEILab 👋"
 subtitle: ""
 
 design:
-  columns: '2'
+  columns: '1'
   background:
     image: 
     image_darken: 0
@@ -21,8 +21,6 @@ advanced:
   css_class: 
 
 ---
-
-## Who We Are
 
 The Pervasive Edge Intelligence Laboratory (PEILab), directed by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), is developing novel and efficient deep learning architectures, algorithms, and systems over ubiquitous mobile, IoT, and wearable devices. 
 
