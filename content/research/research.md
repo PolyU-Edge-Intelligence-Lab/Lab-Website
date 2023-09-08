@@ -25,16 +25,16 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Foundation Model \& AIGC
-    tag: Foundation Model \& AIGC
+  - name: Foundation Model & AIGC
+    tag: Foundation Model & AIGC
   - name: Computing Power Network
     tag: Computing Power Network
-  - name: Blockchain
-    tag: Blockchain
   - name: TinyML
     tag: TinyML
   - name: Federated Learning
     tag: Federated Learning
+  - name: Blockchain
+    tag: Blockchain
   - name: Smart City
     tag: Smart City
   - name: Smart Healthcare
