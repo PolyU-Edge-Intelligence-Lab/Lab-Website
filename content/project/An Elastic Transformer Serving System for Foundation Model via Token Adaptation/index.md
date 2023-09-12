@@ -1,5 +1,5 @@
 ---
-title: Warming Serverless ML Inference via Inter-function Model Transformation
+title: An Elastic Transformer Serving System for Foundation Model via Token Adaptation
 tags:
 - AI Computing Cyberinfrastructure
 date: "2023-09-01"

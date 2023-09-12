@@ -1,5 +1,5 @@
 ---
-title: Warming Serverless ML Inference via Inter-function Model Transformation
+title: Intelligence-Endogenous Management Platform for Computing and Network Convergence
 tags:
 - AI Computing Cyberinfrastructure
 date: "2023-09-01"
