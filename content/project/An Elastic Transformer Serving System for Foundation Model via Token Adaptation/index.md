@@ -22,8 +22,6 @@ image:
 #url_video: "https://www.youtube.com/watch?v=Cfx66gy9K9c"
 ---
 
-# Introduction
-
 Transformer model empowered architectures have become a pillar of cloud services that keeps reshaping our society. However, the dynamic query loads and heterogeneous user requirements severely challenge current transformer serving systems, which rely on pre-training multiple variants of a foundation model to accommodate varying service demands. Unfortunately, such a mechanism is unsuitable for large transformer models due to the prohibitive training costs and excessive I/O delay. We introduce OTAS, the first elastic serving system specially tailored for transformer models by exploring lightweight token management. We develop a novel idea called token adaptation. To cope with fluctuating query loads and diverse user requests, we enhance OTAS with application-aware selective batching and online token adaptation. 
 
 ## Prototype Overview

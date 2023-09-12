@@ -22,8 +22,6 @@ image:
 #url_video: "https://www.youtube.com/watch?v=Cfx66gy9K9c"
 ---
 
-# Introduction
-
 Serverless ML inference is an emerging cloud computing paradigm for low-cost, easy-to-manage inference services. In serverless ML inference, each call is executed in a container; however, the cold start of containers results in long inference delays. Unfortunately, most existing works do not work well because they still need to load models into containers from scratch, which is the bottleneck based on our observations. Therefore, we propose a low-latency serverless ML inference system called Optimus via a new container management scheme.
 
 ## Prototype Overview

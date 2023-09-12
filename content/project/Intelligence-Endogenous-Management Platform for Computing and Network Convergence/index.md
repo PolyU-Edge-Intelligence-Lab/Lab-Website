@@ -22,8 +22,6 @@ image:
 #url_video: "https://www.youtube.com/watch?v=Cfx66gy9K9c"
 ---
 
-# Introduction
-
 Massive emerging applications are driving demand for the ubiquitous deployment of computing power today. This trend not only spurs the recent popularity of the Computing and Network Convergence (CNC), but also introduces an urgent need for the intelligentization of a management platform to coordinate changing resources and tasks in the CNC. Therefore, we present the concept of an intelligence-endogenous management platform for CNCs called CNC brain based on artificial intelligence technologies. It aims at efficiently and automatically matching the supply and demand with high heterogeneity in a CNC via four key building blocks, i.e., perception, scheduling, adaptation, and governance, throughout the CNC's life cycle. Their functionalities, goals, and challenges are presented. 
 
 ## Prototype Overview
