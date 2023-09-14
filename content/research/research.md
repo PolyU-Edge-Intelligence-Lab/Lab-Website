@@ -38,7 +38,7 @@ content:
   - name: Smart Healthcare
     tag: Smart Healthcare
   - name: Foundation Model & AIGC
-    tag: Foundation Model & AIGC
+    tag: Foundation Model
   
 
 design:

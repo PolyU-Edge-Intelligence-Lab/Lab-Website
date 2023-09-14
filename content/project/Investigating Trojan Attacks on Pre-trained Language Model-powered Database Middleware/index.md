@@ -1,7 +1,7 @@
 ---
 title: Investigating Trojan Attacks on Pre-trained Language Model-powered Database Middleware
 tags:
-- Foundation Model & AIGC
+- Foundation Model
 date: "2023-09-01"
 
 # Optional external URL for project (replaces project detail page).
