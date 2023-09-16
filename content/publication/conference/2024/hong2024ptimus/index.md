@@ -7,8 +7,8 @@ authors:
 - Sifu Luo
 - Wuhui Chen
 - Roger Wattenhofer
-date: "2023-09-12"
-doi: ""
+date: "2024-09-12"
+# doi: ""
 
 
 # Publication type.
@@ -18,7 +18,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In European Conference on Computer Systems (EuroSys 2024) (CCF-A)
+publication: In European Conference on Computer Systems (EuroSys) (CCF-A)
 #publication_short: In *INFOCOM* (CCF-A)
 
 # links:
