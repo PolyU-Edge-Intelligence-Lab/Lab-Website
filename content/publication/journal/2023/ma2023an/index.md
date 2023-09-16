@@ -1,12 +1,11 @@
 ---
-title: "Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning"
+title: "An Optimized Sparse Response Mechanism for Differentially Private Federated Learning"
 authors:
-- Jie Zhang
+- Jiating Ma
+- Yipeng Zhou
+- Laizhong Cui
 - Song Guo
-- Jingcai Guo
-- Deze Zeng
-- Jingren Zhou
-- Albert Zomaya
+
 
 date: "2023-01-01"
 # doi: "10.1109/TNSE.2022.3141728"
@@ -18,8 +17,8 @@ date: "2023-01-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Transactions on Computers (TC) (CCF-A)
-# publication_short: "TNSE (JCR-Q1)"
+publication: IEEE Transactions on Dependable and Secure Computing (TDSC) (CCF-A)
+# publication_short: "TCOM (CCF-B)"
 
 # url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
 # url_code: ''

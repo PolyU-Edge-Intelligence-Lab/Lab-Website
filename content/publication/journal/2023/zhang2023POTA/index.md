@@ -1,12 +1,12 @@
 ---
 title: "Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning"
 authors:
-- Jie Zhang
+- Chuan Zhang
+- Xingqi Luo
+- Jinwen Liang
+- Ximeng Liu
+- Liehuang Zhu
 - Song Guo
-- Jingcai Guo
-- Deze Zeng
-- Jingren Zhou
-- Albert Zomaya
 
 date: "2023-01-01"
 # doi: "10.1109/TNSE.2022.3141728"
@@ -18,7 +18,7 @@ date: "2023-01-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Transactions on Computers (TC) (CCF-A)
+publication: IEEE Transactions on Mobile Computing (TMC) (CCF-A)
 # publication_short: "TNSE (JCR-Q1)"
 
 # url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
