@@ -1,12 +1,14 @@
 ---
-title: "PMR: Prototypical Modal Rebalance for Multimodal Learning"
+title: "Optimizing Average AoI with Directional Charging for Wireless-Powered Network Edge"
 authors:
-- Yunfeng Fan
-- Wenchao Xu
-- Haozhao Wang
-- Junxiao Wang
+- Quan Chen
 - Song Guo
-date: "2023-06-18"
+- Wenchao Xu
+- Jing Li
+- Tuo Shi
+- Zhipeng Cai
+- Hong Gao
+date: "2023-06-19"
 doi: ""
 
 
@@ -17,8 +19,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (CCF-A)
-#publication_short: In "*WWW* (CCF-A)"
+publication: In IEEE/ACM International Symposium on Quality of Service (IWQoS) (CCF-B)
+#publication_short: In *INFOCOM* (CCF-A)
 
 # links:
 # - name: Custom Link

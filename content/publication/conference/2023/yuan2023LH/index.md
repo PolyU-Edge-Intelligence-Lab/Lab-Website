@@ -1,12 +1,12 @@
 ---
-title: "PMR: Prototypical Modal Rebalance for Multimodal Learning"
+title: "LHNet: A Low-cost Hybrid Network for Single Image Dehazing"
 authors:
-- Yunfeng Fan
-- Wenchao Xu
-- Haozhao Wang
-- Junxiao Wang
+- Shenghai Yuan
+- Jijia Chen
+- Jiaqi Li
+- Wenchao Jiang
 - Song Guo
-date: "2023-06-18"
+date: "2023-10-29"
 doi: ""
 
 
@@ -17,8 +17,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) (CCF-A)
-#publication_short: In "*WWW* (CCF-A)"
+publication: In ACM International Conference on Multimedia (MM) (CCF-A)
+# publication_short: In "*INFOCOM* (CCF-A)"
 
 # links:
 # - name: Custom Link

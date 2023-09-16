@@ -1,13 +1,13 @@
 ---
-title: "PASS: Patch Automatic Skip Scheme for Efficient Real-time Video Perception on Edge Devices"
+title: "Graph Knows Unknowns: Reformulate Zero-shot Learning as Sample-level Graph Recognition"
 authors:
-- Qihua Zhou
+- Jingcai Guo
 - Song Guo
-- Jun Pan
-- Jiacheng Liang
-- Zhenda Xu
-- Jingren Zhou
-date: "2022-11-20"
+- Qihua Zhou
+- Ziming Liu
+- Xiaocheng Lu
+- Fushuo Huo
+date: "2023-02-07"
 doi: ""
 
 
@@ -19,13 +19,13 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI) (CCF-A)
-#publication_short: In "*"
+# publication_short: In "
 
-# links:
+# links)
 # - name: Custom Link
 #   url: http://example.org
 # url_pdf: 
-# url_code: '#
+# url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
