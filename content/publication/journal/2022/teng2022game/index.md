@@ -8,7 +8,7 @@ authors:
 - Song Guo
 - Anfeng Liu
 
-date: "2022-07-01"
+date: "2022-01-01"
 doi: "10.1109/TMC.2022.3175218"
 
 # Publication type.

@@ -9,7 +9,7 @@ authors:
 - Zhihao Qu
 - Yi Wang
 
-date: "2022-04-01"
+date: "2022-01-01"
 doi: "10.1109/TC.2021.3063180"
 
 # Publication type.

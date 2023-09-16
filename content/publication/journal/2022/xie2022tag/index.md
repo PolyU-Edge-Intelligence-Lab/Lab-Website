@@ -7,7 +7,7 @@ authors:
 - Song Guo
 - Keqiu Li
 
-date: "2022-08-01"
+date: "2022-01-01"
 doi: "10.1109/TMC.2021.3052572"
 
 # Publication type.

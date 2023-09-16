@@ -6,7 +6,7 @@ authors:
 - Leijie Wu
 - Song Guo
 
-date: "2022-04-01"
+date: "2022-01-01"
 doi: "10.1109/TC.2021.3068219"
 
 # Publication type.

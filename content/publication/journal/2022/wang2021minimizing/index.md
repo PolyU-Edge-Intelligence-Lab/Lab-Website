@@ -7,7 +7,7 @@ authors:
 - Miaowen Wen
 - Vincent Poor
 
-date: "2022-09-01"
+date: "2022-01-01"
 doi: "10.1109/TMC.2021.3053136"
 
 # Publication type.

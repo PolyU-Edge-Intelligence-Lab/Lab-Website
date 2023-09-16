@@ -7,7 +7,7 @@ authors:
 - Song Guo
 - Xinbo Gao
 
-date: "2022-08-01"
+date: "2022-01-01"
 doi: "10.1109/TPDS.2021.3129618"
 
 # Publication type.

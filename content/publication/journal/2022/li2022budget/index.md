@@ -9,7 +9,7 @@ authors:
 - Albert Y. Zomaya
 - Song Guo
 
-date: "2022-09-01"
+date: "2022-01-01"
 doi: ""
 
 # Publication type.

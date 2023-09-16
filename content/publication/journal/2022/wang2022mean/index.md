@@ -8,7 +8,7 @@ authors:
 - Xinbo Gao
 - Guoyin Wang
 
-date: "2022-07-01"
+date: "2022-01-01"
 doi: "10.1109/TMC.2022.3186699"
 
 # Publication type.
