@@ -19,7 +19,7 @@ doi: "10.1109/TC.2021.3099723"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Computers (TC) (CCF-A)
+publication: IEEE Transactions on Computers (TC) (CCF-A)
 # publication_short: 
 
 
