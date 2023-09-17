@@ -4,7 +4,7 @@ authors:
 - Qiuying Yang
 - Xuan Liu
 - Song Guo
-date: "2021-06-01"
+date: "2021-06-10"
 doi: ""
 
 
@@ -15,8 +15,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE/ACM International Symposium on Quality of Service*
-publication_short: In *IWQOS*
+publication: In IEEE/ACM International Symposium on Quality of Service (IWQoS) (CCF-B)
+#publication_short: In 
 
 # links:
 # - name: Custom Link

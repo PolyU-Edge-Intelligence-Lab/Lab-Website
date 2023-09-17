@@ -6,7 +6,7 @@ authors:
 - Canlin Li
 - Zibin Zheng
 - Song Guo
-date: "2021-06-01"
+date: "2021-06-10
 doi: "10.1109/IWQOS52092.2021.9521306"
 
 
@@ -17,8 +17,7 @@ doi: "10.1109/IWQOS52092.2021.9521306"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE/ACM International Symposium on Quality of Service*
-publication_short: In *IWQOS*
+publication: In IEEE/ACM International Symposium on Quality of Service (IWQoS) (CCF-B)
 
 # links:
 # - name: Custom Link

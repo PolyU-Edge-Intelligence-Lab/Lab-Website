@@ -9,7 +9,7 @@ authors:
 - Qifeng Liu
 - Rajendra Akerkar
 
-date: "2021-05-02"
+date: "2021-01-01"
 doi: "10.1109/TC.2021.3099723"
 
 # Publication type.
@@ -19,8 +19,8 @@ doi: "10.1109/TC.2021.3099723"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Computers*"
-publication_short: IoTJ (JCR-Q1)
+publication: "*IEEE Transactions on Computers (TC) (CCF-A)
+# publication_short: 
 
 
 url_pdf: https://www.computer.org/csdl/journal/tc/5555/01/09496155/1vyjwTtgm2Y

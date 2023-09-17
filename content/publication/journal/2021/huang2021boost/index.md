@@ -8,7 +8,7 @@ authors:
 - Sanglu Lu
 - Song Guo
 
-date: "2021-06-15"
+date: "2021-01-01"
 doi: "10.1109/TMC.2021.3089359"
 
 # Publication type.
@@ -18,8 +18,8 @@ doi: "10.1109/TMC.2021.3089359"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Mobile Computing *"
-publication_short: TMC (CCF-A)
+publication: IEEE Transactions on Mobile Computing (TMC) (CCF-A)
+# publication_short: 
 
 
 url_pdf: https://ieeexplore.ieee.org/document/9456076

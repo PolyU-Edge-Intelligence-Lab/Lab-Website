@@ -6,7 +6,7 @@ authors:
 - Xiaowen Peng
 - Zibin Zheng
 - Song Guo
-date: "2021-07-01"
+date: "2021-07-07"
 doi: ""
 
 
@@ -17,8 +17,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Distributed Computing Systems*
-publication_short: In *ICDCS (CCF-B)*
+publication: In IEEE International Conference on Parallel and Distributed Systems (ICDCS) (CCF-B)
+# publication_short: In *ICDCS (CCF-B)*
 
 # links:
 # - name: Custom Link

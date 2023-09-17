@@ -8,7 +8,7 @@ authors:
 - Song Guo
 - Albert Zomaya
 - Minyi Guo
-date: "2021-09-01"
+date: "2021-11-01"
 doi: ""
 
 
@@ -19,8 +19,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*ACM Symposium on Cloud Computing*"
-publication_short: In "*ACM SoCC*"
+publication: In ACM Symposium on Cloud Computing (SoCC) (CCF-B)
+#publication_short: In "
 
 # links:
 # - name: Custom Link

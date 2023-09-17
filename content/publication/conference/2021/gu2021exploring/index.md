@@ -7,7 +7,7 @@ authors:
 - Hai Jin
 - Song Guo
 - Albert Zomaya
-date: "2021-01-01"
+date: "2021-05-10"
 doi: ""
 
 
@@ -18,8 +18,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Conference on Computer Communications*
-publication_short: In *INFOCOM* (CCF-A)
+publication: In IEEE Conference on Computer Communications (INFOCOM) (CCF-A)
+# publication_short: In *INFOCOM* (CCF-A)
 
 # links:
 # - name: Custom Link

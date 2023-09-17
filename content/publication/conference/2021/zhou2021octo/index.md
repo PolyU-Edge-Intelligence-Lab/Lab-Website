@@ -21,8 +21,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *USENIX Annual Technical Conference*
-publication_short: In *USENIX ATC* (CCF-A)
+publication: In USENIX Annual Technical Conference (ATC) (CCF-A)
+# publication_short: In 
 
 # links:
 # - name: Custom Link
