@@ -1,5 +1,5 @@
 ---
-title: "LHNet: A Low-cost Hybrid Network for Single Image Dehazing"
+title: "TradeFL: A Trading Mechanism for Cross-Silo Federated Learning"
 authors:
 - Shijing Yuan
 - Hongtao Lv
