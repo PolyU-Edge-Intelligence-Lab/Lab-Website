@@ -5,8 +5,6 @@ date: 2023-12-09
 
 CCF与CCF香港举办《湾区青年科技人才走向国际顶尖，路在何方？》特别观点论坛
 
-CCF and CCF Hong Kong held the "Bay Area Youth Science and Technology Talent to the Top of the World, Where is the Road?" Special Views Forum
-
  <!--more-->
 
 On December 9, co-sponsored by China Computer Society (CCF) and co-organized by CCF Hong Kong, the "Bay Area Young Science and Technology Talents to the Top of the World, Where is the Road?" The Special Views Forum was held at the Hong Kong Polytechnic University. Professor Jin Hai of Huazhong University of Science and Technology, Professor Song Guo, of Hong Kong University of Science and Technology, and more than 40 other science and technology professionals attended the forum.
