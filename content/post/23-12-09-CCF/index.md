@@ -1,5 +1,5 @@
 ---
-title: CCF and CCF Hong Kong held the "Bay Area Youth Science and Technology Talent to the Top of the World, Where is the Road?" Special Views Forum
+title: "Bay Area Youth Science and Technology Talent to the Top of the World, Where is the Road?" Special Views Forum was successfully held by CCF HONG KONG
 date: 2023-12-09
 ---
 
