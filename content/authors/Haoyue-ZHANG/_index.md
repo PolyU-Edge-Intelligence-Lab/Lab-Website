@@ -40,7 +40,6 @@ interests:
 
 education:
   courses:
-
 - course: PhD in Computer Science
   institution: The Hong Kong University of Science and Technology
   year: 2024-Now
