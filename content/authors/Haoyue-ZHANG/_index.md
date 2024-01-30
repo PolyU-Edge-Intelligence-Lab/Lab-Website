@@ -33,22 +33,21 @@ organizations:
   url: ""
 
 interests:
-
 - Efficient LLM
 - Edge AI
 - Machine Learning
 
 education:
   courses:
-- course: PhD in Computer Science
-  institution: The Hong Kong University of Science and Technology
-  year: 2024-Now
-- course: MSc in Computer Applied Technology
-  institution: Institute of Computing Technology, Chinese Academy of Science, Beijing, China
-  year: 2020-2023
-- course: BSc in Electronic Information
-  institution: Southwest Jiaotong University, Chengdu, China
-  year: 2016-2020
+  - course: PhD in Computer Science
+    institution: The Hong Kong University of Science and Technology
+    year: 2024-Now
+  - course: MSc in Computer Applied Technology
+    institution: Institute of Computing Technology, Chinese Academy of Science, Beijing, China
+    year: 2020-2023
+  - course: BSc in Electronic Information
+    institution: Southwest Jiaotong University, Chengdu, China
+    year: 2016-2020
 
 # Social/Academic Networking
 
