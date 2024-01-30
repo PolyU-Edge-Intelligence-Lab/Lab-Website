@@ -30,27 +30,27 @@ role: PhD Student
 
 organizations:
 
-- name: The Hong Kong Polytechnic University
+- name: The Hong Kong University of Science and Technology
   url: ""
 
 interests:
 
-- Efficient Neural Networks
-- Network Compression 
-- Data Quantization
+- Low-Shot Learning
+- Large Language/Vision Model
+- Artificial Intelligence
 
 education:
   courses:
 
-  - course: PhD in Department of Computing
-    institution: The Hong Kong Polytechnic University
-    year: 2021-Now
-  - course: MSc in Software Engineering
-    institution: Dalian University of Technology
-    year: 2018-2021
-  - course: BSc in Network Engineering
-    institution: Dalian University of Technology
-    year: 2014-2018
+  - course: PhD in Computer Science
+    institution: The Hong Kong University of Science and Technology
+    year: 2024-Now
+  - course: MEng in Computer Science
+    institution: Northwestern Polytechnical University (NWPU), Xi'an, China
+    year: 2019-2022
+  - course: BSc in Automation
+    institution: Northwestern Polytechnical University (NWPU), Xi'an, China
+    year: 2015-2019
 
 # Social/Academic Networking
 
@@ -102,6 +102,8 @@ user_groups:
 
 ---
 
-Peiran Dong (董沛然) is currently pursuing the PhD degree in The Hong Kong Polytechnic University. His research interests include efficient neural networks, network compression and data quantization. 
+Xiaocheng Lu (芦肖城) is a Ph.D. student in the department of Computer Science and Engineering (CSE) at The Hong Kong University of Science and Technology, supervised by Prof. Song Guo. Before that, he received the B.E. and M.E. degree from the School of Computer Science, Northwestern Polytechnical University, Xi'an, in 2019 and 2022, respectively.
+
+His research interest broadly lies in the areas of large language/vision model, aigc, low-shot learning and artificial intelligence. Some specific topics such as zero/few-shot learning, continual learning, generative models, and computer vision are highly involved.
 
 ---
