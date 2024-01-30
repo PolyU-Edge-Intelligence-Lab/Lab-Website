@@ -15,20 +15,23 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Research Assistant
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: The Hong Kong Polytechnic University
+- name: The Hong Kong University of Science and Technology
   url: ""
 
 interests:
-- Zero/Few-Shot Learning
-- Edge/Cloud Computing
+- Low-Shot Learning
+- Large Language/Vision Model
 - Artificial Intelligence
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: The Hong Kong University of Science and Technology
+    year: 2024-Now
   - course: MEng in Computer Science
     institution: Northwestern Polytechnical University (NWPU), Xi'an, China
     year: 2019-2022
@@ -39,7 +42,6 @@ education:
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
 social:
-
 - icon: envelope
   icon_pack: fas
   link: 'mailto:xiaochenglu1997@gmail.com'
@@ -51,9 +53,10 @@ social:
   link: https://github.com/Forest-art
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
-# -icon: cv
-# icon_pack: ai
-# link: resume/cv-jie-zhang/cv.pdf
+- # icon: cv
+  
+- # icon_pack: ai
+  # link: resume/cv-jie-zhang/cv-jie-zhang.pdf
 
 # Choose which group that you belong to
 #  available groups:
@@ -63,12 +66,11 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Staffs
+- Research Students
 ---
 
-Xiaocheng Lu (芦肖城) is a Research Assistant of the computer science at the Edge Intelligence Lab in Hong Kong Polytechnic University (PolyU), supervised by Prof. Guo Song. Before that, he received the B.E. and M.E. degree from the School of Computer Science, Northwestern Polytechnical University, Xi'an, in 2019 and 2022, respectively.
+Xiaocheng Lu (芦肖城) is a Ph.D. student in the department of Computer Science and Engineering (CSE) at The Hong Kong University of Science and Technology, supervised by Prof. Song Guo. Before that, he received the B.E. and M.E. degree from the School of Computer Science, Northwestern Polytechnical University, Xi'an, in 2019 and 2022, respectively.
 
-His research interest broadly lies in the areas of edge computing and artificial intelligence. Some specific topics such as zero/few-shot learning, federated learning, and computer vision are highly involved.
+His research interest broadly lies in the areas of large language/vision model, aigc, low-shot learning and artificial intelligence. Some specific topics such as zero/few-shot learning, continual learning, generative models, and computer vision are highly involved.
 
 ---
-
