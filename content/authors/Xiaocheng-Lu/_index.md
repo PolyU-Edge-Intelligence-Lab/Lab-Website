@@ -60,7 +60,13 @@ social:
 
 - icon: envelope
   icon_pack: fas
-  link: 'peiran.dong@connect.polyu.hk'
+  link: 'mailto:xiaochenglu1997@gmail.com'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.hk/citations?user=S7XO5kIAAAAJ&hl=zh-CN
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Forest-art
 
 # - icon: google-scholar
 
