@@ -72,9 +72,9 @@ user_groups:
 - Research Students
 ---
 
-Tao Han (韩滔) is a PhD student in the department of Computer Science and Engineering at the Hong Kong University of Science and Technology, Hong Kong SAR, China, supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), Fellow of IEEE. Before that,  in 2022, he received M.S. degree in computer science and technology from Northwestern Polytechnical University (西北工业大学), Xi'an, China, supervised by Prof. [Qi Wang](https://crabwq.github.io/) in [School of Artificial Intelligence, Optics and Electronics (iOPEN)](https://iopen.nwpu.edu.cn/index.htm). From Apr. 2022 to Jan. 2024, he was a research assistant in the AI4Science team, Shanghai Artificial Intelligence Laboratory, China, working with Doc. [Lei Bai](http://leibai.site/) and Prof. [Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&%20hl=en). 
+Tao Han (韩滔) is a PhD student in the department of Computer Science and Engineering at the Hong Kong University of Science and Technology, Hong Kong SAR, China, supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), Fellow of IEEE. Before that,  in 2022, he received M.S. degree in computer science and technology from Northwestern Polytechnical University (西北工业大学), Xi'an, China, supervised by Prof. [Qi Wang](https://crabwq.github.io/) in [School of Artificial Intelligence, Optics and Electronics (iOPEN)](https://iopen.nwpu.edu.cn/index.htm). From Apr. 2022 to Jan. 2024, he was a research assistant in the AI4Science team, Shanghai Artificial Intelligence Laboratory, China, working with Dr. [Lei Bai](http://leibai.site/) and Prof. [Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&%20hl=en). 
 
-His research interests include computer vision, Ai4science, numrical weather prediction, and artificial intelligence.
+His research interests include computer vision, Ai4science, numerical weather prediction, and artificial intelligence.
 
 More information please refer to my [homepage](https://taohan10200.github.io/). 
 ---
