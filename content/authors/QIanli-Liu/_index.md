@@ -2,12 +2,12 @@
 ---
 # Display name
 # Format: Your_given_name Your_surname 
-title: Feijie Wu
+title: Qianli Liu
 
 # Username
 # Format: this should match the folder name
 authors:
-- Feijie Wu
+- Qianli Liu
 
 # Is this the primary user of the site?
 # no need to modify 
@@ -15,41 +15,37 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: MPhil Student (Now: Ph.D. student, Purdue University.)
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: The Hong Kong Polytechnic University
+- name: The Hong Kong University of Science and Technology
   url: ""
 
 interests:
-- Federated Learning 
-- Continual Learning 
-- Blockchain  
+- Distributed Learning
+- Artificial Intelligence
 
 education:
   courses:
+  - course: PhD in Computer Science and Engineering
+    institution: The Hong Kong University of Science and Technology, Hong Kong SAR, China
+    year: 2024-Now
   - course: BSc in Computing
-    institution: The Hong Kong Polytechnic University
-    year: 2016-2020
+    institution: The Hong Kong Polytechnic University, Hong Kong SAR, China
+    year: 2020-2024
 
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:harli.wu[at]connect.polyu.hk'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=HIUrcKgAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/HarliWu
+  link: 'mailto:qianli.liu@polyu.edu.hk'
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
-# - icon: cv
-  # icon_pack: ai
-  # link: resume/cv-andrew-ng/cv.pdf
+# # -icon: cv
+# # icon_pack: ai
+# # link:
 
 # Choose which group that you belong to
 #  available groups:
@@ -59,9 +55,10 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Previous Members
+- Research Students
 ---
 
-More information please refer to my [homepage](https://harli.me/). **Time Period:** 2020-2021. **Now:** Ph.D. student, Purdue University.
+Qianli Liu (刘千里) is pursuing his Ph.D. degree in the Department of Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST), Hong Kong SAR, China, supervised by Prof. Song Guo. Before that, in 2024, he received B.Sc. degree in Computing from the Hong Kong Polytechnic University, Hong Kong SAR, China
 
 ---
+
