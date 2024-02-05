@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: MPhil Student (Now: Ph.D. student, Purdue University.)
+role: MPhil Student 
 
 # Organizations/Affiliations
 organizations:
