@@ -28,4 +28,7 @@ main:
   - name: Workshop
     url: '/workshop'
     weight: 70
+  - name: Alumni
+    url: '/alumni'
+    weight: 80
   
