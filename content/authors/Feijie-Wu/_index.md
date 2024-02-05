@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: MPhil Student
+role: MPhil Student (Ph.D. student, Purdue University.)
 
 # Organizations/Affiliations
 organizations:
@@ -62,6 +62,6 @@ user_groups:
 - Previous Members
 ---
 
-More information please refer to my [homepage](https://harli.me/)
+More information please refer to my [homepage](https://harli.me/). **Time Period:** 2020-2021. **Now:** Ph.D. student, Purdue University.
 
 ---

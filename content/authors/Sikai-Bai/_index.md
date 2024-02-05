@@ -15,20 +15,23 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Research Assistant
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: The Hong Kong Polytechnic University
+- name: The Hong Kong University of Science and Technology
   url: ""
 
 interests:
 - Federated Learning
-- Edge/Cloud Computing
+- Large Language/Vision Model
 - Artificial Intelligence
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: The Hong Kong Polytechnic University
+    year: 2024-Now
   - course: MEng in Computer Science
     institution: Northwestern Polytechnical University
     year: 2019-2022
@@ -38,24 +41,15 @@ education:
 
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
-# social:
 social:
-
 - icon: envelope
   icon_pack: fas
   link: 'mailto:whitesk1973@gmail.com'
 
-# - icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=JRCNlI8AAAAJ&hl=en
-# - icon: github
-#  icon_pack: fab
-#  link: https://github.com/cugzj
-
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
-# -icon: cv
-# icon_pack: ai
-# link: resume/cv-jie-zhang/cv.pdf
+# # -icon: cv
+# # icon_pack: ai
+# # link:
 
 # Choose which group that you belong to
 #  available groups:
@@ -65,10 +59,10 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Staffs
+- Research Students
 ---
 
-Bai Sikai (白思开) is a Research Assistant of the computer science at the Edge Intelligence Lab, supervised by Prof. Guo Song. His research interests include deep federated learning, network function virtualization, Machine Learning and Edge Computing.
+Bai Sikai (白思开) is a Ph.D. student in the department of Computer Science and Engineering (CSE) at The Hong Kong University of Science and Technology, supervised by Prof. Song Guo. His research interests include federated learning, large language/vision model, Machine Learning and Edge Computing.
 
 ---
 
