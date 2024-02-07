@@ -10,7 +10,7 @@
 - Xiaojie Wang (PolyU,  2019-2021),  Professor, Young Elite Scientists Sponsorship Program, Chongqing University of Posts and Telecommunications, China
 - Wenchao Xu (PolyU, 2018-2020),  Research Assistant Professor, Hong Kong Polytechnic University
 - Zhihao Qu (PolyU, 2018-2020),  Associate Professor, Hohai University, China
-- Yufeng Zhan (PolyU, 2018-2020),  Assistant Professor, Beijing Institute of Technology, China
+- Yufeng Zhan (PolyU, 2018-2020),  Associate Professor, Beijing Institute of Technology, China
 - Chao Fang (PolyU, 2018), Associate Professor, Beijing University of Technology, China
 - Kun Wang (PolyU, 2016-2018), Professor, Fudan University, China
 - Huawei Huang (PolyU, 2016-2017), Associate Professor, Sun Yat-Sen University, China
