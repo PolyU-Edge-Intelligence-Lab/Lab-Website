@@ -15,7 +15,7 @@ organizations:
 
 interests:
 - Blockchain
-- Database
+- Knowledge Graph
 - Information Retrieval
 
 education:
