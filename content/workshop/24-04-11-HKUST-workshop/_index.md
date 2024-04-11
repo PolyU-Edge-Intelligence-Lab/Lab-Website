@@ -25,17 +25,23 @@ date: 2024-04-20
 
 ### Conference Co-chairs 
 Jingxu Zhu, Western University, London, Ontario, Canada (jzhu@uwo.ca)
+
 Song Guo, The Hong Kong University of Science and Technology, Hong Kong (songguo@cse.ust.hk)
+
 Guohua Chen, City University of Hong Kong, Hong Kong (guohchen@cityu.edu.hk)
 
 ### Steering Committee
 Yike Guo, The Hong Kong University of Science and Technology, Hong Kong
+
 Victor C. M. Leung, The University of British Columbia (UBC), Vancouver, Canada 
 
 ### Program Chair
 Peng Li, The University of Aizu, Japan (pengli@u-aizu.ac.jp)
+
 Wenchao Xu,  The Hong Kong Polytechnic University (PolyU), Hong Kong (wenchao.xu@polyu.edu.hk)
+
 Jingcai Guo,  The Hong Kong Polytechnic University (PolyU), Hong Kong (jc-jingcai.guo@polyu.edu.hk)
+
 ## Program 
 
 | Time          | Session                                                      | Speaker                         |
