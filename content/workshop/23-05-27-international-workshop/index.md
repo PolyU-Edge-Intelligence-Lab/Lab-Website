@@ -1,5 +1,5 @@
 ---
-#title: International Workshop on Edge Intelligence and Future Network: towards Ubiquitous Connectivity 
+title: International Workshop on Edge Intelligence and Future Network: towards Ubiquitous Connectivity 
 #tags:
 #- Smart City
 date: "2022-05-20"
