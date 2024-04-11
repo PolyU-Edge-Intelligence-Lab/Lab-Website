@@ -1,20 +1,6 @@
 ---
 title: International Workshop on Edge Intelligence and Future Network: towards Ubiquitous Connectivity 
-#tags:
-#- Smart City
-date: "2022-05-20"
-#type: book
-
-# Optional external URL for project (replaces project detail page).
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
-# url_code: ""
-# url_pdf: ""
-# url_slides: ""
-# url_video: ""
+date: 2022-05-20
 ---
 
 ![](feature.png)
