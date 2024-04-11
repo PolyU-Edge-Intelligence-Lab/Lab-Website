@@ -39,6 +39,7 @@ permalinks:
   authors: '/people/:slug/'
   publication: '/publications/:slug/'
   post: '/news/:slug/'
+  workshop: '/activities/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
