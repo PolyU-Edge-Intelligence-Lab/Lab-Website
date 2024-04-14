@@ -69,7 +69,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Staffs
+- no
 ---
 
 Yan Hong (洪岩) is a Postdoctoral fellow at the Hong Kong Polytechnic University, supervised by Prof. Song Guo. He is also a Fellow of the British Royal Society of Arts (FRSA). He is also the executive director of the Jiangsu Provincial University Joint Laboratory for International Cooperation in Sustainable Textile Materials and Engineering. Previously, he has been an Associate Professor of Soochow University (20219-2022). He was selected by the China Postdoctoral International Exchange Program in 2018. In 2021, he was also chosen as a Young Talent awarded by China Association for Science and Technology. He is currently a member of the China Technology Entrepreneurship Association Manufacturing Innovation and Entrepreneurship Working Committee. He is serving as the editorial board member of Industria Textile. He is also the EMBA tutor at Newton Business School. His research interests include Design Intelligence, Metaverse Social Systems, and AI-based Industrial Informatics.

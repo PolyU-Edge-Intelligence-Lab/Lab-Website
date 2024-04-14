@@ -68,7 +68,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Students
+- no
 ---
 
 Qihua Zhou is a PhD candidate with the Department of Computing, The Hong Kong Polytechnic University. His research interests are about TinyML systems, distributed AI systems, video perception and mobile vision applications. He was an research intern in Microsoft Research Asia, focusing on the design of efficient video codecs and streaming systems. He is also a member of Dr.Body-Lab (https://zerodrbody.wixsite.com/drbody), collaborating with Dr. Zhenda Xu. 

@@ -28,8 +28,6 @@ main:
   - name: Activities
     url: '/workshop'
     weight: 70
-  - name: Alumni
-    url: '/alumni'
-    weight: 90
+
  
   

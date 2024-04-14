@@ -58,7 +58,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Staffs
+- no
 ---
 
 Zibo Jiang is pursuing his Ph.D. degree in the College of Computer Science and Electronic Engineering at Hunan University (湖南大学),  China, supervised by Prof. Zheng Qin. Before that, in 2020, he received M.Eng.degree in software engineering from Hunan University (湖南大学), Hunan, China, supervised by Prof. Zheng Qin in Hunan Big Data Laboratory.
