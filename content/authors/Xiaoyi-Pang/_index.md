@@ -68,14 +68,14 @@ social:
 
   icon_pack: fas&#x20;
 
-  link: '<csexypang@ust.hk>'
+  link: 'csexypang@ust.hk'
 
 - icon: google-scholar
   icon_pack: ai
-  link: <https://scholar.google.com/citations?user=wWCZSVMAAAAJ&hl=zh-CN&oi=ao>
+  link: https://scholar.google.com/citations?user=wWCZSVMAAAAJ&hl=zh-CN&oi=ao
 - icon: github 
   icon_pack: fab 
-  link: <https://xypang01.github.io/>
+  link: https://xypang01.github.io/
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
 
