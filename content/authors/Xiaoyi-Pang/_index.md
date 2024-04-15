@@ -73,8 +73,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: <https://scholar.google.com/citations?user=wWCZSVMAAAAJ&hl=zh-CN&oi=ao>
-
-- icon: github icon_pack: fab link: <https://xypang01.github.io/>
+- icon: github 
+  icon_pack: fab 
+  link: <https://xypang01.github.io/>
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
 
