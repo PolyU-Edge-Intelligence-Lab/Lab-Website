@@ -17,7 +17,6 @@ date: 2024-04-20
 # url_video: ""
 ---
 
-![](feature.png)
 
 <!--more-->
 
