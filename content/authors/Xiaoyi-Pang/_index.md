@@ -24,7 +24,7 @@ superuser: false
 
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
 
-role: Postdoctoral Fellow
+role: Post-doctoral Fellow
 
 # Organizations/Affiliations
 
