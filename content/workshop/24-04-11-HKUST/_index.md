@@ -64,7 +64,7 @@ Jingcai Guo,  The Hong Kong Polytechnic University (PolyU), Hong Kong (jc-jingc
 | 14:00 - 14:10 | [Topic: Progress and Prospects of Next-Generation Metamorphic Evolutional Robots (新一代变胞结构进化机器人进展与前景)](talk11) | Prof. Jiansheng Dai (戴建生)|
 | 14:10 - 14:20 | [Topic: Advanced Biorefinery - A Greener Way Towards Carbon Neutrality](talk12) | Prof. Charles XU (徐春保)           |
 | 14:20 - 14:30 | [Topic: A greener future: next generation tandem cells](talk13) | Prof. Xiaojing Hao (郝晓静)          |
-| 14:30 - 14:40 | [TBD](talk14) | Prof. Zaiping Guo (郭再萍) |
+| 14:30 - 14:40 | [Topic: Designing Electrode Materials and Electrolyte for Metal-Ion Batteries](talk14) | Prof. Zaiping Guo (郭再萍) |
 | 14:40 - 14:50 | [Topic: Microseismic Monitoring, Early Warning, and Prevention of Mining Power Hazards (矿山动力灾害微地震监测预警及其防治)](talk15) | Prof.Yunxing Cao (曹运兴)  |     
 | 14:50 - 15:00 |   [Topic: Preparation of low negative carbon building materials and products by carbon mineralization (碳矿化制备低负碳建筑材料和制品)](talk16) | Prof. Caijun Shi (史才军)  |
 | 15:00 - 15:10 | [Topic: The Status and Future of Robotics System for Vascular Interventional Surgery (泛血管介入手术机器人技术的现状和未来)](talk17) | Prof. Shuxiang Guo (郭书祥)          |
