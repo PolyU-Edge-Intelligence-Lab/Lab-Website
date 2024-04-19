@@ -53,10 +53,9 @@ Jingcai Guo,  The Hong Kong Polytechnic University (PolyU), Hong Kong (jc-jingc
 | 09:45 - 10:00 | [Topic: 新工科与新范式：从天大方案到天大模式](talk3) | Peihua Gu (顾佩华)               |
 | 10:00 - 10:25 | Coffee Break | N/A                |
 | 10:25 - 10:35 | [Topic: 支持大模型训练的计算机系统设计时需要考虑的几个问题](talk4) | Prof. Weimin Zheng (郑纬民)            | 
-
 | 10:35 - 10:45 | [Topic: The innovation and generalization of AI+ (AI+ 创新与泛化应用)](talk6) | Prof. Dapeng Zhang (张大鹏)                   |
 | 10:45 - 10:55 | [Topic: Explainable AI (浅谈可解释人工智能)](talk5) | Prof. Wenjun Zeng (曾文军)                  |
-| 10:55 - 11:45 |[Panel Discussion: “The Implication of Ever Fast Development of AI”](talk6) |Chair: Jidong Zhai, Moderator: Song Guo, Panelists: Weimin Zheng (郑纬民), Dapeng Zhang (张大鹏), Wenjun Zeng (曾文军)  |
+| 10:55 - 11:45 | [Panel Discussion: “The Implication of Ever Fast Development of AI”](talk6) |Chair: Jidong Zhai, Moderator: Song Guo, Panelists: Weimin Zheng (郑纬民), Dapeng Zhang (张大鹏), Wenjun Zeng (曾文军)  |
 | 11:45 - 13:20 | Lunch | N/A           |
 | 13:20 - 13:30 | [Topic: Simulation and Modelling of Particulate Systems](talk7) | Aibing Yu (余艾冰)          |
 | 13:30 - 13:40 | [Topic: Development of floating structures to promote sustainable development of the Greater Bay Area (发展漂浮结构促进大湾区持续发展)](talk8) | Prof. Xiaolin Zhao (赵晓林)                  |
