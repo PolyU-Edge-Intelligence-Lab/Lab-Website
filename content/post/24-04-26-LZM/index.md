@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Ziming Liu for her PhD graduation!
+title: Congratulations to Ziming Liu for his PhD graduation!
 date: 2024-04-26
 ---
 
