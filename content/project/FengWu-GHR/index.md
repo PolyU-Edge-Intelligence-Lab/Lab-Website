@@ -1,7 +1,9 @@
 ---
 title: FengWu-GHR: Learning the Kilometer-scale Medium-range Global Weather Forecasting
+tags:
 - Ai for Science
 date: "2024-01-28"
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
