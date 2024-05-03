@@ -19,7 +19,7 @@ date: 2024-04-20
 
 
 <!--more-->![](feature.png)
-<!--more-->![](2.jpg)
+
 ## Organizing Committee
 
 ### Conference Co-chairs 
@@ -76,6 +76,4 @@ Jingcai Guo,  The Hong Kong Polytechnic University (PolyU), Hong Kong (jc-jingc
 ---
 
 ![](featured.png)
-=======
 
->>>>>>> 566e0a6d46ceb39ebcd135830896dd81eb0fa3f7
