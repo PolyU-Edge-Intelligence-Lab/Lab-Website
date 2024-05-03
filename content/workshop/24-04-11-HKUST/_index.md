@@ -73,5 +73,4 @@ Jingcai Guo,  The Hong Kong Polytechnic University (PolyU), Hong Kong (jc-jingc
 
 ---
 
-![](featured.png)
 
