@@ -17,7 +17,7 @@ date: 2024-04-20
 # url_video: ""
 ---
 
-<!more--->![](feature.png)
+![](feature.png)
 
 ## Organizing Committee
 
