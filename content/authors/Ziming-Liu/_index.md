@@ -19,7 +19,7 @@ role: Tencent employee
 
 # Organizations/Affiliations
 organizations:
-- name: The Hong Kong Polytechnic University
+- name: Tencent
   url: ""
 
 interests:
