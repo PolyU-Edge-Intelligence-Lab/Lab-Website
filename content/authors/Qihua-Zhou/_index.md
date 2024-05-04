@@ -19,11 +19,11 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: PhD Student
+role: Graduated students
 
 # Organizations/Affiliations
 organizations:
-- name: The Hong Kong Polytechnic University
+- name: The Shenzhen University
   url: ""
 
 interests:
@@ -36,7 +36,10 @@ education:
   courses:
   - course: PhD in Department of Computing
     institution: The Hong Kong Polytechnic University 
-    year: 2019-now
+    year: 2019-2024
+  - course: Assistant Professor
+    institution: Shenzhen University
+    year: 2024-now
     
 
 # Social/Academic Networking
