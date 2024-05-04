@@ -19,7 +19,7 @@ role: Assistant Professor in SZU
 
 # Organizations/Affiliations
 organizations:
-- name: The Hong Kong Polytechnic University
+- name: The Shenzhen University
   url: ""
 
 interests:
