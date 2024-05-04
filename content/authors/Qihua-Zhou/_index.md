@@ -38,11 +38,6 @@ education:
     institution: The Hong Kong Polytechnic University 
     year: 2019-2024
 
-Work destination:
-- Assistant Professor
-- Shenzhen University
-- 2024-now
-    
 
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
@@ -76,4 +71,4 @@ user_groups:
 - Graduated students
 ---
 
-Qihua Zhou was a PhD candidate with the Department of Computing, The Hong Kong Polytechnic University. His research interests are about TinyML systems, distributed AI systems, video perception and mobile vision applications. He was an research intern in Microsoft Research Asia, focusing on the design of efficient video codecs and streaming systems. He was also a member of Dr.Body-Lab (https://zerodrbody.wixsite.com/drbody), collaborating with Dr. Zhenda Xu. 
+Qihua Zhou is a PhD graduated student with the Department of Computing, The Hong Kong Polytechnic University. His research interests are about TinyML systems, distributed AI systems, video perception and mobile vision applications. He was an research intern in Microsoft Research Asia, focusing on the design of efficient video codecs and streaming systems. He was also a member of Dr.Body-Lab (https://zerodrbody.wixsite.com/drbody), collaborating with Dr. Zhenda Xu. Now he is an assistant professor at Shenzhen University.
