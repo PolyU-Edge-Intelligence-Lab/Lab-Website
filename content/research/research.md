@@ -40,7 +40,7 @@ content:
   - name: Foundation Model & AIGC
     tag: Foundation Model
   - name: AI for Science
-    tag: AI for Science
+    tag: Ai for Science
   
 
 design:

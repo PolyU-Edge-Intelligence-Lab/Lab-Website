@@ -24,7 +24,7 @@ organizations:
 
 interests:
 - Computer Vision
-- Ai4science
+- AI for science
 - Numerical Weather Prediction
 - Large Weather Forecast Model
 - Artificial Intelligence

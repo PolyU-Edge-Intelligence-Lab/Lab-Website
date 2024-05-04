@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: MPhil of Science in Computing
+    institution: The Hong Kong Polytechnic University
+    year: 2020-2022
   - course: BSc of Science in Computing
     institution: The Hong Kong Polytechnic University
     year: 2016-2020
