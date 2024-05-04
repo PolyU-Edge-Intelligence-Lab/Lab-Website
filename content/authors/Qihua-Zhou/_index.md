@@ -39,10 +39,9 @@ education:
     year: 2019-2024
 
 Work destination:
-  courses:
-  - course: Assistant Professor
-    institution: Shenzhen University
-    year: 2024-now
+- Assistant Professor
+- Shenzhen University
+- 2024-now
     
 
 # Social/Academic Networking
