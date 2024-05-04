@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  -course: PhD in Department of Computing
+  - course: PhD in Department of Computing
     institution: The Hong Kong Polytechnic University 
     year: 2020-2024
   - course: MSc in Aerospace Engineering

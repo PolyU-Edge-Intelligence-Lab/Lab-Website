@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: PhD Student
+role: Assistant Professor in SZU
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in School of Computing
     institution: The Hong Kong Polytechnic University
-    year: 2020-now
+    year: 2020-2024
   - course: MS in Statistics
     institution: Columbia University
     year: 2017-2019
@@ -65,9 +65,9 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- no
+- Graduated students
 ---
 
-郭韬 is a research student at School of Computing in the Hong Kong Polytechnic University. Her research interests include tiny machine learning, on-device learning model compression and acceleration. He joins the on-device learning group, which focuses on enabling deployment of deep learning models on small edge devices with fewer bits without scarifice accuracy and speed.
+郭韬 is a graduated PhD student at School of Computing in the Hong Kong Polytechnic University. Her research interests include tiny machine learning, on-device learning model compression and acceleration. He joins the on-device learning group, which focuses on enabling deployment of deep learning models on small edge devices with fewer bits without scarifice accuracy and speed. Now she is is an assistant professor at Shenzhen University.
 
 ---
