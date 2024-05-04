@@ -19,7 +19,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Assistant Professor
+role: Assistant Professor in SZU
 
 # Organizations/Affiliations
 organizations:
@@ -37,6 +37,9 @@ education:
   - course: PhD in Department of Computing
     institution: The Hong Kong Polytechnic University 
     year: 2019-2024
+
+Work destination:
+  courses:
   - course: Assistant Professor
     institution: Shenzhen University
     year: 2024-now
@@ -74,4 +77,4 @@ user_groups:
 - Graduated students
 ---
 
-Qihua Zhou is a PhD candidate with the Department of Computing, The Hong Kong Polytechnic University. His research interests are about TinyML systems, distributed AI systems, video perception and mobile vision applications. He was an research intern in Microsoft Research Asia, focusing on the design of efficient video codecs and streaming systems. He is also a member of Dr.Body-Lab (https://zerodrbody.wixsite.com/drbody), collaborating with Dr. Zhenda Xu. 
+Qihua Zhou was a PhD candidate with the Department of Computing, The Hong Kong Polytechnic University. His research interests are about TinyML systems, distributed AI systems, video perception and mobile vision applications. He was an research intern in Microsoft Research Asia, focusing on the design of efficient video codecs and streaming systems. He was also a member of Dr.Body-Lab (https://zerodrbody.wixsite.com/drbody), collaborating with Dr. Zhenda Xu. 
