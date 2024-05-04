@@ -26,9 +26,10 @@ The Pervasive Intelligence Laboratory, directed by [Prof. Song Guo](https://cse.
 
 We focus on the following research areas
 
-- Federated Learning & On-Device Learning 
 - Cloud-Edge Hybrid Cyberinfrastructure for Foundation Models    
 - Trustworthy AI Governance
+- Federated Learning & On-Device Learning
+- **Cloud-Edge Collaborative Large Models:** We focus on building open, intelligent, and efficient AI large models that cater to the diverse data and resources distributed across edge endpoints. Our goal is to satisfy the multi-faceted demands of large model training, fine-tuning, inference, and deployment, while optimizing the model construction process through intelligent means to enhance performance. We aim to drive the widespread adoption of AIGC in vertical application scenarios, achieving deep technology integration and maximum value creation.
 
 ## Join Us
 
