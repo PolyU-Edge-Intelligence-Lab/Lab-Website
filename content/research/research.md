@@ -43,9 +43,9 @@ content:
     tag: AI for Science
   - name: Trustworthy AI
     tag: Trustworthy AI
-  - name: Edge AI application
-    tag: Edge AI application
-  - Others:
+  - name: Edge AI Application
+    tag: Edge AI Application
+  - name: Others
     tag: Others
   
 
