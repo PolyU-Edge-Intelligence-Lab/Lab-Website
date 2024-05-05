@@ -2,7 +2,7 @@
 title: Next generation blockchain system 
 summary: Our team aims at the next-generation blockchain system with scalability, security, privacy, and intelligence and our proposed architecture is composed of 6 layers as above. In the following, the details of these 6 layers will be explained from top to bottom.
 tags:
-- Blockchain
+- Others
 date: "2022-04-01"
 
 # Optional external URL for project (replaces project detail page).

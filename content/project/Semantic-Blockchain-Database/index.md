@@ -2,7 +2,7 @@
 title: 	Semantic Query and Index Layer in Semantic Blockchain Database
 summary: Blockchain database is a new direction that constructs index on top of blockchain to provide rich query functionalities. The existing works are either insecure because the query process separates from the blockchain consensus, or inscalable because all the data needs to be stored in the block. Therefore, we propose an authenticated semantic database layer for blockchains.
 tags:
-- Blockchain
+- Others
 date: "2022-03-18"
 
 # Optional external URL for project (replaces project detail page).

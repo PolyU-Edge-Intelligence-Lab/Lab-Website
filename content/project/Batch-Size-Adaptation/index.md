@@ -3,7 +3,7 @@ title: Heterogeneous Data \& Resource Constraints- Batch Size Adaptation
 summary: To tackle non-IID data challenge in FL, we consider to design a new method to improve training efficiency of each client from the perspective of whole training process.
 
 tags:
-- Federated Learning
+- Others
 date: "2022-03-20"
 
 # Optional external URL for project (replaces project detail page).

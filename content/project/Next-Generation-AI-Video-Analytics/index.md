@@ -2,7 +2,7 @@
 title: Next Generation AI Video Analytics Detection System on Driving Behavior and Mental Factors
 summary: Video-based abnormal driving behavior and mental detection is becoming more and more popular. The key goal is to ensure the safety of drivers and passengers in the vehicle, and it is an essential step to realize autonomous driving at this stage.
 tags:
-- Smart City
+- Edge AI Application
 date: "2021-09-13"
 
 # Optional external URL for project (replaces project detail page).

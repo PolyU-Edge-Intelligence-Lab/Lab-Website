@@ -2,7 +2,7 @@
 title: Edge AI in smart city
 summary: 
 tags:
-- Smart City
+- Edge AI Application
 date: "2022-03-20"
 
 # Optional external URL for project (replaces project detail page).

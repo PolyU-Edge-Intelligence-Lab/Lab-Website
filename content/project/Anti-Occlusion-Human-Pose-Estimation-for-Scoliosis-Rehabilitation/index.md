@@ -1,7 +1,7 @@
 ---
 title: Anti-Occlusion Human Pose Estimation for Scoliosis Rehabilitation
 tags:
-- Smart Healthcare
+- Edge AI Application
 date: "2022-01-01"
 
 # Optional external URL for project (replaces project detail page).

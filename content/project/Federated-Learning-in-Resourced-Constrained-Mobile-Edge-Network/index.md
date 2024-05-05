@@ -2,7 +2,7 @@
 title: Federated Learning in Resourced Constrained Mobile Edge Network
 summary: Federated learning (FL) has been proposed as a promising solution for future AI applications with strong privacy protection. It enables distributed computing nodes to collaboratively train models without exposing their own data.
 tags:
-- Federated Learning
+- Others
 date: "2016-01-01"
 
 # Optional external URL for project (replaces project detail page).

@@ -2,7 +2,7 @@
 title: Radiation-free Spine Reconstruction and Posture Analysis Techniques with 3D Imaging
 summary: Scoliosis is a sideways curvature of the spine that occurs most often during thegrowth spurt just before puberty. According to the survey and statistics of China Child Development Center, more than 20% teens have scoliosis.
 tags:
-- Smart Healthcare
+- Edge AI Application
 date: "2022-03-27"
 
 # Optional external URL for project (replaces project detail page).

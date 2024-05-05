@@ -27,20 +27,28 @@ content:
   filter_button:
   - name: AI Computing Cyberinfrastructure
     tag: AI Computing Cyberinfrastructure
-  - name: TinyML
-    tag: TinyML
-  - name: Federated Learning
-    tag: Federated Learning
-  - name: Blockchain
-    tag: Blockchain
-  - name: Smart City
-    tag: Smart City
-  - name: Smart Healthcare
-    tag: Smart Healthcare
+  # - name: TinyML
+  #  tag: TinyML
+  #- name: Federated Learning
+  #  tag: Federated Learning
+  #- name: Blockchain
+  #  tag: Blockchain
+  #- name: Smart City
+  #  tag: Smart City
+  #- name: Smart Healthcare
+  #  tag: Smart Healthcare
   - name: Foundation Model & AIGC
     tag: Foundation Model
   - name: AI for Science
-    tag: Ai for Science
+    tag: AI for Science
+  - name: Trustworthy AI
+    tag: Trustworthy AI
+  - name: Edge AI application
+    tag: Edge AI application
+  - Others:
+    tag: Others
+  
+
   
 
 design:

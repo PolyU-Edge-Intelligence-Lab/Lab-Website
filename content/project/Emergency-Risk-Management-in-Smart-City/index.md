@@ -2,7 +2,7 @@
 title: Emergency Risk Management in Smart City
 summary: With the emergence and drastic improvement of mobile devices (e.g., phones, tablets, drones, and autonomous vehicles), we are now witnessing an exciting revolution of the digital city.
 tags:
-- Smart City
+- Edge AI Application
 date: "2016-08-27"
 
 # Optional external URL for project (replaces project detail page).
