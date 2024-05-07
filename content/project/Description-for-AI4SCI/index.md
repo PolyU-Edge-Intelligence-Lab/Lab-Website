@@ -23,7 +23,4 @@ image:
 #url_video: "https://www.youtube.com/watch?v=Cfx66gy9K9c"
 ---
 
-FengWu-GHR: Learning the Kilometer-scale Medium-range Global Weather Forecasting The first data-driven global weather forecasting model running at the 0.09◦ horizontal resolution. FengWu-GHR introduces a novel approach that opens the door for operating ML-based high-resolution forecasts by inheriting prior knowledge from a pretrained low-resolution model. The hindcast of weather prediction in 2022 indicates that FengWu-GHR is superior to the IFS-HRES. Furthermore, evaluations on station observations and case studies of extreme events support the competitive operational forecasting skill of FengWu-GHR at the high resolution.
-
-
-
+AI technology has made breakthroughs in challenging tasks such as weather forecasting. We focus on training and developing ultra-high-resolution meteorological large models driven by data, as well as researching AI assimilation algorithms and extreme disaster prediction (e.g., FengWu-GHR), contributing to the advancement of scientific research.
