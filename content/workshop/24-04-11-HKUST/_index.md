@@ -19,6 +19,9 @@ date: 2024-04-20
 
  <!--more-->![](feature.png)
 
+![](fear.png)
+
+
 ## Organizing Committee
 
 ### Conference Co-chairs 
@@ -72,5 +75,4 @@ Jingcai Guo,  The Hong Kong Polytechnic University (PolyU), Hong Kong (jc-jingc
 | 16:00 - 17:30 | Panel Discussion [ Possible Topic: Future Directions of Basic Sciences in the era of Intelligence] | Possible participants: Prof. Zhongchao Tan (谭忠超), Yulong Ding (丁玉龙), Zhibing Zhang (张志兵),  Shiping Zhu (朱世平), Zhiguo Yuan (袁志国), John Shi (史文中) 
 | 17:30 - 17:45 | [Closing Ceremony] | Chair: Song Guo, Prof. Jesse Zhu (祝京旭)|
 
-![](fear.png)
 
