@@ -25,7 +25,7 @@ main:
   - name: News
     url: '/post'
     weight: 60
-  - name: Activities
+  - name: Workshops
     url: '/workshop'
     weight: 70
 
