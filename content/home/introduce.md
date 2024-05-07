@@ -34,7 +34,7 @@ We focus on the following research areas
 - **Cloud-Edge Collaborative Large Models**
 - **AI Computing Cyberinfrastructure**
 - **Trustworthy AI Governance**
- - **AI4Science**
+- **AI4Science**
   
 
   

@@ -47,7 +47,9 @@ content:
     tag: Edge AI Application
   - name: Others
     tag: Others
-
+  - name: Federated Learning
+    parent: Others
+    tag: FL
   
 
   
