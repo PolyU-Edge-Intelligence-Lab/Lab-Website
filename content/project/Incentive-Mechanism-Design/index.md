@@ -3,7 +3,7 @@ title: Lack of participants- Incentive Mechanism Design for Federated Learning
 summary: A few of works have designed incentive mechanisms for FL, but these mechanisms only consider myopia optimization on resource consumption, which results in the lack of learning algorithm performance guarantee and long-term sustainability. We propose Chiron, an incentive-driven long-term mechanism for edge learning based on hierarchical deep reinforcement learning. 
 
 tags:
-- Others
+- Federated Learning
 date: "2022-03-15"
 
 # Optional external URL for project (replaces project detail page).
