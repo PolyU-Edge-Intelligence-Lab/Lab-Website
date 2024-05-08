@@ -1,5 +1,5 @@
 ---
-title: An Elastic Transformer Serving System for Foundation Model via Token Adaptation
+title: (INFOCOM2024) An Elastic Transformer Serving System for Foundation Model via Token Adaptation
 tags:
 - AI Computing Cyberinfrastructure
 date: "2023-09-01"
