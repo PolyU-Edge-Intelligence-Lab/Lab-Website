@@ -3,7 +3,7 @@ title: Efficient Federated Learning Framework on Heterogeneous Environment
 summary: Federated learning (FL) has been proposed as a promising solution for future AI applications with strong privacy protection. It enables distributed computing nodes to collaboratively train models without exposing their own data. 
 
 tags:
-- Others
+- Federated Learning
 date: "2022-04-01"
 
 # Optional external URL for project (replaces project detail page).

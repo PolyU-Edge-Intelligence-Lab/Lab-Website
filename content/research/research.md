@@ -45,11 +45,11 @@ content:
     tag: Trustworthy AI
   - name: Edge AI Application
     tag: Edge AI Application
-  - name: Others
-    tag: Others
   - name: Federated Learning
-    parent: Others
-    tag: FL
+    tag: Federated Learning
+  - name: Others
+      tag: Others
+
   
 
   
