@@ -1,5 +1,5 @@
 ---
-title: Towards Test-Time Refusals via Concept Negation
+title: (NeuIPS2023) Towards Test-Time Refusals via Concept Negation
 tags:
 - Foundation Model
 date: "2023-09-22"

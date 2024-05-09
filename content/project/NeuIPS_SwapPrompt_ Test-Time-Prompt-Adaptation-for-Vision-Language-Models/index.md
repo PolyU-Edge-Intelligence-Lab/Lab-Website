@@ -1,5 +1,5 @@
 ---
-title: SwapPrompt | Test-Time Prompt Adaptation for Vision-Language Models
+title: (NeuIPS2023) SwapPrompt | Test-Time Prompt Adaptation for Vision-Language Models
 tags:
 - Foundation Model
 date: "2023-09-22"

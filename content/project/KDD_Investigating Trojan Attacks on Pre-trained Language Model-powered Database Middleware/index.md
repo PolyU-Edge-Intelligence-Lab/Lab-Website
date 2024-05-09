@@ -1,5 +1,5 @@
 ---
-title: Investigating Trojan Attacks on Pre-trained Language Model-powered Database Middleware
+title: (KDD2023) Investigating Trojan Attacks on Pre-trained Language Model-powered Database Middleware
 tags:
 - Foundation Model
 date: "2023-09-01"
