@@ -1,5 +1,5 @@
 ---
-title: Warming Serverless ML Inference via Inter-function Model Transformation
+title: (EuroSys2024) Warming Serverless ML Inference via Inter-function Model Transformation
 tags:
 - AI Computing Cyberinfrastructure
 date: "2023-09-01"
