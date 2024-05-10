@@ -14,7 +14,7 @@ weight: 10
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: landing
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -45,11 +45,10 @@ content:
     tag: Trustworthy AI
   - name: Edge AI Application
     tag: Edge AI Application
-  - name: Others
-    tag: Others
   - name: Federated Learning
-    parent: Others
     tag: FL
+  - name: Others
+      tag: Others
   
 
   
