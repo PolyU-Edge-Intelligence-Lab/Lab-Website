@@ -29,7 +29,7 @@ main:
     url: '/workshop'
     weight: 70
   - name: Test
-    url: '/Test'
+    url: '/test'
     weight: 70
 
  
