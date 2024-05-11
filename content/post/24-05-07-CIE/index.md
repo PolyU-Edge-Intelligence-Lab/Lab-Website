@@ -13,4 +13,4 @@ The Chinese Institute of Electronics (CIE), established in 1962, is a significan
 
 ## Award Certificate
 
-{{< figure src="image3.jpg" caption="Certificate of First Prize" >}}
+{{< figure src="CIE.png" caption="Certificate of First Prize" >}}
