@@ -46,10 +46,10 @@ content:
     tag: AI for Science
   - name: Trustworthy AI
     tag: Trustworthy AI
-  - name: Edge AI Application
-    tag: Edge AI Application
-  - name: Federated Learning
-    tag: FL
+  # - name: Edge AI Application
+  #   tag: Edge AI Application
+  # - name: Federated Learning
+  #   tag: FL
   - name: Others
     tag: Others
 
