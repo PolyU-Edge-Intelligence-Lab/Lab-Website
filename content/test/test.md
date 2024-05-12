@@ -67,8 +67,7 @@ sections:
 
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
-
-sections:
+      
   - block: card_view
     content:
       # Page type to display. E.g. project.
