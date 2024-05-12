@@ -92,6 +92,8 @@
     {{ $sort_order := cond $sort_ascending "asc" "desc" }}
     {{ $query = sort $query $sort_by $sort_order }}
 
+    <p> This is the custome_portfolio</p>
+
     {{ range $index, $item := $query }}
     {{ $item_view := "card" }}
     {{ if eq $index 0 }}
