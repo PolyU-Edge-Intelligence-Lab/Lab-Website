@@ -93,13 +93,17 @@
     {{ $query = sort $query $sort_by $sort_order }}
 
     {{ range $index, $item := $query }}
+    {{ $item_view := "card" }}
+    {{ if eq $index 0 }}
+    {{ $item_view = "showcase" }}
+    {{ end }}
       {{ $js_tag_classes := delimit (apply (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") "lower" ".") " " }}
         {{ if in (slice "masonry" 3) $view }}
           <div class="project-card project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
         {{else}}
           <div class="col-12 isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
         {{end}}
-        {{ partial "functions/render_view" (dict "page" $block "item" . "view" $view "index" $index) }}
+        {{ partial "functions/render_view" (dict "page" $block "item" . "view" $item_view "index" $index) }}
       </div>
     {{end}}
 
