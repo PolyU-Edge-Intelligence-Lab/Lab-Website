@@ -96,34 +96,34 @@ weight: 10
     # For Showcase view, flip alternate rows?
     flip_alt_rows: true
 
-# Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-filter_default: 0
-filter_button:
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  filter_default: 0
+  filter_button:
 
-- name: AI Computing Cyberinfrastructure
-  tag: AI Computing Cyberinfrastructure
-# - name: TinyML
-#  tag: TinyML
-#- name: Federated Learning
-#  tag: Federated Learning
-#- name: Blockchain
-#  tag: Blockchain
-#- name: Smart City
-#  tag: Smart City
-#- name: Smart Healthcare
-#  tag: Smart Healthcare
-- name: Foundation Model & AIGC
-  tag: Foundation Model
-- name: AI for Science
-  tag: AI for Science
-- name: Trustworthy AI
-  tag: Trustworthy AI
-- name: Edge AI Application
-  tag: Edge AI Application
-- name: Federated Learning
-  tag: FL
-- name: Others
-  tag: Others
+  - name: AI Computing Cyberinfrastructure
+    tag: AI Computing Cyberinfrastructure
+  # - name: TinyML
+  #  tag: TinyML
+  #- name: Federated Learning
+  #  tag: Federated Learning
+  #- name: Blockchain
+  #  tag: Blockchain
+  #- name: Smart City
+  #  tag: Smart City
+  #- name: Smart Healthcare
+  #  tag: Smart Healthcare
+  - name: Foundation Model & AIGC
+    tag: Foundation Model
+  - name: AI for Science
+    tag: AI for Science
+  - name: Trustworthy AI
+    tag: Trustworthy AI
+  - name: Edge AI Application
+    tag: Edge AI Application
+  - name: Federated Learning
+    tag: FL
+  - name: Others
+    tag: Others
 ---
 
 <!-- - **Cloud-Edge Collaborative Large Models:** We focus on building open, intelligent, and efficient AI large models that cater to the diverse data and resources distributed across edge endpoints. Our goal is to satisfy the multi-faceted demands of large model training, fine-tuning, inference, and deployment, while optimizing the model construction process through intelligent means to enhance performance. We aim to drive the widespread adoption of AIGC in vertical application scenarios, achieving deep technology integration and maximum value creation.
