@@ -25,33 +25,33 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
-  # filter_button:
+  filter_default: 1
+  filter_button:
 
-  # - name: AI Computing Cyberinfrastructure
-  #   tag: AI Computing Cyberinfrastructure
-  # # - name: TinyML
-  # #  tag: TinyML
-  # #- name: Federated Learning
-  # #  tag: Federated Learning
-  # #- name: Blockchain
-  # #  tag: Blockchain
-  # #- name: Smart City
-  # #  tag: Smart City
-  # #- name: Smart Healthcare
-  # #  tag: Smart Healthcare
-  # - name: Foundation Model & AIGC
-  #   tag: Foundation Model
-  # - name: AI for Science
-  #   tag: AI for Science
-  # - name: Trustworthy AI
-  #   tag: Trustworthy AI
-  # # - name: Edge AI Application
-  # #   tag: Edge AI Application
-  # # - name: Federated Learning
-  # #   tag: FL
-  # - name: Others
-  #   tag: Others
+  - name: AI Computing Cyberinfrastructure
+    tag: AI Computing Cyberinfrastructure
+  # - name: TinyML
+  #  tag: TinyML
+  #- name: Federated Learning
+  #  tag: Federated Learning
+  #- name: Blockchain
+  #  tag: Blockchain
+  #- name: Smart City
+  #  tag: Smart City
+  #- name: Smart Healthcare
+  #  tag: Smart Healthcare
+  - name: Foundation Model & AIGC
+    tag: Foundation Model
+  - name: AI for Science
+    tag: AI for Science
+  - name: Trustworthy AI
+    tag: Trustworthy AI
+  # - name: Edge AI Application
+  #   tag: Edge AI Application
+  # - name: Federated Learning
+  #   tag: FL
+  - name: Others
+    tag: Others
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
