@@ -95,7 +95,7 @@
     {{ range $index, $item := $query }}
     {{ $item_view := "card" }}
     {{ if eq $index 0 }}
-    {{ $item_view = "showcase" }}
+      {{ $item_view = "showcase" }}
     {{ end }}
       {{ $js_tag_classes := delimit (apply (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") "lower" ".") " " }}
         {{ if in (slice "masonry" 3) $view }}
