@@ -30,7 +30,7 @@ main:
     weight: 70
   - name: Test
     url: '/test'
-    weight: 70
+    weight: 80
 
  
   
