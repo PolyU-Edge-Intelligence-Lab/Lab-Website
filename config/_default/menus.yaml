@@ -28,14 +28,4 @@ main:
   - name: Workshops
     url: '/workshop'
     weight: 70
-  - name: Test
-    url: '/test'
-    weight: 80
-  - name: Section1
-    url: '/#section-1'
-    weight: 90
-  - name: Section2
-    url: '/#section-2'
-    weight: 100
- 
   
