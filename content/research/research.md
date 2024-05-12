@@ -12,7 +12,7 @@ weight: 10
 #title: Projects
 #subtitle: ''
 
--block: markdown
+-block: introduction
   content:
     # Page type to display. E.g. project.
     page_type: project
