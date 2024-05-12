@@ -31,11 +31,11 @@ main:
   - name: Test
     url: '/test'
     weight: 80
-  # - name: Test
-  #   url: '/#section-1'
-  #   weight: 90
-  # - name: Test
-  #   url: '/#section-2'
-  #   weight: 100
+  - name: Section1
+    url: '/#section-1'
+    weight: 90
+  - name: Section2
+    url: '/#section-2'
+    weight: 100
  
   
