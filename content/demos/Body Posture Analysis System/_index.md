@@ -1,5 +1,5 @@
 ---
-title: ✨ Body Posture Analysis System
+title: 🏌️ Body Posture Analysis System
 linkTitle: Body Posture Analysis System
 summary: Dr. Body's posture analysis system puts diagnostic powers in users' hands
 date: '2021-01-24'

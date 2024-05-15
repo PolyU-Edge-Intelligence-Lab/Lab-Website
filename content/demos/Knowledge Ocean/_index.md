@@ -1,5 +1,5 @@
 ---
-title: ✨ Knowledge Ocean
+title: 🏄‍♂️ Knowledge Ocean
 linkTitle: Knowledge Ocean
 summary: Helping the Public break the Monopoly of Knowledge with Blockchain and Web3.0
 date: '2022-10-01'
