@@ -3,8 +3,8 @@ title: Introduction of "AI for Science"
 summary: 
 
 tags:
-- Others
-date: "2022-03-20"
+- AI for Science
+date: "2025-03-20"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
