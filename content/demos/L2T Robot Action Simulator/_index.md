@@ -1,5 +1,5 @@
 ---
-title: :movie_camera: Robot Action Simulator
+title: 🎥 Robot Action Simulator
 linkTitle: Robot Action Simulator
 summary: Enable significant advancements in real-world robot learning and manipulation tasks
 date: '2024-05-16'
