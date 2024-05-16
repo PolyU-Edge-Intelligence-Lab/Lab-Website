@@ -20,11 +20,11 @@ In this project, we present a groundbreaking action-to-video generation method, 
 
 ## Significance
 
-The proposed RASrevolutionizes robot learning by providing a safer, faster, and more effective evaluation framework for robot trajectories. By accurately simulating interactions with objects in the environment, it enables significant advancements in real-world robot learning and manipulation tasks. Furthermore, RAShas the potential to transform various robotics applications, from industrial automation to assistive robotics, accelerating the development of intelligent and autonomous robots worldwide.
+The proposed RAS revolutionizes robot learning by providing a safer, faster, and more effective evaluation framework for robot trajectories. By accurately simulating interactions with objects in the environment, it enables significant advancements in real-world robot learning and manipulation tasks. Furthermore, RAS has the potential to transform various robotics applications, from industrial automation to assistive robotics, accelerating the development of intelligent and autonomous robots worldwide.
 
 ## Content in this demo
 
-**Video:** [Robot Action Simulator demo](<video controls src="demo-1.mp4" title="Title"></video>)
+**Video:** Robot Action Simulator demo <video controls src="demo-1.mp4" title="Title"></video>
 
 
 
