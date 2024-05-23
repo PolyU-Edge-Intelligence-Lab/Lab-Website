@@ -39,12 +39,12 @@ content:
   #  tag: Smart City
   #- name: Smart Healthcare
   #  tag: Smart Healthcare
-  - name: Foundation Model & AIGC
+  - name: Cloud-Edge Collaborative Large Models
     tag: Foundation Model
+  - name: Trustworthy AI & AIGC
+    tag: Trustworthy AI
   - name: AI for Science
     tag: AI for Science
-  - name: Trustworthy AI
-    tag: Trustworthy AI
   # - name: Edge AI Application
   #   tag: Edge AI Application
   # - name: Federated Learning
