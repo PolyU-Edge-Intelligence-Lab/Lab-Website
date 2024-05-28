@@ -1,5 +1,5 @@
 ---
-title: Introduction of "Cloud-Edge Collaborative Large Models"
+title: (ICML2024)Easing Concept Bleeding in Diffusion via Entity Localization and Anchoring
 summary: 
 
 tags:
