@@ -3,8 +3,8 @@ title: Introduction of "Cloud-Edge Collaborative Large Models"
 summary: 
 
 tags:
-- Foundation Model
-date: "2030-03-20"
+- Trustworthy AI
+date: "2024-02-20"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
