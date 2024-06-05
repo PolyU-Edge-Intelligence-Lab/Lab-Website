@@ -1,5 +1,5 @@
 ---
-title: (ICML2024)DiPrompT|Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning
+title: (ICML2024)Amend to Alignment|Decoupled Prompt Tuning for Mitigating Spurious Correlation in Vision-Language Models
 summary: 
 
 tags:
