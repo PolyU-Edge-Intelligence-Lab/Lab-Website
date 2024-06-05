@@ -1,5 +1,5 @@
 ---
-title: Sustainable Off-chain Payment Channel Network
+title: (DSN)Sustainable Off-chain Payment Channel Network
 summary: Payment channel network (PCN) is the most promising off-chain technologies to support massive micro payments for blockchain. The technology has been deployed in a number of blockchains including Bitcoin and Ethereum.
 tags:
 - Others

@@ -1,9 +1,9 @@
 ---
-title: New Architectures and Methodologies for High Performance Sharding Blockchain
+title: (INFOCOM2021)New Architectures and Methodologies for High Performance Sharding Blockchain
 summary: Blockchain draws tremendous attention from academia and industry, since it can provide distributed ledgers with data transparency, integrity, and immutability to untrusted parties for various decentralized applications.
 tags:
 - Others
-date: "2016-04-27"
+date: "2021-04-27"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

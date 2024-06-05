@@ -1,5 +1,5 @@
 ---
-title: Hybrid On-/Off-Chain Distributed Storage
+title: (TSC)Hybrid On-/Off-Chain Distributed Storage
 summary: Personal data produced from widely emerged cyberspace activities are expected to promote information dissemination and engagement, or even make business intelligence more powerful. 
 tags:
 - Others

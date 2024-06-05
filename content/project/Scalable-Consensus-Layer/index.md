@@ -1,5 +1,5 @@
 ---
-title: Layered Sharding Architecture for Blockchain
+title: (INFOCOM2021)Layered Sharding Architecture for Blockchain
 summary: Most existing blockchain systems adopt a static policy that cannot efciently deal with the dynamic environment in the blockchain system, i.e., joining and leaving of nodes, and malicious attack. Therefore, we propose a novel dynamic sharding-based blockchain framework to achieve a good balance between performance and security without compromising scalability under a dynamic environment.
 tags:
 - Others
