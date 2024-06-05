@@ -1,5 +1,5 @@
 ---
-title: Intelligence-Endogenous Management Platform for Computing and Network Convergence
+title: (IEEE Network)Intelligence-Endogenous Management Platform for Computing and Network Convergence
 tags:
 - AI Computing Cyberinfrastructure
 date: "2023-09-01"

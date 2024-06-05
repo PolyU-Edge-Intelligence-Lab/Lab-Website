@@ -1,5 +1,5 @@
 ---
-title: (NeuIPS2023) Towards Test-Time Refusals via Concept Negation
+title: (NeurIPS2023) Towards Test-Time Refusals via Concept Negation
 tags:
 - Trustworthy AI
 date: "2023-09-22"
