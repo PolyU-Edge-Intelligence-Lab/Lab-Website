@@ -1,14 +1,11 @@
 ---
-title: "Dynamic Network Slice for Bursty Edge Traffic"
+title: "Fast-Convergent Wireless Federated Learning: A Voting Based Topk Model Compression Approach"
 authors:
-- Rongxin Han
-- Jingyu Wang
-- Qi Qi
-- Dezhi Chen
-- Zirui Zhuang
-- Haifeng Sun
-- Xiaoyuan Fu
-- Jianxin Liao
+- Xiaoxin Su
+- Yipeng Zhou
+- Laizhong Cui
+- Quan Z. Sheng
+- Yinggui Wang
 - Song Guo
 
 
@@ -22,7 +19,7 @@ date: "2024-01-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE/ACM Transactions on Networking (TON) (CCF-A)
+publication: IEEE Journal on Selected Areas in Communications (JSAC) (CCF-A)
 # publication_short: "TNSE (JCR-Q1)"
 
 # url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470

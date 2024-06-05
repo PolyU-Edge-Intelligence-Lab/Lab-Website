@@ -1,16 +1,14 @@
 ---
-title: "Dynamic Network Slice for Bursty Edge Traffic"
+title: "Mobility-Aware Utility Maximization in Digital Twin-Enabled Serverless Edge Computing"
 authors:
-- Rongxin Han
-- Jingyu Wang
-- Qi Qi
-- Dezhi Chen
-- Zirui Zhuang
-- Haifeng Sun
-- Xiaoyuan Fu
-- Jianxin Liao
+- Jing Li
 - Song Guo
-
+- Weifa Liang
+- Jianping Wang
+- Quan Chen
+- Wenchao Xu
+- Kang Wei
+- Xiaohua Jia
 
 date: "2024-01-01"
 # doi: "10.1109/TNSE.2022.3141728"
@@ -22,7 +20,7 @@ date: "2024-01-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE/ACM Transactions on Networking (TON) (CCF-A)
+publication: IEEE Transactions on Computers (TC) (CCF-A)
 # publication_short: "TNSE (JCR-Q1)"
 
 # url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470

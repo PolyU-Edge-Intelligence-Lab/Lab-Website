@@ -1,16 +1,14 @@
 ---
-title: "Dynamic Network Slice for Bursty Edge Traffic"
+title: "AoI-Aware, Digital Twin-Empowered IoT Query Services in Mobile Edge Computing"
 authors:
-- Rongxin Han
-- Jingyu Wang
-- Qi Qi
-- Dezhi Chen
-- Zirui Zhuang
-- Haifeng Sun
-- Xiaoyuan Fu
-- Jianxin Liao
+- Jing Li
 - Song Guo
-
+- Weifa Liang
+- Jie Wu
+- Quan Chen
+- Zichuan Xu
+- Wenzheng Xu
+- Jianping Wang
 
 date: "2024-01-01"
 # doi: "10.1109/TNSE.2022.3141728"
