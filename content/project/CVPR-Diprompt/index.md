@@ -3,7 +3,7 @@ title: (CVPR2024)DiPrompT|Disentangled Prompt Tuning for Multiple Latent Domain 
 summary: 
 
 tags:
-- Federated Learning
+- Foundation Model
 date: "2024-06-05"
 
 # Optional external URL for project (replaces project detail page).
