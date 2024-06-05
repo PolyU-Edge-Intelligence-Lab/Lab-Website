@@ -60,7 +60,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Staffs
+- 
 ---
 
 Jinwen Liang (梁晋文) is a Postdoctoral fellow at the Hong Kong Polytechnic University, supervised by Prof. Song Guo. He received his PhD degree (Supervised by Prof. Zheng Qin) and BEng degree from College of Computer Science and Electronic Engineering, Hunan University in 2021 and 2015, respectively. He was a joint PhD student at BBCR laboratory, Department of Electrical and Computer Engineering, University of Waterloo, supervised by Prof. Xuemin (Sherman) Shen and Prof. Xiaodong Lin. His research interests include applied cryptography, AI security, and database security. 
