@@ -1,7 +1,7 @@
 ---
 title: (NeuIPS2023) Towards Test-Time Refusals via Concept Negation
 tags:
-- Foundation Model
+- Trustworthy AI
 date: "2023-09-22"
 
 # Optional external URL for project (replaces project detail page).
