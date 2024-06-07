@@ -37,7 +37,8 @@ interests:
 
 - Low-Shot Learning
 - Large Language/Vision Model
-- Artificial Intelligence
+- AIGC
+- AI for Science
 
 education:
   courses:
