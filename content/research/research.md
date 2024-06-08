@@ -49,7 +49,7 @@ content:
   #   tag: Edge AI Application
   # - name: Federated Learning
   #   tag: FL
-  - name: Others (FL, Edge AI, Blockchain etc.)
+  - name: Others (FL, Tiny ML, Blockchain etc.)
     tag: Others
 
 design:
