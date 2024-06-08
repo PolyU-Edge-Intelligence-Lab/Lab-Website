@@ -7,7 +7,7 @@ title: Xuan Liu
 # Username
 # Format: this should match the folder name
 authors:
-- Xuan-Liu
+- Xuan Liu
 
 # Is this the primary user of the site?
 # no need to modify 
@@ -23,8 +23,9 @@ organizations:
   url: ""
 
 interests:
+
 - Trustworthy & Responsible AI
-- Federated Learning & Privacy
+- Federated Learning
 - Large Model Agent System
 - AI for Science
 
@@ -48,19 +49,29 @@ social:
   link: https://github.com/XuanL17
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
-- # icon: cv
-  
-- # icon_pack: ai
-  # link: resume/cv-jie-zhang/cv-jie-zhang.pdf
+
+#- icon: cv
+
+#  icon_pack: ai
+
+#  link: resume/cv-andrew-ng/cv.pdf
 
 # Choose which group that you belong to
+
 #  available groups:
+
 #  - Director (Head of Lab)
+
 #  - Research Staffs (RA, Postdoc, RAP, e.g.)
+
 #  - Research Students (Master/PhD student, e.g.)
+
 #  - Visitors (Visiting prof/student, e.g.)
+
 #  - Previous Members (Alumni)
+
 user_groups:
+
 - Research Students
 
 ---
