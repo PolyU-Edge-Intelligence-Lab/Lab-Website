@@ -62,10 +62,10 @@ social:
 #  - Previous Members (Alumni)
 user_groups:
 - Research Students
+
 ---
 
-Xuan Liu is a highly self-motivated undergraduate research student supervised by Prof. Song Guo (from 2022 till now). 
-Her research focuses on Trustworthy & Responsible AI, privacy, and Large Model Agent System.
+Xuan Liu is a highly self-motivated undergraduate research student supervised by Prof. Song Guo (from 2022 till now). Her research focuses on Trustworthy & Responsible AI, privacy, and Large Model Agent System.
 Visit her website at https://xuanl17.github.io/.
 
 ---
