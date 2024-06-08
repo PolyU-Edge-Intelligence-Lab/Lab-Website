@@ -40,12 +40,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'xuan18.liu@connect.polyu.hk'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=AyzRO-wAAAAJ&hl=zh-CN
-- icon: github
-  icon_pack: fab
-  link: https://github.com/XuanL17
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: 'https://scholar.google.com/citations?user=AyzRO-wAAAAJ&hl=zh-CN'
+# - icon: github
+#  icon_pack: fab
+#  link: 'https://github.com/XuanL17'
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
 - # icon: cv
@@ -66,6 +66,5 @@ user_groups:
 ---
 
 Xuan Liu is a highly self-motivated undergraduate research student supervised by Prof. Song Guo (from 2022 till now). Her research focuses on Trustworthy & Responsible AI, privacy, and Large Model Agent System.
-Visit her website at https://xuanl17.github.io/.
 
 ---
