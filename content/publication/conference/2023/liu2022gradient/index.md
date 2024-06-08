@@ -1,11 +1,11 @@
 ---
-title: "MGIA: Mutual Gradient Inversion Attack In Multi-modal Federated Learning”"
+title: "MGIA: Mutual Gradient Inversion Attack In Multi-modal Federated Learning"
 authors:
-- Xuan Liu
+- XuanLiu
 - Siqi Cai
 - Lin Li
 - Rui Zhang
-- Song Guo, “
+- Song Guo
 date: "2023-02-07"
 doi: ""
 

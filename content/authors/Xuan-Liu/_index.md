@@ -7,7 +7,7 @@ title: Xuan Liu
 # Username
 # Format: this should match the folder name
 authors:
-- Xuan Liu
+- XuanLiu
 
 # Is this the primary user of the site?
 # no need to modify 
