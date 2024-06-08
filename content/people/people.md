@@ -21,7 +21,7 @@ content:
   - Research Students
   - Visitors
   - Previous Members
-  - Graduated students
+  - Graduated Students
 design:
   show_interests: false
   show_role: true

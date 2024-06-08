@@ -66,7 +66,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Graduated students
+- Graduated Students
 ---
 
 刘子铭 is a PhD graduated student of artificial intelligence at the PolyU. His research interests include zero-shot learning, distributed machine learning and computer vision.
