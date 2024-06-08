@@ -1,7 +1,7 @@
 ---
 title: "MGIA: Mutual Gradient Inversion Attack In Multi-modal Federated Learning"
 authors:
-- XuanLiu
+- Xuan Liu (UG)
 - Siqi Cai
 - Lin Li
 - Rui Zhang

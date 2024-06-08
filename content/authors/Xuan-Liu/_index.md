@@ -2,12 +2,12 @@
 ---
 # Display name
 # Format: Your_given_name Your_surname 
-title: Xuan Liu
+title: Xuan Liu (UG)
 
 # Username
 # Format: this should match the folder name
 authors:
-- XuanLiu
+- Xuan Liu
 
 # Is this the primary user of the site?
 # no need to modify 
