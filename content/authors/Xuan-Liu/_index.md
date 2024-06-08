@@ -1,5 +1,5 @@
-
 ---
+
 # Display name
 # Format: Your_given_name Your_surname 
 title: Xuan Liu
@@ -7,7 +7,7 @@ title: Xuan Liu
 # Username
 # Format: this should match the folder name
 authors:
-- XuanLiu
+- Xuan Liu
 
 # Is this the primary user of the site?
 # no need to modify 
@@ -65,6 +65,4 @@ user_groups:
 
 ---
 
-Xuan Liu is a highly self-motivated undergraduate research student supervised by Prof. Song Guo (from 2022 till now). Her research focuses on Trustworthy & Responsible AI, privacy, and Large Model Agent System.
-
----
+Xuan Liu (刘萱) is a highly self-motivated undergraduate research student supervised by Prof. Song Guo (from 2022 till now). Her research focuses on Trustworthy & Responsible AI, privacy, and Large Model Agent System.
