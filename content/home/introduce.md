@@ -24,7 +24,7 @@ advanced:
 
 The Pervasive Intelligence Laboratory, directed by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), is developing novel and efficient deep learning architectures, algorithms, and systems over ubiquitous mobile, IoT, and edge endpoints. By pushing the boundaries of AI capabilities, we aim to unlock new possibilities and create significant impacts in multiple areas such as scientific discovery, environmental sustainability, and societal well-being.
 
-We focus on the following research areas
+We focus on the following research areas:
 
 <!-- - **Cloud-Edge Collaborative Large Models:** We focus on building open, intelligent, and efficient AI large models that cater to the diverse data and resources distributed across edge endpoints. Our goal is to satisfy the multi-faceted demands of large model training, fine-tuning, inference, and deployment, while optimizing the model construction process through intelligent means to enhance performance. We aim to drive the widespread adoption of AIGC in vertical application scenarios, achieving deep technology integration and maximum value creation.
 - **AI Computing Cyberinfrastructure:** We are building a federated edge intelligence platform tailored for large models, leveraging our 'algorithm-network-intelligence' integrated technology to design algorithms that adapt large models to edge environments based on 'hybrid expert models'. By harnessing edge computing network technology, we integrate fragmented computing resources at the edge, enabling large models to run on edge devices and supporting various generative AI capabilities. This will reduce hardware costs and expand the spatiotemporal scope of large model services.
@@ -33,8 +33,8 @@ We focus on the following research areas
 
 - **Cloud-Edge Collaborative Large Models**
 - **AI Computing Cyberinfrastructure**
-- **Trustworthy AI Governance**
-- **AI4Science**
+- **Trustworthy AI Governance & AIGC**
+- **AI for Science**
   
 
   

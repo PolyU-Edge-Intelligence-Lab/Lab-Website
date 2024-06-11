@@ -41,7 +41,7 @@ content:
   #  tag: Smart Healthcare
   - name: Cloud-Edge Collaborative Large Models
     tag: Foundation Model
-  - name: Trustworthy AI & AIGC
+  - name: Trustworthy AI Governance & AIGC
     tag: Trustworthy AI
   - name: AI for Science
     tag: AI for Science
