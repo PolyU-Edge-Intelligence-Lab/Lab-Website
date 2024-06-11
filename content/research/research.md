@@ -43,7 +43,7 @@ content:
     tag: Foundation Model
   - name: Trustworthy AI Governance & AIGC
     tag: Trustworthy AI
-  - name: AI for Science
+  - name: AI4Science
     tag: AI for Science
   # - name: Edge AI Application
   #   tag: Edge AI Application
