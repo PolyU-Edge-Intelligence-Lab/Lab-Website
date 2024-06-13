@@ -19,7 +19,7 @@ content:
   - Director
   - Research Staffs
   - Research Students
-  - Visitors
+  - Research Assistants & Visitors
   - Previous Members
   - Graduated Students
 design:

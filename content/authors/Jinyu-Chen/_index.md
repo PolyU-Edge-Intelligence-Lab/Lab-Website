@@ -23,8 +23,8 @@ organizations:
   url: ""
 
 interests:
-- Federated Learning
-- Multimodal Learning
+- Cloud-Edge Collaborative Large Models
+- AI Computing Cyberinfrastructure and Model Acceleration
 - Edge Computing
 
 education:
