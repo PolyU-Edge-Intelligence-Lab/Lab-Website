@@ -43,3 +43,18 @@ We focus on the following research areas:
 We are looking for strongly motivated PhD students, Research Assistants, and Postdoctoral Fellows.
 
 [{{< icon name="envelope" pack="fas" >}}Song Guo](mailto:songguo@cse.ust.hk)
+
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="hello2.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="hello2.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="hello2.jpg" alt="Third slide">
+    </div>
+  </div>
+</div>
