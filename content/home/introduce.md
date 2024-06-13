@@ -44,6 +44,8 @@ We are looking for strongly motivated PhD students, Research Assistants, and Pos
 
 [{{< icon name="envelope" pack="fas" >}}Song Guo](mailto:songguo@cse.ust.hk)
 
+
+
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -52,13 +54,13 @@ We are looking for strongly motivated PhD students, Research Assistants, and Pos
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="home/homepage.jpg" alt="First slide" style="margin: 0; padding: 0;">
+      <img class="d-block w-100" src="home/homepage.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="home/birthday.jpg" alt="Second slide" style="margin: 0; padding: 0;">
+      <img class="d-block w-100" src="home/birthday.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="home/hiking.jpg" alt="Third slide" style="margin: 0; padding: 0;">
+      <img class="d-block w-100" src="home/hiking.jpg" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
