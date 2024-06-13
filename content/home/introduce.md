@@ -45,7 +45,7 @@ We are looking for strongly motivated PhD students, Research Assistants, and Pos
 [{{< icon name="envelope" pack="fas" >}}Song Guo](mailto:songguo@cse.ust.hk)
 
 
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+<!-- <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -70,4 +70,4 @@ We are looking for strongly motivated PhD students, Research Assistants, and Pos
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+</div> -->
