@@ -91,7 +91,7 @@ LAB Location
   script.src = "https://unpkg.com/leaflet@1.7.1/dist/leaflet.js";
   script.onload = function() {
     // 初始化地图
-    var mymap = L.map('mapid').setView([114.26439,22.33812], 13);
+    var mymap = L.map('mapid').setView([114,23], 13);
 
     // 设置地图图层
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
