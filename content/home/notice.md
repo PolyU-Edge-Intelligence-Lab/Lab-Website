@@ -15,9 +15,9 @@ design:
     image_position: center
     image_size: cover
     text_color_light: true
-advanced:
-  css_style:
-  css_class: fullscreen
+# advanced:
+#   css_style:
+#   css_class: fullscreen
 ---
 
 <style>
@@ -36,7 +36,7 @@ advanced:
     top: 85%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 2em;
+    font-size: 1.5em;
     color: white;
     text-align: center;
   }
