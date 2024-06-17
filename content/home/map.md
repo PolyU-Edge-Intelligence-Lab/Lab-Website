@@ -20,7 +20,6 @@ design:
 #   css_style:
 #   css_class: 
 ---
-
 <div id="mapid" style="width: 100%; height: 400px;"></div>
 
 <script>
@@ -47,4 +46,5 @@ design:
   };
   document.body.appendChild(script);
 </script>
+
 ---
