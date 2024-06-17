@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-weight: 20
+weight: 14
 
 title: "LAB Location"
 subtitle: ""
