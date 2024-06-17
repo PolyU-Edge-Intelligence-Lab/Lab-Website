@@ -20,9 +20,6 @@ advanced:
   css_class: fullscreen
 ---
 
-<!-- 引入Google字体 -->
-<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
-
 
 <style>
   .hero-fullscreen {
@@ -42,17 +39,6 @@ advanced:
     object-fit: cover;
     margin: 0;
     padding: 0;
-  }
-
-  .hero-title {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 3em;
-    color: white;
-    text-align: center;
-    font-family: 'Lobster', cursive; /* 应用艺术字体 */
   }
 
   #dynamic-text {
@@ -90,7 +76,6 @@ advanced:
   }
 </style>
 
-<div class="hero-title">{{< title >}}</div>
 <div id="dynamic-text"></div>
 <div id="scroll-down">&#x25BC;</div>
 
