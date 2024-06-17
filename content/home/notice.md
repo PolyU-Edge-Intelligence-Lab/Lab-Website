@@ -19,8 +19,6 @@ advanced:
   css_style:
   css_class: fullscreen
 ---
-
-<!-- 检查这里是否有多余的空行 -->
 <style>
   #dynamic-text {
     position: absolute;
@@ -56,17 +54,14 @@ advanced:
     }
   }
 </style>
-
 <div id="dynamic-text"></div>
 <div id="scroll-down">&#x25BC;</div>
-<!-- 检查这里是否有多余的空行 -->
 <script>
   const texts = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋", "We are looking for strongly motivated PhD students, Research Assistants, and Postdoctoral Fellows.", "Join Us on Our Journey"];
   let count = 0;
   let index = 0;
   let currentText = '';
   let letter = '';
-
   (function type(){
     if (count === texts.length) {
       count = 0;
@@ -78,13 +73,11 @@ advanced:
     if (letter.length === currentText.length) {
       count++;
       index = 0;
-      setTimeout(type, 1500);  // 2秒后切换到下一个文本
+      setTimeout(type, 1500);
     } else {
-      setTimeout(type, 50);  // 每50ms显示一个新字母
+      setTimeout(type, 50);
     }
   }());
-
-  // 滚动到下一部分
   document.getElementById('scroll-down').addEventListener('click', function () {
     window.scrollTo({
       top: window.innerHeight,
@@ -92,4 +85,3 @@ advanced:
     });
   });
 </script>
-<!-- 检查这里是否有多余的空行 -->
