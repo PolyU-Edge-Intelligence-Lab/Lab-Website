@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 subtitle: ""
-type: "widget_page"
+type: widget_page
 ---
 
 # Hero widget
@@ -13,11 +13,11 @@ weight: 1
 
 title: "Hi, I am John"
 subtitle: ""
-hero_media: "hello1.jpg"  # 将此处替换为你想要显示的大图的文件名
+hero_media: "hello1.jpg" 
 
 design:
   background:
-    image: "hello1.jpg"  # 确保图像文件存在于 `static/media/` 目录下
+    image: "hello1.jpg"
     image_darken: 0.6
     image_parallax: true
     image_position: center
