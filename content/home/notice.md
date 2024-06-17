@@ -4,9 +4,9 @@ headless: true
 active: true
 weight: 1
 
-title: "Hi, I am John"
+title: ""
 subtitle: ""
-hero_media: "hello1.jpg" 
+# hero_media: "hello1.jpg" 
 
 design:
   background:
@@ -34,7 +34,7 @@ html: | -->
 </div>
 
 <script>
-  const texts = ["Welcome to My Lab", "We Explore Science", "Join Us on Our Journey"];
+  const texts = ["Welcome to Pervasive Intelligence Lab 👋", "Join Us on Our Journey"];
   let count = 0;
   let index = 0;
   let currentText = '';
