@@ -21,6 +21,13 @@ design:
 #   css_class: 
 ---
 
+<!-- 引用 Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+<div style="display: flex; align-items: center; font-size: 1.2em; margin-top: 20px;">
+  <i class="fas fa-map-marker-alt" style="margin-right: 10px; color: #333;"></i>
+  Room 326, Department of Computer Science, Chow Yei Ching Building, The University of Hong Kong, Pokfulam Road, Hong Kong
+</div>
 <div id="mapid" style="width: 100%; height: 400px;"></div>
 
 <script>
