@@ -91,7 +91,7 @@ LAB Location
   script.src = "https://unpkg.com/leaflet@1.7.1/dist/leaflet.js";
   script.onload = function() {
     // 初始化地图
-    var mymap = L.map('mapid').setView([114,23], 13);
+    var mymap = L.map('mapid').setView([114,24], 13);
 
     // 设置地图图层
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -100,7 +100,7 @@ LAB Location
 
     // 添加标记
     var marker = L.marker([22.33812,114.26439]).addTo(mymap);
-    marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
+    marker.bindPopup("Lab Location").openPopup();
   };
   document.body.appendChild(script);
 </script>
