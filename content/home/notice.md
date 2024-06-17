@@ -69,7 +69,6 @@ advanced:
     }
     currentText = texts[count];
     letter = currentText.slice(0, ++index);
-
     document.getElementById('dynamic-text').textContent = letter;
     if (letter.length === currentText.length) {
       count++;
