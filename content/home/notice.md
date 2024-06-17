@@ -33,7 +33,7 @@ advanced:
 
   #dynamic-text-bottom {
     position: absolute;
-    top: 70%;
+    top: 85%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 2em;
@@ -71,14 +71,15 @@ advanced:
 <script>
   const textsTop = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋"];
   const textsBottom = ["Join Us on Our Journey"];
-  function typeText(elementId, texts) {
+  function typeText(elementId, texts, callback) {
     let count = 0;
     let index = 0;
     let currentText = '';
     let letter = '';
     (function type(){
       if (count === texts.length) {
-        count = 0;
+        if (callback) callback();
+        return;
       }
       currentText = texts[count];
       letter = currentText.slice(0, ++index);
@@ -92,8 +93,9 @@ advanced:
       }
     }());
   }
-  typeText('dynamic-text-top', textsTop);
-  typeText('dynamic-text-bottom', textsBottom);
+  typeText('dynamic-text-top', textsTop, function() {
+    typeText('dynamic-text-bottom', textsBottom);
+  });
   document.getElementById('scroll-down').addEventListener('click', function () {
     window.scrollTo({
       top: window.innerHeight,
