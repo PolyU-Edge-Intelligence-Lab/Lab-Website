@@ -21,12 +21,22 @@ advanced:
 ---
 
 <style>
-  #dynamic-text {
+  #dynamic-text-top {
     position: absolute;
     top: 20%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 3em;
+    color: white;
+    text-align: center;
+  }
+
+  #dynamic-text-bottom {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
     color: white;
     text-align: center;
   }
@@ -55,29 +65,35 @@ advanced:
     }
   }
 </style>
-<div id="dynamic-text"></div>
+<div id="dynamic-text-top"></div>
+<div id="dynamic-text-bottom"></div>
 <div id="scroll-down">&#x25BC;</div>
 <script>
-  const texts = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋",  "Join Us on Our Journey"];
-  let count = 0;
-  let index = 0;
-  let currentText = '';
-  let letter = '';
-  (function type(){
-    if (count === texts.length) {
-      count = 0;
-    }
-    currentText = texts[count];
-    letter = currentText.slice(0, ++index);
-    document.getElementById('dynamic-text').textContent = letter;
-    if (letter.length === currentText.length) {
-      count++;
-      index = 0;
-      setTimeout(type, 800);
-    } else {
-      setTimeout(type, 10);
-    }
-  }());
+  const textsTop = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋"];
+  const textsBottom = ["Join Us on Our Journey"];
+  function typeText(elementId, texts) {
+    let count = 0;
+    let index = 0;
+    let currentText = '';
+    let letter = '';
+    (function type(){
+      if (count === texts.length) {
+        count = 0;
+      }
+      currentText = texts[count];
+      letter = currentText.slice(0, ++index);
+      document.getElementById(elementId).textContent = letter;
+      if (letter.length === currentText.length) {
+        count++;
+        index = 0;
+        setTimeout(type, 1500);
+      } else {
+        setTimeout(type, 50);
+      }
+    }());
+  }
+  typeText('dynamic-text-top', textsTop);
+  typeText('dynamic-text-bottom', textsBottom);
   document.getElementById('scroll-down').addEventListener('click', function () {
     window.scrollTo({
       top: window.innerHeight,
