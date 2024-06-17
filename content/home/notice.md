@@ -80,7 +80,7 @@ design:
 </div>
 
 <div id="scroll-down">
-  ⬇
+  &#x25BC;
 </div>
 
 <script>
