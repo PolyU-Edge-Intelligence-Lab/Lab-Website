@@ -70,7 +70,7 @@ advanced:
 <div id="scroll-down">&#x25BC;</div>
 <script>
   const textsTop = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋"];
-  const textsBottom = ["Join Us on Our Journey"];
+  const textsBottom = ["Join Us on Our Journey in HKUST 🤗"];
   function typeText(elementId, texts, callback) {
     let count = 0;
     let index = 0;
