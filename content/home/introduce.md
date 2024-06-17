@@ -44,7 +44,8 @@ We are looking for strongly motivated PhD students, Research Assistants, and Pos
 
 [{{< icon name="envelope" pack="fas" >}}Song Guo](mailto:songguo@cse.ust.hk)
 
-
+<script type="text/javascript" src="/js/leaflet-ab59f61559.js"></script>
+<link rel="stylesheet" href="/css/leaflet-7be53ed796.css"/>
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">

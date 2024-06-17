@@ -1,0 +1,22 @@
+{{- if .IsNamedParams -}}
+{{- $mapPosition := (split (.Get "pos") "114.26439,22.33812") -}}
+{{- $mapLon := default 120 (index $mapPosition 0) -}}
+{{- $mapLat := default 30 (index $mapPosition 1) -}}
+{{- $mapWidth := default "100%" (.Get "w") -}}
+{{- $mapHeight := default "360px" (.Get "h") -}}
+<div class="map-box">
+<div id="map-{{$mapLon}}-{{$mapLat}}" style="max-width:{{$mapWidth}};height:{{$mapHeight}};"></div>
+</div>
+<script>
+    var mymap = L.map('map-{{$mapLon}}-{{$mapLat}}', { attributionControl:false }).setView([{{$mapLat}},{{$mapLon}}], {{ if .Get "zoom" }}{{ int (.Get "zoom") }}{{ else }}16{{ end }});
+    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {}).addTo(mymap);
+	{{ if .Get "alt" }}
+    {{ if and (.Get "altLat") (.Get "altLon") }}
+	var marker = L.marker([{{.Get "altLat"}}, {{.Get "altLon"}}]).addTo(mymap);
+    {{ else }}
+    var marker = L.marker([{{$mapLat}},{{$mapLon}}]).addTo(mymap);
+	{{ end }}
+	marker.bindPopup("{{.Get "alt" }}").openPopup();	
+	{{ end }}
+</script>
+{{- end -}}
