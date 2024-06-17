@@ -62,7 +62,6 @@ advanced:
 <div id="scroll-down">
   &#x25BC;
 </div>
-
 <script>
   const texts = ["Welcome to Pervasive Intelligence Lab 👋", "Join Us on Our Journey"];
   let count = 0;
