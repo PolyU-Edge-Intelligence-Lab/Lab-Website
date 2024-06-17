@@ -21,12 +21,21 @@ design:
 ---
 
 <style>
+  #hero-section {
+    position: relative;
+    height: 40vh; /* 设置图片高度为视口高度的40% */
+    background-image: url('Redbird.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+
   #dynamic-text-top {
     position: absolute;
     top: 20%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 3em;
+    font-size: 2em;
     color: white;
     text-align: center;
   }
@@ -65,9 +74,11 @@ design:
     }
   }
 </style>
-<div id="dynamic-text-top"></div>
-<div id="dynamic-text-bottom"></div>
-<div id="scroll-down">&#x25BC;</div>
+<div id="hero-section">
+  <div id="dynamic-text-top"></div>
+  <div id="dynamic-text-bottom"></div>
+  <div id="scroll-down">&#x25BC;</div>
+</div>
 <script>
   const textsTop = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋"];
   const textsBottom = ["Join Us on Our Journey in HKUST 🤗"];
