@@ -15,9 +15,9 @@ design:
     image_position: center
     image_size: cover
     text_color_light: true
-# advanced:
-#   css_style:
-#   css_class: fullscreen
+advanced:
+  css_style:
+  css_class: fullscreen
 ---
 
 <style>
@@ -57,7 +57,6 @@ design:
 </style>
 
 <div class="hero-fullscreen">
-  <img src="/media/Home.jpg" alt="Background Image">
   <div id="dynamic-text"></div>
   <div id="scroll-down">&#x25BC;</div>
 </div>
