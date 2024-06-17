@@ -19,6 +19,7 @@ advanced:
   css_style:
   css_class: fullscreen
 ---
+
 <style>
   #dynamic-text {
     position: absolute;
