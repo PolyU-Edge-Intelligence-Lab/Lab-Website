@@ -4,7 +4,7 @@ headless: true
 active: true
 weight: 1
 
-title: ""
+title: "PEILab"
 subtitle: ""
 
 design:
@@ -61,7 +61,7 @@ advanced:
   &#x25BC;
 </div>
 <script>
-  const texts = ["Welcome to Pervasive Intelligence Lab 👋", "Join Us on Our Journey"];
+  const texts = ["Welcome to Pervasive Intelligence Lab 👋", "We are looking for strongly motivated PhD students, Research Assistants, and Postdoctoral Fellows.", "Join Us on Our Journey"];
   let count = 0;
   let index = 0;
   let currentText = '';

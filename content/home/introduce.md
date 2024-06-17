@@ -3,7 +3,7 @@ widget: blank
 headless: true
 weight: 1
 
-title: "Welcome to Pervasive Intelligence Lab 👋"
+title: ""
 subtitle: ""
 
 design:
