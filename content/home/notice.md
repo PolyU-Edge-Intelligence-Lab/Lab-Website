@@ -6,7 +6,6 @@ weight: 1
 
 title: ""
 subtitle: ""
-# hero_media: "hello1.jpg" 
 
 design:
   background:
@@ -20,22 +19,6 @@ design:
 ---
 
 <style>
-  .hero-fullscreen {
-    position: relative;
-    height: 100vh;
-    width: 100%;
-    overflow: hidden;
-  }
-
-  .hero-fullscreen img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-
   #dynamic-text {
     position: absolute;
     top: 50%;
@@ -70,10 +53,6 @@ design:
     }
   }
 </style>
-
-<!-- <div class="hero-fullscreen">
-  <img src="/media/hello1.jpg" alt="Background Image">
-</div> -->
 
 <div id="dynamic-text">
   <!-- 动态文字将显示在这里 -->
