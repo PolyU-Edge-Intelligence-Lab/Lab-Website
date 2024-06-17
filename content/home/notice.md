@@ -55,6 +55,7 @@ advanced:
   }
 </style>
 
+<!-- 在这里添加一个HTML注释来消除多余的回车 -->
 <div id="dynamic-text">
   <!-- 动态文字将显示在这里 -->
 </div>
