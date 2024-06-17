@@ -54,8 +54,6 @@ advanced:
     }
   }
 </style>
-
-
 <div id="dynamic-text">
   <!-- 动态文字将显示在这里 -->
 </div>
