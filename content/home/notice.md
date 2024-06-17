@@ -5,7 +5,7 @@ active: true
 weight: 1
 
 title: "PEILab"
-subtitle: "PEILab"
+subtitle: "Pervasive Intelligence Lab (PEILab)"
 
 design:
   background:
@@ -19,7 +19,7 @@ advanced:
   css_style:
   css_class: fullscreen
 ---
-<style>
+<!-- <style>
   #dynamic-text {
     position: absolute;
     top: 50%;
@@ -94,4 +94,4 @@ advanced:
       behavior: 'smooth'
     });
   });
-</script>
+</script> -->
