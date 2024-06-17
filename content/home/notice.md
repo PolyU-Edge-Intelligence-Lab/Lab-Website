@@ -9,7 +9,7 @@ subtitle: "PEILab"
 
 design:
   background:
-    image: "hello1.jpg"
+    image: "Home.jpg"
     image_darken: 0.6
     image_parallax: true
     image_position: center
