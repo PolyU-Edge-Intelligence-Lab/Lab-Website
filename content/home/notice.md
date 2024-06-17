@@ -46,7 +46,7 @@ advanced:
     bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
-    font-size: 1vw; /* 使用视口宽度单位 */
+    font-size: 2vw; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
     cursor: pointer;
