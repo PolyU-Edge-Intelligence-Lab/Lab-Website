@@ -26,7 +26,7 @@ design:
 
 <div style="display: flex; align-items: center; font-size: 1.2em; margin-top: 20px;">
   <i class="fas fa-map-marker-alt" style="margin-right: 10px; color: #333;"></i>
-  Room 326, Department of Computer Science, Chow Yei Ching Building, The University of Hong Kong, Pokfulam Road, Hong Kong
+  Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong SAR
 </div>
 <div id="mapid" style="width: 100%; height: 400px;"></div>
 
