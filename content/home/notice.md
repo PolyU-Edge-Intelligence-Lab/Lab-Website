@@ -9,7 +9,7 @@ subtitle: ""
 
 design:
   background:
-    image: "Home.jpg"
+    image: "Redbird.jpg"
     image_darken: 0.6
     image_parallax: true
     image_position: center
