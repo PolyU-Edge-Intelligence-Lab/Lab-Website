@@ -15,10 +15,11 @@ design:
     image_position: center
     image_size: cover
     text_color_light: true
-advanced:
-  css_style:
-  css_class: fullscreen
+# advanced:
+#   css_style:
+#   css_class: fullscreen
 ---
+
 <style>
   #dynamic-text {
     position: absolute;
@@ -55,12 +56,10 @@ advanced:
   }
 </style>
 
-<!-- 在这里添加一个HTML注释来消除多余的回车 -->
-<div id="dynamic-text">
-  <!-- 动态文字将显示在这里 -->
-</div>
-<div id="scroll-down">
-  &#x25BC;
+<div class="hero-fullscreen">
+  <img src="/media/Home.jpg" alt="Background Image">
+  <div id="dynamic-text"></div>
+  <div id="scroll-down">&#x25BC;</div>
 </div>
 
 <script>
