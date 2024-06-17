@@ -71,9 +71,9 @@ design:
   }
 </style>
 
-<div class="hero-fullscreen">
+<!-- <div class="hero-fullscreen">
   <img src="/media/hello1.jpg" alt="Background Image">
-</div>
+</div> -->
 
 <div id="dynamic-text">
   <!-- 动态文字将显示在这里 -->
