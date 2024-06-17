@@ -34,12 +34,6 @@ design:
     width: 100%;
     height: 100%;
     object-fit: cover;
-    opacity: 0;
-    transition: opacity 1s ease-in-out;
-  }
-
-  .hero-fullscreen img.active {
-    opacity: 1;
   }
 
   #dynamic-text {
@@ -51,17 +45,42 @@ design:
     color: white;
     text-align: center;
   }
+
+  #scroll-down {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    animation: bounce 2s infinite;
+  }
+
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-10px);
+    }
+    60% {
+      transform: translateY(-5px);
+    }
+  }
 </style>
 
 <div class="hero-fullscreen">
-  <img src="/media/hello1.jpg" alt="Image 1" class="active">
-  <img src="/media/hello2.jpg" alt="Image 2">
-  <img src="/media/hello3.jpg" alt="Image 3">
-  <!-- 添加更多图片 -->
+  <img src="/media/hello1.jpg" alt="Background Image">
 </div>
 
 <div id="dynamic-text">
   <!-- 动态文字将显示在这里 -->
+</div>
+
+<div id="scroll-down">
+  ⬇
 </div>
 
 <script>
@@ -88,15 +107,11 @@ design:
     }
   }());
 
-  // 背景图片轮播
-  const images = document.querySelectorAll('.hero-fullscreen img');
-  let currentImageIndex = 0;
-
-  function changeImage() {
-    images[currentImageIndex].classList.remove('active');
-    currentImageIndex = (currentImageIndex + 1) % images.length;
-    images[currentImageIndex].classList.add('active');
-  }
-
-  setInterval(changeImage, 5000);  // 每5秒切换一次图片
+  // 滚动到下一部分
+  document.getElementById('scroll-down').addEventListener('click', function () {
+    window.scrollTo({
+      top: window.innerHeight,
+      behavior: 'smooth'
+    });
+  });
 </script>
