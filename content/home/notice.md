@@ -80,13 +80,12 @@ advanced:
     if (letter.length === currentText.length) {
       count++;
       index = 0;
-      setTimeout(type, 1500);  // 2秒后切换到下一个文本
+      setTimeout(type, 1500);
     } else {
-      setTimeout(type, 50);  // 每50ms显示一个新字母
+      setTimeout(type, 50);
     }
   }());
 
-  // 滚动到下一部分
   document.getElementById('scroll-down').addEventListener('click', function () {
     window.scrollTo({
       top: window.innerHeight,
