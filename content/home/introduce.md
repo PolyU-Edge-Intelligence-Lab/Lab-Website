@@ -75,10 +75,7 @@ We are looking for strongly motivated PhD students, Research Assistants, and Pos
 </div>
 
 ---
-title: "Map"
-date: 2023-01-01T00:00:00
-draft: false
-type: post
+LAB Location
 ---
 
 <div id="mapid" style="width: 100%; height: 400px;"></div>
@@ -102,7 +99,7 @@ type: post
     }).addTo(mymap);
 
     // 添加标记
-    var marker = L.marker([51.5, -0.09]).addTo(mymap);
+    var marker = L.marker([114.26439,22.33812]).addTo(mymap);
     marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
   };
   document.body.appendChild(script);
