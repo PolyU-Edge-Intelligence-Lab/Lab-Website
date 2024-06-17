@@ -52,7 +52,7 @@ design:
 
   #scroll-down {
     position: absolute;
-    bottom: 20px;
+    bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
     font-size: 2em;
@@ -81,7 +81,7 @@ design:
 </div>
 <script>
   const textsTop = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋"];
-  const textsBottom = ["Join Us on Our Journey in HKUST 🤗"];
+  const textsBottom = ["Join Us on Our Journey in HKUST"];
   function typeText(elementId, texts, callback) {
     let count = 0;
     let index = 0;
