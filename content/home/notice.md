@@ -54,12 +54,15 @@ advanced:
     }
   }
 </style>
+
+<!-- 在这里添加一个HTML注释来消除多余的回车 -->
 <div id="dynamic-text">
   <!-- 动态文字将显示在这里 -->
 </div>
 <div id="scroll-down">
   &#x25BC;
 </div>
+
 <script>
   const texts = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋", "We are looking for strongly motivated PhD students, Research Assistants, and Postdoctoral Fellows.", "Join Us on Our Journey"];
   let count = 0;
@@ -78,12 +81,13 @@ advanced:
     if (letter.length === currentText.length) {
       count++;
       index = 0;
-      setTimeout(type, 1500);
+      setTimeout(type, 1500);  // 2秒后切换到下一个文本
     } else {
-      setTimeout(type, 50);
+      setTimeout(type, 50);  // 每50ms显示一个新字母
     }
   }());
 
+  // 滚动到下一部分
   document.getElementById('scroll-down').addEventListener('click', function () {
     window.scrollTo({
       top: window.innerHeight,
