@@ -26,7 +26,7 @@ advanced:
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 2em;
+    font-size: 4em;
     color: white;
     text-align: center;
   }
