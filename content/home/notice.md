@@ -58,7 +58,7 @@ advanced:
 <div id="dynamic-text"></div>
 <div id="scroll-down">&#x25BC;</div>
 <script>
-  const texts = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋", "We are looking for strongly motivated PhD students, Research Assistants, and Postdoctoral Fellows.", "Join Us on Our Journey"];
+  const texts = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋",  "Join Us on Our Journey"];
   let count = 0;
   let index = 0;
   let currentText = '';
