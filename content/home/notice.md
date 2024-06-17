@@ -15,7 +15,9 @@ design:
     image_position: center
     image_size: cover
     text_color_light: true
-
+advanced:
+  css_style:
+  css_class: fullscreen
 ---
 
 <style>
