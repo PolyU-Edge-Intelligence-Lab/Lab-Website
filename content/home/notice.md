@@ -23,10 +23,10 @@ advanced:
 <style>
   #dynamic-text-top {
     position: absolute;
-    top: 20%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 2em;
+    font-size: 3em;
     color: white;
     text-align: center;
   }
