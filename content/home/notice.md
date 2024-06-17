@@ -23,20 +23,20 @@ advanced:
 <style>
   #dynamic-text-top {
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 3em;
+    font-size: font-size: 5vw; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
   }
 
   #dynamic-text-bottom {
     position: absolute;
-    top: 85%;
+    top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 1.5em;
+    font-size: font-size: 5vw; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
   }
@@ -46,7 +46,7 @@ advanced:
     bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
-    font-size: 2em;
+    font-size: font-size: 2vw; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
     cursor: pointer;
