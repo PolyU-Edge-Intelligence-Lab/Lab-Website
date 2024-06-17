@@ -5,7 +5,7 @@ active: true
 weight: 1
 
 title: "PEILab"
-subtitle: ""
+subtitle: "PEILab"
 
 design:
   background:
