@@ -23,20 +23,20 @@ advanced:
 <style>
   #dynamic-text-top {
     position: absolute;
-    top: 40%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 2vw; /* 使用视口宽度单位 */
+    font-size: 3vw; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
   }
 
   #dynamic-text-bottom {
     position: absolute;
-    top: 80%;
+    top: 90%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 2vw; /* 使用视口宽度单位 */
+    font-size: 1.5vw; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
   }
