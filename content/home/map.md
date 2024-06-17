@@ -1,9 +1,9 @@
 ---
 widget: blank
 headless: true
-weight: 100
+weight: 20
 
-title: ""
+title: "LAB Location"
 subtitle: ""
 
 design:
@@ -19,9 +19,6 @@ design:
 # advanced:
 #   css_style:
 #   css_class: 
-
----
-LAB Location
 ---
 
 <div id="mapid" style="width: 100%; height: 400px;"></div>
