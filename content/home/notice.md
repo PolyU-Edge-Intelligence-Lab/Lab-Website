@@ -73,9 +73,9 @@ advanced:
     if (letter.length === currentText.length) {
       count++;
       index = 0;
-      setTimeout(type, 1500);
+      setTimeout(type, 800);
     } else {
-      setTimeout(type, 50);
+      setTimeout(type, 10);
     }
   }());
   document.getElementById('scroll-down').addEventListener('click', function () {
