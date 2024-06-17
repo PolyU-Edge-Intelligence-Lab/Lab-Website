@@ -9,7 +9,7 @@ type: "widget_page"
 widget: hero
 headless: true
 active: true
-weight: 10
+weight: 1
 
 title: "Hi, I am John"
 subtitle: ""
