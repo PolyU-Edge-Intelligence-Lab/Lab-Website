@@ -4,8 +4,8 @@ headless: true
 active: true
 weight: 1
 
-title: "PEILab"
-subtitle: "Pervasive Intelligence Lab (PEILab)"
+title: "Pervasive Intelligence Lab (PEILab)"
+# subtitle: "Pervasive Intelligence Lab (PEILab)"
 
 design:
   background:
