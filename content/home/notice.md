@@ -23,10 +23,10 @@ advanced:
 <style>
   #dynamic-text-top {
     position: absolute;
-    top: 30%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 3vh; /* 使用视口宽度单位 */
+    font-size: 4vh; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
   }
