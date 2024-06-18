@@ -26,7 +26,7 @@ advanced:
     top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 3vw; /* 使用视口宽度单位 */
+    font-size: 10vh; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
   }
@@ -36,7 +36,7 @@ advanced:
     top: 90%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 1.5vw; /* 使用视口宽度单位 */
+    font-size: 8vh; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
   }
@@ -46,7 +46,7 @@ advanced:
     bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
-    font-size: 2vw; /* 使用视口宽度单位 */
+    font-size: 5vh; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
     cursor: pointer;
