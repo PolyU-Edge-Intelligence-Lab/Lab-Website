@@ -3,7 +3,7 @@ title: (ICML2024)Amend to Alignment|Decoupled Prompt Tuning for Mitigating Spuri
 summary: 
 
 tags:
-- Foundation Model
+- None
 date: "2024-06-05"
 
 # Optional external URL for project (replaces project detail page).
