@@ -20,7 +20,7 @@ role: Research Assistant
 # Organizations/Affiliations
 organizations:
 - name: The Hong Kong University of Science and Technology
-  url: "https://hkust.edu.hk/"
+  url: ""
 
 interests:
 - Artificial Intelligence
