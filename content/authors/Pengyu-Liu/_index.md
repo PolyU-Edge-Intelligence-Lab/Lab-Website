@@ -2,7 +2,8 @@
 ---
 # Display name
 # Format: Your_given_name Your_surname 
-title:Pengyu Liu
+
+title: Pengyu Liu
 
 # Username
 # Format: this should match the folder name
