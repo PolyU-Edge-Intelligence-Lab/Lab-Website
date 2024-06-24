@@ -20,7 +20,7 @@ role: Research Assistant
 # Organizations/Affiliations
 organizations:
 - name: The Hong Kong University of Science and Technology
-  url: ""
+  url: "https://hkust.edu.hk/"
 
 interests:
 - Artificial Intelligence
@@ -55,6 +55,9 @@ social:
 #  - Research Students (Master/PhD student, e.g.)
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
+
+highlight_name: false
+
 user_groups:
 - Research Assistants & Visitors
 ---
