@@ -38,7 +38,7 @@ education:
 
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
-# social:
+social:
 - icon: envelope
   icon_pack: fas
   link: 'liuyongjiang412@gmail.com'
