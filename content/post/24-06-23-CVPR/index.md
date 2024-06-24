@@ -9,7 +9,7 @@ Congratulations to Professor Song Guo for being awarded 2024 Edward J. McCluskey
 
 ## About the Edward J. McCluskey Technical Achievement Award
 
-A certificate and $2,000 honorarium are presented for outstanding and innovative contributions to the fields of computer and information science and engineering or computer technology, usually within the past 10, and not more than 15 years.
+A certificate and honorarium are presented for outstanding and innovative contributions to the fields of computer and information science and engineering or computer technology, usually within the past 10, and not more than 15 years.
 
 
 ## Reward Group Photo

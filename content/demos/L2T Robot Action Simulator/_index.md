@@ -8,23 +8,28 @@ type: book
 
 ## Background
 
-In the rapidly evolving field of robotics, real-world learning often requires robot trajectory rollouts for model evaluation, data collection, and reinforcement learning. However, these rollouts can be time-consuming and demand intensive human supervision to ensure safety. To address these challenges, we propose a novel approach: developing a **robot action simulator**. This simulator can accurately emulate robot rollouts in a virtual environment, providing faster, safer, and more efficient evaluation of robot trajectories. Moreover, it can serve as a world model for planning robot actions, helping robots simulate and select optimal trajectories.
+The field of embodied AI has seen substantial progress, with robots now capable of executing diverse tasks. Despite this, real robots are expensive, risky, and labor-intensive, restricting scalable learning in the real world. Simulating robot trajectories in physical simulators, though helpful, is often visually unrealistic and difficult to scale due to the effort needed to create new environments. To overcome these limitations, we propose developing a highly realistic and interactive real-robot action simulator. This simulator can emulate robot trajectories with high accuracy and visual fidelity, enabling scalable learning without safety concerns or maintenance requirements.
 
 
 ## Contributions
-In this project, we present a groundbreaking action-to-video generation method, \ourmethod, which predicts a video of a robot executing a sequence of actions given the initial frame and action sequence. Our work focuses on robot arms completing manipulation tasks, leveraging the cutting-edge generative capabilities of Diffusion Transformer technology. 
-1. **Novel Action-to-Video Generation Task:** We introduce a task that predicts videos of robots performing a sequence of actions based on an initial frame and the action sequence.
-2. **Innovative Method:** We develop a novel method based on Diffusion Transformer, capable of generating accurate and realistic videos that strictly follow the input action sequence.
-3. **Comprehensive Evaluation:** We validate the effectiveness of RASthrough extensive experiments on three real-robot manipulation datasets: Language-Table, RT-1, and Bridge.
+In this project, we introduce IRASim, an innovative method that generates highly realistic videos of robots performing action trajectories from an initial frame. 
+
+1. **Novel Method:** We propose a novel method, IRASim, capable of generating high-resolution and long-horizon videos for the trajectory-to-video task. It achieves precise alignments between actions and video frames and accurately adheres to physical laws.
+
+2. **New Benchmark:** We introduce the IRASim Benchmark, a new benchmark based on three real-robot datasets for the trajectory-to-video task. We aim to drive progress in generative real-robot action simulators.
+
+3. **Comprehensive Evaluation:** We perform extensive experiments on the proposed benchmark to demonstrate the performance of IRASim. Results show that our method can produce accurate videos that are almost visually indistinguishable from the real world.
 
 
 ## Significance
 
-The proposed RAS revolutionizes robot learning by providing a safer, faster, and more effective evaluation framework for robot trajectories. By accurately simulating interactions with objects in the environment, it enables significant advancements in real-world robot learning and manipulation tasks. Furthermore, RAS has the potential to transform various robotics applications, from industrial automation to assistive robotics, accelerating the development of intelligent and autonomous robots worldwide.
+IRASim transforms robot learning by providing a safer, faster, and more efficient framework for evaluating robot trajectories. It accurately simulates complex robot-object interactions, facilitating significant advancements in real-world robot learning and manipulation tasks. IRASim has the potential to revolutionize various robotics applications, from industrial automation to assistive robotics, driving the development of intelligent and autonomous robots globally.
 
 ## Content in this demo
 
-**Video:** Robot Action Simulator demo <video controls src="demo-1.mp4" title="Title"></video>
+Project Website: [https://gen-irasim.github.io/](https://gen-irasim.github.io/)
+
+Video: Generative Real-Robot Action Simulator Demo
 
 
 
