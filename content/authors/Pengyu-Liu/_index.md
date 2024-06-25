@@ -1,12 +1,12 @@
 ---
 # Display name
 # Format: Your_given_name Your_surname 
-title: Yongjiang Liu
+title: Pengyu Liu
 
 # Username
 # Format: this should match the folder name
 authors:
-- Yongjiang-LIU
+- Pengyu-Liu
 
 # Is this the primary user of the site?
 # no need to modify 
@@ -22,30 +22,32 @@ organizations:
   url: ""
 
 interests:
-- Artificial Intelligence
-- Large Language Model
-- Few-shot Learning
+- Blockchain
+- Edge Computing
+- IoT Security and Privacy
+- Game Theory
 
 education:
   courses:
-  - course: MSc in Computer Science and Technology
-    institution: Northwestern Polytechnical University, Xi'an, China
-    year: 2018-2021
-  - course: BSc in Aeronautical Engineering
-    institution: Northwestern Polytechnical University, Xi'an, China
-    year: 2014-2018
+  - course: Bachelor in Information and Computing Science
+    institution: The Yunnan University
+    year: 2017-2021
+  - course: Master in Cyberspace Security
+    institution: The Tianjin University
+    year: 2022-2025
 
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'liuyongjiang412@gmail.com'
+  link: '2022244182@tju.edu.cn'
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
-# # -icon: cv
-# # icon_pack: ai
-# # link:
+- # #icon: cv
+  
+- # #icon_pack: ai
+  # #link: resume/cv-jie-zhang/cv-jie-zhang.pdf
 
 # Choose which group that you belong to
 #  available groups:
@@ -54,11 +56,12 @@ social:
 #  - Research Students (Master/PhD student, e.g.)
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
+highlight_name: false
 user_groups:
 - Research Assistants & Visitors
 ---
+Pengyu Liu is currently a research assistant at the Hong Kong University of Science and Technology, supervised by IEEE Fellow Prof. Song Guo. Prior to this, he obtained a Bachelor's degree in Information and Computing Science from Yunnan University and pursued a Master's degree in Cyberspace Security at Tianjin University under the supervision of Prof. Guangquan Xu and Prof. Keqiu Li.
 
-Yongjiang Liu (刘永江) is a currently a Research Assistant in  student of in Computer Science and Engineering at The Hong Kong University of Science and Technology, Hong Kong SAR, China. He is going to start PhD program from 2024 fall, supervised by Prof. Song Guo. His research interests include Artificial Intelligence, Large Language Model and Few-shot Learning.
+His research interests include Blockchain, Edge Computing, IoT Security and Privacy, and Game Theory.
 
 ---
-
