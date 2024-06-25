@@ -50,7 +50,7 @@ social:
   link: https://github.com/hongzicong
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
-#- icon: cv
+# - icon: cv
 #  icon_pack: ai
 #  link: resume/cv-andrew-ng/cv.pdf
 

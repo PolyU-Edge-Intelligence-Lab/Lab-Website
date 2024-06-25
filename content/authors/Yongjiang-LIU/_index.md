@@ -6,7 +6,7 @@ title: Yongjiang Liu
 # Username
 # Format: this should match the folder name
 authors:
-- Yongjiang-Liu
+- Yongjiang-LIU
 
 # Is this the primary user of the site?
 # no need to modify 
