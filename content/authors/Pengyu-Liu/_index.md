@@ -59,11 +59,9 @@ social:
 
 user_groups:
 - Research Assistants & Visitors
-
 ---
 
 Pengyu Liu is currently a research assistant at the Hong Kong University of Science and Technology, supervised by IEEE Fellow Prof. Song Guo. Prior to this, he obtained a Bachelor's degree in Information and Computing Science from Yunnan University and pursued a Master's degree in Cyberspace Security at Tianjin University under the supervision of Prof. Guangquan Xu and Prof. Keqiu Li.
-
 His research interests include Blockchain, Edge Computing, IoT Security and Privacy, and Game Theory.
 
 ---
