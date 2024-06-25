@@ -1,7 +1,7 @@
 ---
 # Display name
 # Format: Your_given_name Your_surname 
-title: Pengyu Liu
+title: Pengyu liu
 
 # Username
 # Format: this should match the folder name
@@ -29,12 +29,12 @@ interests:
 
 education:
   courses:
-  - course: Bachelor in Information and Computing Science
-    institution: The Yunnan University
-    year: 2017-2021
   - course: Master in Cyberspace Security
     institution: The Tianjin University
     year: 2022-2025
+  - course: Bachelor in Information and Computing Science
+    institution: The Yunnan University
+    year: 2017-2021
 
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
@@ -44,10 +44,9 @@ social:
   link: '2022244182@tju.edu.cn'
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
-- # #icon: cv
-  
-- # #icon_pack: ai
-  # #link: resume/cv-jie-zhang/cv-jie-zhang.pdf
+# # -icon: cv
+# # icon_pack: ai
+# # link:
 
 # Choose which group that you belong to
 #  available groups:
@@ -57,6 +56,8 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 
+highlight_name: false
+
 user_groups:
 - Research Assistants & Visitors
 ---
@@ -65,3 +66,4 @@ Pengyu Liu is currently a research assistant at the Hong Kong University of Scie
 His research interests include Blockchain, Edge Computing, IoT Security and Privacy, and Game Theory.
 
 ---
+
