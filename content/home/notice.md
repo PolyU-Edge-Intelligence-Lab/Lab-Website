@@ -17,27 +17,13 @@ design:
     text_color_light: true
 advanced:
   css_style:
-  css_class:
+  css_class: fullscreen
 ---
 <style>
-  #background-container {
-    position: absolute;
-    top: 40%;
-    left: 50%;
-    width: 100%;
-    height: 25vh; /* 设置背景图高度为视口高度的40% */
-    overflow: hidden;
-  }
-
-  #background-container::before {
-    content: "";
-    background: url('Redbird.png') center center / cover no-repeat;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    opacity: 0.6; /* 设置背景图的透明度 */
+  /* 调整背景容器的高度 */
+  .fullscreen {
+    height: 40vh; /* 背景图片占据视口高度的40% */
+    position: relative;
   }
 
   #dynamic-text-top {
@@ -85,11 +71,9 @@ advanced:
     }
   }
 </style>
-<div id="background-container">
-  <div id="dynamic-text-top"></div>
-  <div id="dynamic-text-bottom"></div>
-  <div id="scroll-down">&#x25BC;</div>
-</div>
+<div id="dynamic-text-top"></div>
+<div id="dynamic-text-bottom"></div>
+<div id="scroll-down">&#x25BC;</div>
 <script>
   const textsTop = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋"];
   const textsBottom = ["Join Us on Our Journey in HKUST"];
