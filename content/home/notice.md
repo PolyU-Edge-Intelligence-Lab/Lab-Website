@@ -21,7 +21,7 @@ advanced:
 ---
 <style>
   .fullscreen {
-      height: 40vh; /* 背景图片占据视口高度的40% */
+      height: 20vh; /* 背景图片占据视口高度的40% */
       position: relative;
     }
 
