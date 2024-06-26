@@ -1,4 +1,4 @@
-<!-- ---
+---
 widget: hero
 headless: true
 active: true
@@ -21,9 +21,42 @@ advanced:
 ---
 
 <style>
+  .background-container {
+    position: relative;
+    height: 40vh; /* 设置背景图片高度为视口高度的40% */
+    overflow: hidden;
+  }
+
+  .background-container img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    animation: slide 15s infinite; /* 背景图滚动播放动画 */
+  }
+
+  @keyframes slide {
+    0% { opacity: 1; }
+    33% { opacity: 0; }
+    66% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  .background-container img:nth-child(1) {
+    animation-delay: 0s;
+  }
+
+  .background-container img:nth-child(2) {
+    animation-delay: 5s;
+  }
+
+  .background-container img:nth-child(3) {
+    animation-delay: 10s;
+  }
+
   #dynamic-text-top {
     position: absolute;
-    top: 40%;
+    top: 20%; /* 调整文本位置以适应新的背景高度 */
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 4vh; /* 使用视口宽度单位 */
@@ -33,7 +66,7 @@ advanced:
 
   #dynamic-text-bottom {
     position: absolute;
-    top: 90%;
+    top: 85%; /* 调整文本位置以适应新的背景高度 */
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 2vh; /* 使用视口宽度单位 */
@@ -65,9 +98,17 @@ advanced:
     }
   }
 </style>
+
+<div class="background-container">
+  <img src="Redbird.png" alt="Background Image 1">
+  <img src="Redbird.png" alt="Background Image 2">
+  <img src="Redbird.png" alt="Background Image 3">
+</div>
+
 <div id="dynamic-text-top"></div>
 <div id="dynamic-text-bottom"></div>
 <div id="scroll-down">&#x25BC;</div>
+
 <script>
   const textsTop = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋"];
   const textsBottom = ["Join Us on Our Journey in HKUST"];
@@ -102,4 +143,4 @@ advanced:
       behavior: 'smooth'
     });
   });
-</script> -->
+</script>
