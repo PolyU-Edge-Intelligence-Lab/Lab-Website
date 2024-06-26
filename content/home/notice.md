@@ -21,16 +21,17 @@ advanced:
 ---
 <style>
   .fullscreen {
-      height: 20vh; /* 背景图片占据视口高度的40% */
-      position: relative;
-    }
+    width: 100vh;
+    height: 20vh; /* 背景图片占据视口高度的40% */
+    position: relative;
+  }
 
   #dynamic-text-top {
     position: absolute;
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 2vh; /* 使用视口宽度单位 */
+    font-size: 3vh; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
     white-space: nowrap;
@@ -38,7 +39,7 @@ advanced:
 
   #dynamic-text-bottom {
     position: absolute;
-    top: 90%;
+    top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 1vh; /* 使用视口宽度单位 */
