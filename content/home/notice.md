@@ -23,7 +23,7 @@ advanced:
   #background-container {
     position: relative;
     width: 100%;
-    height: 40vh; /* 设置背景图高度为视口高度的40% */
+    height: 25vh; /* 设置背景图高度为视口高度的40% */
     overflow: hidden;
   }
 
@@ -37,7 +37,7 @@ advanced:
     height: 100%;
     opacity: 0.6; /* 设置背景图的透明度 */
   }
-  
+
   #dynamic-text-top {
     position: absolute;
     top: 40%;
