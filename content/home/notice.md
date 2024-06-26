@@ -43,9 +43,10 @@ advanced:
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 4vh; /* 使用视口宽度单位 */
+    font-size: 2vh; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
+    white-space: nowrap;
   }
 
   #dynamic-text-bottom {
@@ -53,7 +54,7 @@ advanced:
     top: 90%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 2vh; /* 使用视口宽度单位 */
+    font-size: 1vh; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
   }
@@ -63,7 +64,7 @@ advanced:
     bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
-    font-size: 3.5vh; /* 使用视口宽度单位 */
+    font-size: 1vh; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
     cursor: pointer;
