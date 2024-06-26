@@ -94,9 +94,9 @@ advanced:
 ---
 
 <div class="background-container">
-  <img src="image1.png" alt="Background Image 1">
-  <img src="image2.png" alt="Background Image 2">
-  <img src="image3.png" alt="Background Image 3">
+  <img src="Redbird.png" alt="Background Image 1">
+  <img src="Redbird.png" alt="Background Image 2">
+  <img src="Redbird.png" alt="Background Image 3">
 </div>
 
 <div id="dynamic-text-top"></div>
