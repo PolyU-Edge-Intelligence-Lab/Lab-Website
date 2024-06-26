@@ -17,7 +17,7 @@ design:
     text_color_light: true
 advanced:
   css_style:
-  css_class: fullscreen
+  css_class:
 ---
 <style>
   #background-container {
@@ -76,6 +76,7 @@ advanced:
   <div id="dynamic-text-bottom"></div>
   <div id="scroll-down">&#x25BC;</div>
 </div>
+<script>
   const textsTop = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋"];
   const textsBottom = ["Join Us on Our Journey in HKUST"];
   function typeText(elementId, texts, callback) {
