@@ -27,6 +27,17 @@ advanced:
     overflow: hidden;
   }
 
+  #background-container::before {
+    content: "";
+    background: url('Redbird.png') center center / cover no-repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.6; /* 设置背景图的透明度 */
+  }
+  
   #dynamic-text-top {
     position: absolute;
     top: 40%;
