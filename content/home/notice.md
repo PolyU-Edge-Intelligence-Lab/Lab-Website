@@ -24,6 +24,10 @@ advanced:
     position: relative;
     width: 100%;
     height: 25vh; /* 设置背景图高度为视口高度的40% */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     overflow: hidden;
   }
 
