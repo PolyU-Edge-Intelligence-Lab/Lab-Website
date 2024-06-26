@@ -1,5 +1,5 @@
 ---
-title: (INFOCOM2024)Tomtit|Hierarchical Federated Fine-Tuning of Giant Models based on Autonomous Synchronization
+title: "(INFOCOM2024) Tomtit: Hierarchical Federated Fine-Tuning of Giant Models based on Autonomous Synchronization"
 
 tags:
 - Foundation Model
