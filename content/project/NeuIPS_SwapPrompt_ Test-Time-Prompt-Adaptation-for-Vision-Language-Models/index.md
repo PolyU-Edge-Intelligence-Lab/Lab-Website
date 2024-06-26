@@ -1,6 +1,5 @@
 ---
-title: Prompt Tunning --> Self-supervised Test-Time Prompt Tuning
-tags:
+title: "(NeuIPS2023)SwapPrompt:Test-Time Prompt Adaptation for Vision-Language Models"
 - Foundation Model
 date: "2023-09-22"
 
