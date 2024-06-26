@@ -1,4 +1,4 @@
----
+<!-- ---
 widget: hero
 headless: true
 active: true
@@ -102,4 +102,4 @@ advanced:
       behavior: 'smooth'
     });
   });
-</script>
+</script> -->
