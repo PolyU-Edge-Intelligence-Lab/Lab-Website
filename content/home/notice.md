@@ -17,15 +17,13 @@ design:
     text_color_light: true
 advanced:
   css_style:
+    .fullscreen {
+      height: 40vh; /* 背景图片占据视口高度的40% */
+      position: relative;
+    }
   css_class: fullscreen
 ---
 <style>
-  /* 调整背景容器的高度 */
-  .fullscreen {
-    height: 40vh; /* 背景图片占据视口高度的40% */
-    position: relative;
-  }
-
   #dynamic-text-top {
     position: absolute;
     top: 40%;
