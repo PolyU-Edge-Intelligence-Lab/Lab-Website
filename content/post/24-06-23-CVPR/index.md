@@ -15,7 +15,7 @@ A certificate and honorarium are presented for outstanding and innovative contri
 ## Reward Group Photo
 
 ![Reward Group Photo](PIC-1.jpg)
-
+Pictured Here: Ming Li, Willy Zwaenepoel, Shrikanth Narayanan, Leonard Kleinrock, CecilaShahnaz, Jyotika Athavale, Cecilia Metra, Joe Bumblis, Debendra Das Sharma, **Song Guo**, and Fei-Fei Li.
 
 ## Award-winning video
 
