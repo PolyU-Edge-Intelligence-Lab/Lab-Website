@@ -16,7 +16,17 @@ design:
     image_size: cover
     text_color_light: true
 advanced:
-  css_style: 
+  css_style:
+  css_class: fullscreen
+---
+<style>
+  #background-container {
+    position: relative;
+    width: 100%;
+    height: 40vh; /* 设置背景图高度为视口高度的40% */
+    overflow: hidden;
+  }
+
   #dynamic-text-top {
     position: absolute;
     top: 40%;
@@ -60,12 +70,12 @@ advanced:
       transform: translateY(-5px);
     }
   }
-  css_class:
----
-<div id="dynamic-text-top"></div>
-<div id="dynamic-text-bottom"></div>
-<div id="scroll-down">&#x25BC;</div>
-<script>
+</style>
+<div id="background-container">
+  <div id="dynamic-text-top"></div>
+  <div id="dynamic-text-bottom"></div>
+  <div id="scroll-down">&#x25BC;</div>
+</div>
   const textsTop = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋"];
   const textsBottom = ["Join Us on Our Journey in HKUST"];
   function typeText(elementId, texts, callback) {
