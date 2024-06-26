@@ -17,7 +17,7 @@ design:
     text_color_light: true
 advanced:
   css_style:
-  css_class: fullscreen
+  css_class:
 ---
 <style>
   .fullscreen {
