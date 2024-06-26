@@ -17,13 +17,14 @@ design:
     text_color_light: true
 advanced:
   css_style:
-    .fullscreen {
-      height: 40vh; /* 背景图片占据视口高度的40% */
-      position: relative;
-    }
   css_class: fullscreen
 ---
 <style>
+  .fullscreen {
+      height: 40vh; /* 背景图片占据视口高度的40% */
+      position: relative;
+    }
+
   #dynamic-text-top {
     position: absolute;
     top: 40%;
@@ -69,9 +70,11 @@ advanced:
     }
   }
 </style>
-<div id="dynamic-text-top"></div>
-<div id="dynamic-text-bottom"></div>
-<div id="scroll-down">&#x25BC;</div>
+<div class="fullscreen">
+  <div id="dynamic-text-top"></div>
+  <div id="dynamic-text-bottom"></div>
+  <div id="scroll-down">&#x25BC;</div>
+</div>
 <script>
   const textsTop = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋"];
   const textsBottom = ["Join Us on Our Journey in HKUST"];
