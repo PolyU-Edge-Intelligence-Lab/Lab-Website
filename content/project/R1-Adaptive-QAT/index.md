@@ -1,5 +1,5 @@
 ---
-title: (ATC2021)Adaptive Quantization-aware Training and Model Compression.
+title: (ATC2021) Adaptive Quantization-aware Training and Model Compression.
 summary: Our research focuses on the software and hardware synergy of on-device learning techniques, covering the scope of model-level neural network design, algorithm-level training optimization and hardware-level arithmetic acceleration.
 tags:
 - Others

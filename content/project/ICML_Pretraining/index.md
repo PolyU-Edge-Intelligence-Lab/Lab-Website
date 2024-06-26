@@ -1,5 +1,5 @@
 ---
-title: (ICML2024)Causally Motivated Personalized Federated Invariant Learning with Shortcut-Free Information-Theoretic Regularization
+title: (ICML2024) Causally Motivated Personalized Federated Invariant Learning with Shortcut-Free Information-Theoretic Regularization
 
 tags:
 - Foundation Model

@@ -1,5 +1,5 @@
 ---
-title: (VLDB2024)VeriDKG-A Verifiable SPARQL Query Engine for Decentralized Knowledge Graphs
+title: (VLDB2024) VeriDKG-A Verifiable SPARQL Query Engine for Decentralized Knowledge Graphs
 summary: 
 
 tags:

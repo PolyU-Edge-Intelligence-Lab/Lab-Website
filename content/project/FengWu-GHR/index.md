@@ -1,5 +1,5 @@
 ---
-title: (arXiv2024) FengWu-GHR | Learning the Kilometer-scale Medium-range Global Weather Forecasting
+title: "(arXiv2024) FengWu-GHR: Learning the Kilometer-scale Medium-range Global Weather Forecasting"
 tags:
 - AI for Science
 date: "2024-01-28"

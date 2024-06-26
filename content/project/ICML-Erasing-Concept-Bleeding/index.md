@@ -1,5 +1,5 @@
 ---
-title: (ICML2024)Easing Concept Bleeding in Diffusion via Entity Localization and Anchoring
+title: (ICML2024) Easing Concept Bleeding in Diffusion via Entity Localization and Anchoring
 summary: 
 
 tags:
