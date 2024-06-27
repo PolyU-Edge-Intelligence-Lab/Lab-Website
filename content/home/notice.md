@@ -21,7 +21,7 @@ advanced:
 ---
 <style>
   .fullscreen {
-    width: 100vh;
+    width: 80vw;
     height: 20vh; /* 背景图片占据视口高度的40% */
     position: relative;
   }
@@ -31,7 +31,7 @@ advanced:
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 3vh; /* 使用视口宽度单位 */
+    font-size: 3.5vh; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
     white-space: nowrap;
@@ -42,14 +42,14 @@ advanced:
     top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 1vh; /* 使用视口宽度单位 */
+    font-size: 2vh; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
   }
 
   #scroll-down {
     position: absolute;
-    bottom: 10px;
+    bottom: 5px;
     left: 50%;
     transform: translateX(-50%);
     font-size: 1vh; /* 使用视口宽度单位 */
