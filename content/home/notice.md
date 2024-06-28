@@ -34,7 +34,6 @@ advanced:
     font-size: 3.5vh; /* 使用视口宽度单位 */
     color: white;
     text-align: center;
-    white-space: nowrap;
   }
 
   #dynamic-text-bottom {
