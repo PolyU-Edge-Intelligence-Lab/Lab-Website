@@ -20,6 +20,12 @@ advanced:
   css_class:
 ---
 <style>
+  .hero-lead{
+    font-size: 1.35rem;
+    width: 100%;
+    height: 20vh;
+  }
+
   .fullscreen {
     width: 100%;
     height: 100%; /* 背景图片占据视口高度的40% */
