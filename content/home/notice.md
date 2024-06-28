@@ -24,6 +24,7 @@ advanced:
     font-size: 1.35rem;
     width: 100%;
     height: 20vh;
+    max-width: 10000px;
   }
 
   .fullscreen {
