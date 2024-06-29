@@ -38,7 +38,7 @@ advanced:
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 180%; /* 使用视口宽度单位 */
-    color: yellow;
+    color: white;
     text-align: center;
   }
 
@@ -82,7 +82,7 @@ advanced:
   <div id="scroll-down">&#x25BC;</div>
 </div>
 <script>
-  const textsTop = ["Welcome to Pervasive Intelligence Lab (PEILab) 👋"];
+  const textsTop = ["Welcome to Pervasive Intelligence Lab  👋"];
   const textsBottom = ["Join Us on Our Journey in HKUST"];
   function typeText(elementId, texts, callback) {
     let count = 0;
