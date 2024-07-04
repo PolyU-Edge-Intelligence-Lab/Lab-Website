@@ -22,7 +22,7 @@ publication: IEEE International Conference on Computer Communications (INFOCOM) 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://arxiv.org/pdf/2402.03815
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

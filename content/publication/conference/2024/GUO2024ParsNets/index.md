@@ -28,7 +28,7 @@ publication: The 33rd International Joint Conference on Artificial Intelligence 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://arxiv.org/pdf/2312.09709
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

@@ -22,7 +22,7 @@ publication: In the 12th International Conference on Learning Representations (I
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://openreview.net/pdf?id=8FHWkY0SwF
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

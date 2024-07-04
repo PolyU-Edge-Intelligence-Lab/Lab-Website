@@ -26,7 +26,7 @@ publication: IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://arxiv.org/pdf/2403.08506 
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

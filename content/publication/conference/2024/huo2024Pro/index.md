@@ -25,7 +25,7 @@ publication: In the 38th Annual AAAI Conference on Artificial Intelligence (AAAI
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://arxiv.org/pdf/2211.12417v3
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
