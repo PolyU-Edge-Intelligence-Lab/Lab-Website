@@ -63,13 +63,9 @@ courses:
 # To disable, comment blew lines with `#`.
 
 social:
-
-- icon: envelope&#x20;
-
-  icon_pack: fas&#x20;
-
+- icon: envelope
+  icon_pack: fas
   link: 'csexypang@ust.hk'
-
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=wWCZSVMAAAAJ&hl=zh-CN&oi=ao
