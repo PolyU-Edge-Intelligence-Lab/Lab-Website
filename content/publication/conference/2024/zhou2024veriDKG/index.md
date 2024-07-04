@@ -23,9 +23,9 @@ publication_types: ["1"]
 publication: In 50th International Conference on Very Large Data Bases (VLDB) (CCF-A)
 #publication_short: In *INFOCOM* (CCF-A)
 
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Custom Link
+  url: https://dl.acm.org/doi/pdf/10.14778/3636218.3636242
 # url_pdf: 
 # url_code: '#'
 # url_dataset: '#'
