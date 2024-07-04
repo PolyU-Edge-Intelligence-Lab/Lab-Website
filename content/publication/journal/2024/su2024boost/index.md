@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: Transactions on Services Computing (TSC) (CCF-A)
 # publication_short: "TNSE (JCR-Q1)"
 
- url_pdf: https://www.computer.org/csdl/journal/sc/5555/01/10472094/1VhFgtwxU1a
+url_pdf: https://www.computer.org/csdl/journal/sc/5555/01/10472094/1VhFgtwxU1a
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
