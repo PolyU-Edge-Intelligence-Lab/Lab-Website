@@ -21,6 +21,7 @@ publication_types: ["1"]
 publication: In The Web Conference (WWW) (CCF-A)
 #publication_short: In *INFOCOM* (CCF-A)
 
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3589334.3645422
 # links:
 # - name: Custom Link
 #   url: http://example.org

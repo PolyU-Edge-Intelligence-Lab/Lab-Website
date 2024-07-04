@@ -22,6 +22,8 @@ publication_types: ["1"]
 publication: In the 38th Annual AAAI Conference on Artificial Intelligence (AAAI) (CCF-A)
 #publication_short: In *INFOCOM* (CCF-A)
 
+url_pdf: /files/ZhouAAAI2024.pdf
+url_video: https://underline.io/lecture/91883-on-the-robustness-of-neural-enhanced-video-streaming-against-adversarial-attacks
 # links:
 # - name: Custom Link
 #   url: http://example.org
