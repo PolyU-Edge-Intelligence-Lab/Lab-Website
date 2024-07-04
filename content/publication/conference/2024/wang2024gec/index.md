@@ -26,7 +26,7 @@ publication: IEEE International Conference on Computer Communications (INFOCOM) 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://largeaudiomodel.com/publication/2024/wang2024gecko/wang2024Gecko.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

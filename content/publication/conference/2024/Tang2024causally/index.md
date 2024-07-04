@@ -23,7 +23,7 @@ publication: 41st International Conference on Machine Learning (ICML) (CCF-A)
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://openreview.net/pdf?id=Kbd9A4lVoX
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

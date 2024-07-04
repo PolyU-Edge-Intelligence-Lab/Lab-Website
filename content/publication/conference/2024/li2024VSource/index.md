@@ -23,8 +23,8 @@ publication: The European Conference on Computer Vision (ECCV) (CCF-B)
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
-# url_code: '#'
+url_pdf: https://arxiv.org/pdf/2403.11105
+url_code: https://github.com/leeruibin/SPDInv?tab=readme-ov-file
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''

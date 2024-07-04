@@ -23,7 +23,7 @@ publication: IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://openaccess.thecvf.com//content/CVPR2024/papers/Huo_C2KD_Bridging_the_Modality_Gap_for_Cross-Modal_Knowledge_Distillation_CVPR_2024_paper.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
