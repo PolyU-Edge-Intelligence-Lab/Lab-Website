@@ -29,19 +29,28 @@ interests:
 
 education:
   courses:
-  - course: Master in Cyberspace Security
-    institution: The Tianjin University
-    year: 2022-2025
-  - course: Bachelor in Information and Computing Science
-    institution: The Yunnan University
-    year: 2017-2021
+  - course: BS in  Software Engineering
+    institution: Sun Yat-sen University
+    year: 2013-2017
+  - course: MEng in Software Engineering
+    institution: Sun Yat-sen University
+    year: 2017-2019
+  - course: PhD in Computer Science and Technology
+    institution: Sun Yat-sen University
+    year: 2019-2023  
 
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '2022244182@tju.edu.cn'
+  link: 'cseqiongwu@ust.hk'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=8u2_L6QAAAAJ&hl=zh-CN
+- icon: house-user
+  icon_pack: fas
+  link: https://joaniewu.github.io/
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
 # # -icon: cv
@@ -59,11 +68,10 @@ social:
 highlight_name: false
 
 user_groups:
-- Research Assistants & Visitors
+- Research Staffs
 ---
 
-Pengyu Liu is currently a research assistant at the Hong Kong University of Science and Technology, supervised by IEEE Fellow Prof. Song Guo. Prior to this, he obtained a Bachelor's degree in Information and Computing Science from Yunnan University and pursued a Master's degree in Cyberspace Security at Tianjin University under the supervision of Prof. Guangquan Xu and Prof. Keqiu Li.
-His research interests include Blockchain, Edge Computing, IoT Security and Privacy, and Game Theory.
+Qiong Wu (武琼) is currently a postdoctoral fellow at The Hong Kong Polytechnic University, supervised by Prof. Song Guo, Fellow of IEEE. Before that, she received the BS, ME and PhD degrees from the School of Data and Computer Science, Sun Yat-sen University (SYSU), Guangzhou, China, in 2017, 2019 and 2023, respectively. Her primary research interests include federated learning, mobile edge computing, large language model and social data analytics.
 
 ---
 
