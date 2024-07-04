@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (CCF-A)
 # publication_short: "TNSE (JCR-Q1)"
 
-# url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
+url_pdf: https://ieeexplore.ieee.org/document/10381763
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

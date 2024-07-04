@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (CCF-B)
 # publication_short: "TNSE (JCR-Q1)"
 
-# url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
+url_pdf: https://arxiv.org/abs/2302.04453
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

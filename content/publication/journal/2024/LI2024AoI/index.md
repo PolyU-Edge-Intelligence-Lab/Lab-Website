@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: IEEE/ACM Transactions on Networking (TON) (CCF-A)
 # publication_short: "TNSE (JCR-Q1)"
 
-# url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
+url_pdf: https://www.computer.org/csdl/journal/nt/5555/01/10520335/1WIWAtvqkhi
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

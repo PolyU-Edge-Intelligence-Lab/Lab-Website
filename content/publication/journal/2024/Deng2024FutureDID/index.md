@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: IEEE Transactions on Computers (TC) (CCF-A)
 # publication_short: "TNSE (JCR-Q1)"
 
-# url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
+url_pdf: https://www.computer.org/csdl/journal/tc/5555/01/10527419/1WOgUy0E7i8
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

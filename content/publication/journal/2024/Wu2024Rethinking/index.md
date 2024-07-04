@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: IEEE Transactions on Mobile Computing (TMC) (CCF-A)
 # publication_short: "TNSE (JCR-Q1)"
 
-# url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
+url_pdf: https://www.computer.org/csdl/journal/tm/5555/01/10517642/1WCj321nj5C
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
