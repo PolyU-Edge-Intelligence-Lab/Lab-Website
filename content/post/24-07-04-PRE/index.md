@@ -1,14 +1,11 @@
 ---
-title: "Dr. Zicong Hong and Dr. Ruibin Li Won Best Presentation Award and Best Poster Award on COMP 50th Anniversary Research Student Conference: Fostering Academic Excellence"
+title: "Mr. Zicong Hong and Mr. Ruibin Li Won Best Presentation Award and Best Poster Award on COMP 50th Anniversary Research Student Conference: Fostering Academic Excellence"
 date: 2024-07-04
 ---
 
 Congratulations to Zicong Hong and Ruibin Li on Their Outstanding Achievements.
 
 <!--more-->
-
-
-![Reward Group Photo](all.png)
 
 
 We are thrilled to extend our heartfelt congratulations to Zicong Hong and Ruibin Li for their remarkable accomplishments at the COMP 50th Anniversary Research Student Conference, held on June 24, 2024, at the New World Millennium Hong Kong Hotel.
