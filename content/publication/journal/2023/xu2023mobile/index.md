@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: Transactions on Mobile Computing (TMC) (CCF-A)
 # publication_short: "TMC (JCR-Q1)"
 
-# url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
+url_pdf: https://ieeexplore.ieee.org/document/10119206
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

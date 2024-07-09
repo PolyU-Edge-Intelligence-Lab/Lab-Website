@@ -1,5 +1,5 @@
 ---
-title: "Towards Data-independent Knowledge Transfer in Model-heterogeneous Federated Learning"
+title: "POTA: Privacy-Preserving Online Multi-Task Assignment With Path Planning"
 authors:
 - Chuan Zhang
 - Xingqi Luo
@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: IEEE Transactions on Mobile Computing (TMC) (CCF-A)
 # publication_short: "TNSE (JCR-Q1)"
 
-# url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10251556
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

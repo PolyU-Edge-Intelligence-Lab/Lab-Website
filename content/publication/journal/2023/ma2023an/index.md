@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: IEEE Transactions on Dependable and Secure Computing (TDSC) (CCF-A)
 # publication_short: "TCOM (CCF-B)"
 
-# url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
+url_pdf: https://ieeexplore.ieee.org/document/10210511
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

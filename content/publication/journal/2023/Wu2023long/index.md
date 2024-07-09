@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: IEEE Transactions on Mobile Computing (TMC) (CCF-A)
 # publication_short: "TCOM (CCF-B)"
 
-# url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
+url_pdf: https://www.computer.org/csdl/journal/tm/2024/05/10255325/1Qzymy4yK3u
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

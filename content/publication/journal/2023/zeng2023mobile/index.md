@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: IEEE Transactions on Communications (TCOM) (CCF-B)
 #publication_short: "TCOM (CCF-B)"
 
-# url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
+url_pdf: https://ieeexplore.ieee.org/document/10023521
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

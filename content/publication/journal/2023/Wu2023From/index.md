@@ -23,8 +23,8 @@ publication_types: ["2"]
 publication: IEEE Transactions on Parallel and Distributed Systems (TPDS) (CCF-A)
 # publication_short: "TCOM (CCF-B)"
 
-# url_pdf: https://ieeexplore.ieee.org/abstract/document/9676470
-# url_code: ''
+url_pdf: https://arxiv.org/abs/2112.09355
+url_code: 'https://github.com/HarliWu/FedaGrac'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
