@@ -1,5 +1,5 @@
 ---
-title: ⛈️ Earth Observation and Prediction
+title: ⛈️ Earth Observation and Weather Prediction
 linkTitle: Feng Wu
 summary: Learning the Kilometer-scale Medium-range Global Weather Forecasting
 date: '2024-6-20'
