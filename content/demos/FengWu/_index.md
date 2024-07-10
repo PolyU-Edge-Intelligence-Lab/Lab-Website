@@ -1,5 +1,5 @@
 ---
-title: 🌎 Earth Observation and Prediction
+title: ⛈️ Earth Observation and Prediction
 linkTitle: Feng Wu
 summary: Learning the Kilometer-scale Medium-range Global Weather Forecasting
 date: '2024-6-20'
@@ -11,15 +11,16 @@ type: book
 <!-- ![alt text](ppp-1.png)
 
 ![alt text](AIComputing-1.png) -->
-
-## Background
-
-The unprecedented impact of foundation model technology, represented by ChatGPT, is driving a revolutionary paradigm shift in AI, bringing new opportunities and challenges to many industries. However, the high training, inference and maintenance costs of foundation model technologies limit their widespread adoption. Considering that edge computing power (e.g., edge servers, personal PCs, etc.), which accounts for about 90% of the network, has not yet been effectively used, we focus on a new federated edge AI cyberinfrastructure, and leverages the natural advantages of edge computing power in terms of cost, latency, and privacy, so as to efficiently aggregate the distributed, heterogeneous, and multi-party computing power and become an important computing power supplier in the computing power network, and promote the foundation model technology-based intelligent upgrading of various industries.
+![alt text](compare.png)
 
 
-## Significance
+## AI Weather Forecasting Enters the 10-Kilometer Era with FengWu-GHR
 
-It utilizes our cutting-edge technologies, including token-adaptive serving, serverless AI, and heterogeneous computing, to provide users with cost-effective, high-quality computing resources tailored for a variety of personalized foundation model services. By decentralizing computing resources, this demo not only reduces latency and improves bandwidth efficiency by bringing computing power closer to the user, but it also enhances data privacy and ensures reliable service, even in regions with unreliable internet connectivity.
+A groundbreaking development in AI weather forecasting, the FengWu-GHR model, has been launched, achieving 10-kilometer scale resolution. This innovative model leverages AI to enhance prediction accuracy, increasing resolution to 0.09 degrees latitude and longitude and extending effective forecast duration to 11.25 days. This advancement allows for detailed and precise weather predictions, overcoming traditional challenges in forecasting localized weather phenomena.
+
+FengWu-GHR's high-resolution capabilities provide significant improvements in core atmospheric variables, demonstrating AI's powerful potential in earth sciences. The model's ability to predict complex weather patterns, such as varying conditions within close proximities, marks a substantial leap forward in meteorological science.
+
+With its precise forecasts, FengWu-GHR is poised to offer invaluable support for industries such as agriculture, disaster prevention, and public safety. This AI-driven model sets a new standard in weather forecasting, emphasizing the significant role of AI in addressing critical environmental and societal challenges.
 
 <!-- ![alt text](demo-1.gif) -->
 <video controls src="demo.mp4" title="Title"></video>
