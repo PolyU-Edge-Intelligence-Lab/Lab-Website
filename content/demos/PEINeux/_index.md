@@ -2,7 +2,7 @@
 title: 🌎 PEINexus
 linkTitle: PEINexus
 summary: Open and Shared End-to-End AI Computing Platform for Foundation Model-as-a-Service
-date: '2021-5-20'
+date: '2024-5-20'
 type: book
 ---
 
