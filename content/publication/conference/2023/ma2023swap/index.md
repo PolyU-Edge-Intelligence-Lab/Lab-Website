@@ -22,7 +22,7 @@ publication: In the 37th Annual Conference on Neural Information Processing Syst
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://openreview.net/pdf?id=EhdNQiOWgQ
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

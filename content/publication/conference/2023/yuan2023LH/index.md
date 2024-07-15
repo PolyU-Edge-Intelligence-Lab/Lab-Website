@@ -23,7 +23,7 @@ publication: In ACM International Conference on Multimedia (MM) (CCF-A)
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://dl.acm.org/doi/10.1145/3581783.3612594
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

@@ -22,7 +22,7 @@ publication: In IEEE/CVF Conference on Computer Vision and Pattern Recognition (
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://arxiv.org/pdf/2205.03993
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

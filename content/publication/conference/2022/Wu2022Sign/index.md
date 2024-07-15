@@ -25,7 +25,7 @@ publication: In The 59th Design Automation Conference (DAC) (CCF-A)
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://arxiv.org/pdf/2204.06787
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

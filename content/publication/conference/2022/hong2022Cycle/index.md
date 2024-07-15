@@ -24,7 +24,7 @@ publication: In the 52nd Annual IEEE/IFIP International Conference on Dependable
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://ieeexplore.ieee.org/document/9833795
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

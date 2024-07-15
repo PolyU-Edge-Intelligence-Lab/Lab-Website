@@ -23,7 +23,7 @@ publication: In the 31st International Joint Conference on Artificial Intelligen
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://www.ijcai.org/proceedings/2022/0791.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

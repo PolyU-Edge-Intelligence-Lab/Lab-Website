@@ -21,7 +21,7 @@ publication: In The ACM Web Conference (WWW) (CCF-A)
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3543507.3583518
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

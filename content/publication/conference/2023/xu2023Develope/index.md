@@ -25,7 +25,7 @@ publication: In IEEE International Conference on Multimedia and Expo (ICME) (CCF
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://www.computer.org/csdl/proceedings-article/icme/2023/689100a960/1PTMJcrwTrG
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

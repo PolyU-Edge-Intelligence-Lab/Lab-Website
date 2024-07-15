@@ -21,7 +21,7 @@ publication: In 29th ACM SIGKDD Conference on Knowledge Discovery and Data Minin
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://dl.acm.org/doi/10.1145/3580305.3599395
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

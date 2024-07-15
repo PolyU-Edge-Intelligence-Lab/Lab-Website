@@ -24,7 +24,7 @@ publication: In the 37th Annual Conference on Neural Information Processing Syst
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://papers.nips.cc/paper_files/paper/2023/file/54801e196796134a2b0ae5e8adef502f-Paper-Conference.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

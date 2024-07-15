@@ -24,7 +24,7 @@ publication: In 49th International Conference on Very Large Data Bases (VLDB) (C
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://dl.acm.org/doi/abs/10.14778/3587136.3587143
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

@@ -26,7 +26,7 @@ publication: In 43rd IEEE International Conference on Distributed Computing Syst
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://www.computer.org/csdl/proceedings-article/icdcs/2023/398600a920/1R9MXtCGcaQ
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

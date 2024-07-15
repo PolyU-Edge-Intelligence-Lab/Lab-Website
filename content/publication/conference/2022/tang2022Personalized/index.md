@@ -21,7 +21,7 @@ publication: In the 31st International Joint Conference on Artificial Intelligen
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://arxiv.org/pdf/2106.13044
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

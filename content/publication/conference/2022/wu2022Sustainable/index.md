@@ -24,7 +24,7 @@ publication: In IEEE International Conference on Parallel and Distributed System
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://ieeexplore.ieee.org/document/9912254
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

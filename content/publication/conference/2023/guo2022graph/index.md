@@ -24,7 +24,7 @@ publication: In the Thirty-Seventh AAAI Conference on Artificial Intelligence (A
 # links)
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://dl.acm.org/doi/10.1609/aaai.v37i6.25942
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

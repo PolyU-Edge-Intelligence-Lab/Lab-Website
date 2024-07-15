@@ -26,7 +26,7 @@ publication: In the 36th Annual Conference on Neural Information Processing Syst
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/2616697705f72f16a8eac9c295d37d94-Supplemental-Conference.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

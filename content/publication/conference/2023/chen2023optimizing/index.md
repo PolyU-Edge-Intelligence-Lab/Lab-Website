@@ -25,7 +25,7 @@ publication: In IEEE/ACM International Symposium on Quality of Service (IWQoS) (
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://ieeexplore.ieee.org/document/10188771
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

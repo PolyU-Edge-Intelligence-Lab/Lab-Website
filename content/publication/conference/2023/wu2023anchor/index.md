@@ -24,7 +24,7 @@ publication: In 40th International Conference on Machine Learning (ICML) (CCF-A)
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://arxiv.org/pdf/2206.05891
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

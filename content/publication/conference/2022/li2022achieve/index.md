@@ -25,7 +25,7 @@ publication: In the 41st International Symposium on Reliable Distributed Systems
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://ieeexplore.ieee.org/document/9996899
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

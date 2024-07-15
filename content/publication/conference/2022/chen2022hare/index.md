@@ -1,5 +1,5 @@
 ---
-title: "Hare- Exploiting Inter-job and Intra-job Parallelism of Distributed Machine Learning on Heterogeneous GPUs"
+title: "Hare: Exploiting Inter-job and Intra-job Parallelism of Distributed Machine Learning on Heterogeneous GPUs"
 authors:
 - Fahao Chen
 - Peng Li
@@ -22,7 +22,7 @@ publication: In the 31st ACM Symposium 52 on High-Performance Parallel and Distr
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3502181.3531462 
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

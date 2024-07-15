@@ -22,8 +22,8 @@ publication: In IEEE/CVF Computer Vision and Pattern Recognition Conference (CVP
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
-# url_code: '#'
+url_pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf
+url_code: https://github.com/Forest-art/DFSP
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''

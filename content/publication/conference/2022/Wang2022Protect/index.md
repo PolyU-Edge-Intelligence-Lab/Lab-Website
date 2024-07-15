@@ -22,7 +22,7 @@ publication: In IEEE Conference on Computer Communications (INFOCOM) (CCF-A)
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://ieeexplore.ieee.org/document/9796841
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

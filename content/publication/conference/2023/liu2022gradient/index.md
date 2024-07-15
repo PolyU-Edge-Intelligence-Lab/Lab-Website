@@ -23,7 +23,7 @@ publication: In the Thirty-Seventh AAAI Conference on Artificial Intelligence (A
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/26995
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

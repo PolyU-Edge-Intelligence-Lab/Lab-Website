@@ -25,7 +25,7 @@ publication: In the 51st International Conference on Parallel Processing (ICPP) 
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3545008.3545070
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
