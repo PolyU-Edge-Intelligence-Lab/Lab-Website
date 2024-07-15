@@ -34,7 +34,7 @@ user_groups:
 - Director
 ---
 
-Song Guo is a full professor in the Department of Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST). Before joining HKUST in 2023, he was a Professor at The Hong Kong Polytechnic University. He also holds a Changjiang Chair Professorship in Wuhan University, awarded by the Ministry of Education of China.
+Song Guo is a chair professor in the Department of Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST). Before joining HKUST in 2023, he was a Professor at The Hong Kong Polytechnic University. He also holds a Changjiang Chair Professorship in Wuhan University, awarded by the Ministry of Education of China.
 
 * Tel:	(852) 2358 8833
 * Email:	songguo@cse.ust.hk
