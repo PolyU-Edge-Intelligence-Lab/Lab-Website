@@ -21,7 +21,7 @@ publication_types: ["1"]
 publication: 27th European Conference on Artificial Intelligence (ECAI)(CCF-B)
 #publication_short: In *INFOCOM* (CCF-A)
 
-url_pdf: https://arxiv.org/pdf/2306.08419
+# url_pdf: https://arxiv.org/pdf/2306.08419
 
 # links:
 # - name: PDF
