@@ -18,7 +18,7 @@ publication_types: ["2"]
 publication: IEEE Journal on Selected Areas in Communications (JSAC) (CCF-A)
 # publication_short: ""
 
-# url_pdf: https://ieeexplore.ieee.org/abstract/document/9699396
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9926060
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

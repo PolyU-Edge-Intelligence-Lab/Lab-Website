@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: IEEE Transactions on Computers (TC) (CCF-A)
 # publication_short: ""
 
-# url_pdf: https://ieeexplore.ieee.org/abstract/document/9678070
+url_pdf: https://ieeexplore.ieee.org/document/9864063
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

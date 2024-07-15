@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: IEEE Transactions on Parallel and Distributed Systems (TPDS) (CCF-A)
 # publication_short: ""
 
-# url_pdf: 
+url_pdf: https://ieeexplore.ieee.org/document/9903336
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

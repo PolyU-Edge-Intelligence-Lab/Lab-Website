@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: IEEE Transactions on Multimedia (TMM) (CCF-B)
 #publication_short: ""
 
-# url_pdf: https://ieeexplore.ieee.org/document/9740503
+url_pdf: https://arxiv.org/abs/2203.03483
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

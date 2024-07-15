@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: IEEE Transactions on Mobile Computing (TMC) (CCF-A)
 
 
-# url_pdf: https://ieeexplore.ieee.org/abstract/document/9699396
+url_pdf: https://ieeexplore.ieee.org/document/9771437
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
