@@ -1,5 +1,5 @@
 ---
-title: "Detached and Interactive Multimodal Learning"
+title: "SFP: Spurious Feature-Targeted Pruning for Out-of-Distribution Generalization"
 authors:
 - Yingchun Wang 
 - Jingcai Guo
