@@ -29,7 +29,7 @@ publication: In the 36th Annual Conference on Neural Information Processing Syst
 url_pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/2616697705f72f16a8eac9c295d37d94-Supplemental-Conference.pdf
 # url_code: '#'
 # url_dataset: '#'
-# url_poster: '#'
+url_poster: 'https://neurips.cc/media/neurips-2022/Slides/54328_aZV9Kj5.pdf'
 # url_project: ''
 # url_slides: ''
 # url_video: '#'

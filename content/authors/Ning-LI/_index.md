@@ -4,7 +4,7 @@
 
 # Format: Your_given_name Your_surname 
 
-title: Ning_Li
+title: Ning Li
 
 # Username
 
