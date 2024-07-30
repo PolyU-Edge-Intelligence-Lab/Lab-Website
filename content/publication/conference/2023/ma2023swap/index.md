@@ -25,7 +25,7 @@ publication: In the 37th Annual Conference on Neural Information Processing Syst
 url_pdf: https://openreview.net/pdf?id=EhdNQiOWgQ
 # url_code: '#'
 # url_dataset: '#'
-# url_poster: '#'
+url_poster: 'https://nips.cc/virtual/2023/poster/72303'
 # url_project: ''
 # url_slides: ''
 # url_video: '#'

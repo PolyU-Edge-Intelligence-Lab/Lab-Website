@@ -27,7 +27,7 @@ url_pdf: https://dl.acm.org/doi/10.1145/3580305.3599395
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
-# url_video: '#'
+url_video: 'https://www.youtube.com/watch?v=TVTOEqG3ynk&ab_channel=AssociationforComputingMachinery%28ACM%29'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

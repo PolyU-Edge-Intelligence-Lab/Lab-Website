@@ -27,8 +27,8 @@ url_pdf: https://arxiv.org/pdf/2305.00771
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-# url_slides: ''
-# url_video: '#'
+url_slides: 'https://slideslive.com/39003969/towards-unbiased-training-in-federated-openworld-semisupervised-learning'
+# url_video: 'https://slideslive.com/39003969/towards-unbiased-training-in-federated-openworld-semisupervised-learning'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

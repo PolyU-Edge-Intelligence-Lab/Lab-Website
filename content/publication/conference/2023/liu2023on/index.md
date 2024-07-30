@@ -26,12 +26,12 @@ publication: In IEEE/CVF Computer Vision and Pattern Recognition Conference (CVP
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_ML2P-Encoder_On_Exploration_of_Channel-Class_Correlation_for_Multi-Label_Zero-Shot_Learning_CVPR_2023_paper.pdf
-# url_code: '#'
+url_code: 'https://github.com/simonzmliu/cvpr23_mlzsl'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
-# url_video: '#'
+url_video: 'https://www.youtube.com/watch?v=cDFeHsKx4Lk&ab_channel=XiaochengLu'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

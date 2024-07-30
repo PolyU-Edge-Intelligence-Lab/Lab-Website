@@ -25,9 +25,9 @@ publication: In 40th International Conference on Machine Learning (ICML) (CCF-A)
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://arxiv.org/pdf/2206.05891
-# url_code: '#'
+url_code: 'https://github.com/HarliWu/FedAMD'
 # url_dataset: '#'
-# url_poster: '#'
+url_poster: 'https://icml.cc/virtual/2023/poster/24248'
 # url_project: ''
 # url_slides: ''
 # url_video: '#'
