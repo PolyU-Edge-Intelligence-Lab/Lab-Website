@@ -55,7 +55,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Assistants & Visitors
+- Research Students
 ---
 
 Yongjiang Liu (刘永江) is a currently a Research Assistant in  student of in Computer Science and Engineering at The Hong Kong University of Science and Technology, Hong Kong SAR, China. He is going to start PhD program from 2024 fall, supervised by Prof. Song Guo. His research interests include Artificial Intelligence, Large Language Model and Few-shot Learning.
