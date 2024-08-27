@@ -24,7 +24,7 @@ organizations:
 
 interests:
 - Computer Vision
-- AI for science
+- AI for Science
 - Artificial Intelligence
 
 education:
@@ -46,11 +46,11 @@ education:
 
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=a3OxwlMAAAAJ&hl=zh-CN&authuser=1
+#  link: 
 
 #- icon: github
 #  icon_pack: fab
-#  link: https://github.com/taohan10200
+#  link: 
 
 # To enable, copy your cv to cv-your_given_name-your_surname/cv.pdf". To disable, comment blew lines with `#`.
 # # -icon: cv
@@ -68,9 +68,9 @@ user_groups:
 - Research Students
 ---
 
-Zeyu LIU (刘泽宇) is a MPhil student in the department of Computer Science and Engineering at the Hong Kong University of Science and Technology, Hong Kong SAR, China, supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), Fellow of IEEE. Before that,  in 2022, he received M.S. degree in computer science and technology from Northwestern Polytechnical University (西北工业大学), Xi'an, China, supervised by Prof. [Qi Wang](https://crabwq.github.io/) in [School of Artificial Intelligence, Optics and Electronics (iOPEN)](https://iopen.nwpu.edu.cn/index.htm). From Apr. 2022 to Jan. 2024, he was a research assistant in the AI4Science team, Shanghai Artificial Intelligence Laboratory, China, working with Dr. [Lei Bai](http://leibai.site/) and Prof. [Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&%20hl=en). 
+Zeyu LIU (刘泽宇) is a MPhil student in the department of Computer Science and Engineering at the Hong Kong University of Science and Technology, Hong Kong SAR, China, supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), Fellow of IEEE.  
 
-His research interests include computer vision, Ai4science, and artificial intelligence.
+His research interests include computer vision, Ai4Science, and artificial intelligence.
 
 
 ---
