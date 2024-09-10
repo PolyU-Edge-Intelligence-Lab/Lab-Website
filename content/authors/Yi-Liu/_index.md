@@ -14,7 +14,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: PhD Student
+role: Quantitative Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -64,9 +64,9 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Students
+- Graduated Students
 ---
 
-Yi Liu is a PhD Student of artificial intelligence. His research interests include reinforcement learning, edge computing, federated learning and neural architecture search.  
+Yi Liu is a Quantitative Researcher in ZhuoZhiYun Investment Company Now. 
 
 ---

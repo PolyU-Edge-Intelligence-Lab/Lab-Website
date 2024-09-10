@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: PhD Student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Students
+- Research Assistants & Visitors
 ---
 
 Jian Lin (林健) is a PhD student in the department of Computer Science and Engineering at the Hong Kong University of Science and Technology, Hong Kong SAR, China, supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), Fellow of IEEE. Before that,  in 2023, he received M.S. degree in Computer Science and Technology from Shantou University (汕头大学), Shantou, China, supervised by Dr.[Jianlong Xu](https://eng.stu.edu.cn/info/1082/1784.htm). From Sep. 2022 to Apri. 2023, he was a research assistant in Sun Yat-sen University and The Hong Kong Polytechnic University, China, working with Prof. Wuhui Chen and Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo)

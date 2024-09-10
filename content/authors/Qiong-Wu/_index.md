@@ -29,16 +29,15 @@ interests:
 
 education:
   courses:
+  - course: PhD in Computer Science and Technology
+    institution: Sun Yat-sen University
+    year: 2019-2023
+  - course: MEng in Software Engineering
+    institution: Sun Yat-sen University
+    year: 2017-2019  
   - course: BS in  Software Engineering
     institution: Sun Yat-sen University
     year: 2013-2017
-  - course: MEng in Software Engineering
-    institution: Sun Yat-sen University
-    year: 2017-2019
-  - course: PhD in Computer Science and Technology
-    institution: Sun Yat-sen University
-    year: 2019-2023  
-
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
 social:
