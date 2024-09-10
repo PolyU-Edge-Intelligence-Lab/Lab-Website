@@ -73,5 +73,6 @@ user_groups:
 Bohai Gu (辜博海) is a PhD student in the department of Computer Science and Engineering at the Hong Kong University of Science and Technology, Hong Kong SAR, China, supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), Fellow of IEEE. Before that,  in 2024, he received M.S. degree in computer science and technology from Institute of Software, Chinese Academy of Sciences (中科院软件所), Beijing, China. From Jan. 2024 to Sep. 2024, he was a research intern in Vision Technology Lab, DAMO Academy, Alibaba, working with Dr.[Luo Hao](https://luohao.site/).
 His research interests include computer vision, specifically in AI-Generated Content, foucing on both image and video.
 More information please refer to my [homepage](https://NevSNev.github.io/). 
+
 ---
 
