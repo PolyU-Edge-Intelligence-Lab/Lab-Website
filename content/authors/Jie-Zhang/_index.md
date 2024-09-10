@@ -15,11 +15,11 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Post-doctoral Fellow
+role: Research Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: The Hong Kong Polytechnic University
+- name: The Hong Kong University of Science and Technology
   url: ""
 
 interests:
