@@ -29,9 +29,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Federated Learning
     institution: The Hong Kong Polytechnic University
-    year: 2019-now
+    year: 2019-2024
   - course: BEng in Automation
     institution: Harbin Institute of Technology
     year: 2014-2018
