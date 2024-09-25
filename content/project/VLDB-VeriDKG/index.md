@@ -1,9 +1,9 @@
 ---
-title: (arxiv) VeriDKG-A Verifiable SPARQL Query Engine for Decentralized Knowledge Graphs
+title: (VLDB2024) VeriDKG-A Verifiable SPARQL Query Engine for Decentralized Knowledge Graphs
 summary: 
 
 tags:
-- AI for Science
+- Trustworthy AI
 date: "2024-05-20"
 
 # Optional external URL for project (replaces project detail page).
