@@ -2,7 +2,8 @@
 title: "(arXiv2024) WEATHER-5K: A Large-scale Global Station Weather Dataset Towards Comprehensive Time-series Forecasting Benchmark"
 
 tags:
-- Trustworthy AI
+- AI for Science
+
 date: "2024-05-20"
 
 # Optional external URL for project (replaces project detail page).
