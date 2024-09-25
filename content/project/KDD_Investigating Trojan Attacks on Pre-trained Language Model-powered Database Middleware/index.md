@@ -1,7 +1,7 @@
 ---
 title: (KDD2023) Investigating Trojan Attacks on Pre-trained Language Model-powered Database Middleware
 tags:
-- Trustworthy AI
+- Others
 date: "2023-09-01"
 
 # Optional external URL for project (replaces project detail page).
