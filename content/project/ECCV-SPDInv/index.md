@@ -31,3 +31,5 @@ SPDInv transforms the inversion process into a fixed-point search problem, lever
 
 The method can be easily integrated into existing text-driven editing pipelines, offering a straightforward yet powerful enhancement to current techniques. Experimental results demonstrate that SPDInv effectively reduces source prompt dependency, leading to better editing outcomes.
 ![](2.png)
+
+![](3.png)
