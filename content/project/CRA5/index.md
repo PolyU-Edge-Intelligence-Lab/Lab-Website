@@ -24,11 +24,12 @@ image:
 # url_video: ""
 ---
 
-The paper presents the WEATHER-5K dataset, a comprehensive global weather station dataset designed to advance time-series weather forecasting benchmarks. WEATHER-5K includes data from 5,672 weather stations worldwide, covering a 10-year period with hourly intervals. It features multiple crucial weather variables, making it a valuable resource for evaluating and improving forecasting models.
+The paper introduces CRA5, a project that uses the Variational Autoencoder Transformer (VAEformer) to compress the ERA5 climate dataset from 226TB to just 0.7TB, achieving a compression ratio of over 300 times. This extreme compression significantly reduces storage costs while preserving the dataset's utility for accurate scientific analysis.
 
-The dataset addresses limitations in existing public datasets, such as small size and limited temporal coverage, by providing a diverse and extensive collection of weather data. This allows for a more accurate reflection of real-world conditions and supports the development of models capable of generalizing across various regions and timeframes.
-
-Additionally, the dataset facilitates research beyond traditional methods, encouraging exploration in deep learning and data-driven approaches to improve forecast accuracy. Overall, WEATHER-5K serves as a robust foundation for advancing both operational weather services and scientific research in time-series forecasting.
+This figure illustrates the comparison between the original ERA5 dataset and the compressed CRA5 dataset, showcasing the dramatic reduction in size. The VAEformer employs a low-complexity Auto-Encoder transformer that generates a quantized latent representation through variance inference, modeling the latent space as a Gaussian distribution. This method improves the estimation of distributions for cross-entropy coding, outperforming existing compression methods.
 
 ![](1.png)
+In this figure, the architecture of the VAEformer is depicted, highlighting its dual transformer-based variational auto-encoder structure. The below figure further details the Atmospheric Circulation Transformer Block, which utilizes different shapes of window attention to simulate various atmospheric circulation patterns. This innovative approach enables efficient data compression while maintaining high numerical accuracy, allowing for training of global weather forecasting models with performance comparable to using the full ERA5 dataset.
 
+
+![](2.png)
