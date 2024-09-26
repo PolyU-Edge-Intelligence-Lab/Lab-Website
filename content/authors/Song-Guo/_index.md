@@ -6,7 +6,7 @@ authors:
 
 superuser: false
 
-role: "Professor"
+role: "Chair Professor"
 
 organizations:
 - name: The Hong Kong University of Science and Technology
