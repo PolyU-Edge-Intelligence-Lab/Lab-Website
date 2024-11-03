@@ -29,9 +29,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Electric and Electronic Engineering in HKU, 2017-2018
-                 PhD in Department of Computing, 2019-now
-    institution: The Hong Kong Polytechnic University
+  - course: PhD in Department of Computing
+    institution: The Hong Kong Polytechnic University 
+    year: 2019-2024
+  - course: PhD in Electric and Electronic Engineering
+    institution: The Hong Kong University
+    year: 2017-2018
   - course: BSc in Electronic Science And Technology
     institution: University of Electronic Science and Technology of China
     year: 2013-2017

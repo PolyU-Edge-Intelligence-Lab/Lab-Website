@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Department of Computing
+    institution: The Hong Kong Polytechnic University 
+    year: 2020-2024
   - course: BSc in Computer Science and Technology
     institution: Xi'an Jiaotong University
     year: 2014-2019
