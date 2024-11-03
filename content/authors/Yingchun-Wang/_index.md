@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Graduated PhD Student
+role: Huawei Employee
 
 # Organizations/Affiliations
 organizations:
