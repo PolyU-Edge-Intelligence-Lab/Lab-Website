@@ -60,7 +60,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-  - Research Assistants & Visitors
+- Research Assistants & Visitors
 ---
 
 Wang Jie completed his undergraduate studies in the Department of Computer Science and Technology at Tongji University and is currently working as a research assistant at the PEI Lab at HKUST. His research interests include multimodal large models, safety supervision mechanisms and simulations for autonomous driving, as well as virtual reality. Currently, He is primarily focused on exploring the applications of large models in fine-grained emotional computation and multimodal recommendation systems.
