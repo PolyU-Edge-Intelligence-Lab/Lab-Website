@@ -1,6 +1,6 @@
 ---
 title: Congratulations to Enyuan Zhou and Zicong Hong for their PhD graduations!
-date: 2024-04-26
+date: 2024-12-01
 ---
 
 Heartfelt congratulations to Dr. Zicong Hong and Dr. Enyuan Zhou on their PhD graduations!
