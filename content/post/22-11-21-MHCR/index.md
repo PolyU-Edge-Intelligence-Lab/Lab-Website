@@ -1,5 +1,5 @@
 ---
-title: Prof. Song Guo as one of the world’s most highly cited researchers this year
+title: Prof. Song Guo as one of the world’s most highly cited researchers in 2022
 date: 2022-11-21
 ---
 
