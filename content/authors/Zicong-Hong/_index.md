@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: PhD Student
+role: Graduated Students
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Students
+- Graduated Students
 ---
 
 Zicong Hong is pursuing his Ph.D. degree in the Department of Computing at Hong Kong Polytechnic University (香港理工大学), Hong Kong SAR, China, supervised by Prof. Song Guo, Fellow of IEEE. Before that, in 2020, he received B.E. degree in software engineering from Sun Yat-sen University (中山大学), Guangzhou, China, supervised by Prof. Wuhui Chen in InplusLab.

@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: PhD Student
+role: HK Huawei Employee
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups: 
-- Research Students
+- Graduated Students
 ---
 
 Leijie WU is a PhD student in the Deparment of Computing at the Hong Kong Polytechnic University. His research interests including distributed machine learning, Artificial Intelligence, Deep Reinforcement Learning and Incentive Mechanism.

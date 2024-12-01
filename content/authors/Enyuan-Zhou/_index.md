@@ -7,7 +7,7 @@ authors:
 superuser: false
 
 #PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: PhD Student
+role: Graduated Students
 
 organizations:
 - name: The Hong Kong Polytechnic University
@@ -41,7 +41,7 @@ social:
 highlight_name: false
 
 user_groups:
-- Research Students
+- Graduated Students
 ---
 
 Enyuan Zhou is a research student in the Department of Computing at Hong Kong Polytechnic University, Hong Kong SAR, China, supervised by Prof. Song Guo, Fellow of IEEE.  He received B.E. degree in information security from Northeastern University, and obtained his M.Sc. degree from Xidian University in cyberspace security, supervised by Prof. Qingqi Pei in ISN.
