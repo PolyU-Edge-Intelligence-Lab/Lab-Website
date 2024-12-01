@@ -7,7 +7,7 @@ authors:
 superuser: false
 
 #PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Graduated Students
+role: Graduated PhD Student
 
 organizations:
 - name: The Hong Kong Polytechnic University
