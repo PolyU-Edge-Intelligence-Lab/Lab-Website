@@ -1,7 +1,7 @@
 ---
 title: "Mell: Memory-Efficient Large Language Model Serving via Multi-GPU KV Cache Management"
 authors:
-- Jinyu Chen
+- Qianli Liu
 - Zicong Hong
 - Peng Li
 - Fahao Chen
