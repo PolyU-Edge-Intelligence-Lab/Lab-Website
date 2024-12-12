@@ -31,7 +31,7 @@ education:
   courses:
   - course: Ph.D. Student
     institution: The Hong Kong Polytechnic University
-    year: 2020-Now
+    year: 2020-2024
   - course: B.E. in Software Engineering
     institution: Sun Yat-sen University
     year: 2015-2020
@@ -62,7 +62,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Graduated Students
+- Research Students
 ---
 
 Zicong Hong is pursuing his Ph.D. degree in the Department of Computing at Hong Kong Polytechnic University (香港理工大学), Hong Kong SAR, China, supervised by Prof. Song Guo, Fellow of IEEE. Before that, in 2020, he received B.E. degree in software engineering from Sun Yat-sen University (中山大学), Guangzhou, China, supervised by Prof. Wuhui Chen in InplusLab.
