@@ -61,7 +61,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups: 
-- Graduated Students
+- Alumni
 ---
 
 Feijie Wu is currently a Ph.D. student and a graduate research assistant advised by Prof. Jing Gao in the Elmore Family School of Electrical and Computer Engineering at Purdue University. Before joining Purdue in 2022, he worked with Prof. Song Guo at the Pervasive Edge Intelligence Laboratory (PEILab). He obtained his B.Sc. degree in Computing (major) and Applied Mathematics (minor) from The Hong Kong Polytechnic University in 2020. During his Ph.D. study, he has been working as a research intern at Alibaba Group. Feijie has served as a reviewer for a number of prestigious conferences, such as ICML, NeurIPS, and ICLR. He was a recipient of Best Student Paper from ACM BSCI'19.

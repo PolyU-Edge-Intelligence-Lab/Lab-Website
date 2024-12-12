@@ -64,7 +64,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Graduated Students
+- Alumni
 ---
 
 Yi Liu is a PhD graduated student with the Department of Computing, The Hong Kong Polytechnic University. His research interests include Federated Learning, Reinforcement Learning, Neural Architecture Search, and Federated Self-supervised Learning. He was an intern at Zhuoshi Fund, a private equity firm managing over 10 billion RMB, where he focused on alternative data factor mining. Now, he works as a Quantitative Researcher, specializing in mid-to-low frequency trading strategies in cryptocurrency futures and options.

@@ -66,7 +66,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Graduated Students
+- Alumni
 ---
 
 许真达(Jackal XU) is a PhD student with the Department of Computing, The Hong Kong Polytechnic University. His research interests are about artificial intelligence, biomedical imaging, on-device learning. He is also the founder of the Dr. body project, which aims to help teenagers solve their physical health problems based on high-tech means and accompany them to grow up healthily.

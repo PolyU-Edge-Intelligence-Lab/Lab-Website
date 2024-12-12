@@ -60,7 +60,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Graduated Students
+- Alumni
 ---
 
 Wang Yingchun is a Joint PHD student of Xi'an Jiaotong University and Hong Kong Polytechnic University. Her research interests include deep learning, mobile network multimedia and edge computing. She is a member of the ‘Shanxi Key Lab_Satellite Terrestrial Network Tech’ team. She participated in a series of work such as the development of intelligent live interactive systems, AR/VR interactive systems, the investigation of mobile deep learning application deployment methods, and the theoretical research on the use of personalized models in federated learning.

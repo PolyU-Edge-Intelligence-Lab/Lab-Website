@@ -65,7 +65,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Graduated Students
+- Alumni
 ---
 
 郭韬 is a graduated PhD student at School of Computing in the Hong Kong Polytechnic University. Her research interests include tiny machine learning, on-device learning model compression and acceleration. He joins the on-device learning group, which focuses on enabling deployment of deep learning models on small edge devices with fewer bits without scarifice accuracy and speed. Now she is is an assistant professor at Shenzhen University.

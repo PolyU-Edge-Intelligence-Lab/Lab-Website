@@ -60,7 +60,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups: 
-- Graduated Students
+- Alumni
 ---
 
 Leijie WU is a PhD student in the Deparment of Computing at the Hong Kong Polytechnic University. His research interests including distributed machine learning, Artificial Intelligence, Deep Reinforcement Learning and Incentive Mechanism.

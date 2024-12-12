@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Post-doctoral Fellow
+role: Southeast University
 
 # Organizations/Affiliations
 organizations:
@@ -68,10 +68,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Staffs
+- Alumni
 ---
 
-Kang Wei (韦康) is currently a postdoctoral fellow at The Hong Kong Polytechnic University, supervised by Prof. Song Guo, Fellow of IEEE. 
+Kang Wei (韦康) is a postdoctoral fellow at The Hong Kong Polytechnic University, supervised by Prof. Song Guo, Fellow of IEEE, from 2023-2024. 
 He received his Ph.D. degree from Nanjing University of Science and Technology, supervised by Prof. Jun Li.
 Before that, he received the B.S. degree in information engineering from Xidian University, Xian, China, in 2014. 
 From Jun. 2021 to Dec. 2021, he was a research intern (Rhinoceros Bird Project) at Tencent, Shenzhen, supervised by Yong Cheng.

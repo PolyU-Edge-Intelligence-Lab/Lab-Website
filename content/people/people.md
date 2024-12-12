@@ -21,6 +21,7 @@ content:
   - Research Students
   - Research Assistants & Visitors
   - Previous Members
+  - Alumni
   - Graduated Students
 design:
   show_interests: false
