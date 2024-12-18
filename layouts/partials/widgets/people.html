@@ -1,0 +1,34 @@
+<section id="{{ .Section }}" class="wowchemy-widget">
+    <div class="container">
+      {{ if .Title }}
+        <h2>{{ .Title }}</h2>
+      {{ end }}
+      {{ if .Subtitle }}
+        <p>{{ .Subtitle }}</p>
+      {{ end }}
+  
+      <div class="row">
+        {{ range .Site.GetPage "section" "authors" }}
+          {{ $url := .Params.url }}
+          <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
+            <div class="person">
+              {{ with $url }}
+                <a href="{{ . }}" target="_blank">
+                  {{ with .Params.avatar }}
+                    <img src="{{ . }}" alt="{{ $.Title }}" class="avatar img-fluid">
+                  {{ end }}
+                  <h3>{{ $.Params.name }}</h3>
+                </a>
+              {{ else }}
+                {{ with .Params.avatar }}
+                  <img src="{{ . }}" alt="{{ $.Params.name }}" class="avatar img-fluid">
+                {{ end }}
+                <h3>{{ .Params.name }}</h3>
+              {{ end }}
+              <p>{{ .Params.role }}</p>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
