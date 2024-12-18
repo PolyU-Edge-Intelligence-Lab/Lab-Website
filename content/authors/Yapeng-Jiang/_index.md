@@ -1,4 +1,3 @@
-
 ---
 # Display name
 # Format: Your_given_name Your_surname 
@@ -63,7 +62,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Assistants & Visitors
+- None
 ---
 
 Yapeng Jiang (蒋亚鹏) is a Research Assistant in the department of Computer Science and Engineering at the Hong Kong University of Science and Technology, Hong Kong SAR, China, supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), Fellow of IEEE. From Sept. 2023, he was studying for master degree in the department of Computer Science and Engineering at Sun Yat-sen University, China, working with Prof. [Wuhui Chen](https://sse.sysu.edu.cn/teacher/159). 

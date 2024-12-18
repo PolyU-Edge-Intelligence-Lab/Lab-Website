@@ -23,6 +23,7 @@ content:
   - Previous Members
   - Alumni
   - Graduated Students
+  
 design:
   show_interests: false
   show_role: true
