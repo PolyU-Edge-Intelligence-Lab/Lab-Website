@@ -7,5 +7,5 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:johndoe@example.com"
-url: "https://johndoe.com" # 个人主页链接
+url: "johndoe.com" # 个人主页链接
 ---
