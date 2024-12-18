@@ -18,7 +18,7 @@ superuser: false
 role: Professor at Xi'an Jiaotong University
 
 # Organizations/Affiliations
-<!-- organizations:
+organizations:
 - name: The Hong Kong Polytechnic University
   url: ""
 
@@ -37,14 +37,14 @@ education:
     year: 2018-2021
   - course: BSc in Network Engineering
     institution: Dalian University of Technology
-    year: 2014-2018 -->
+    year: 2014-2018
 
 # Social/Academic Networking
 # To disable, comment blew lines with `#`.
 social:
 - icon: envelope
   icon_pack: fas
-  <!-- link: 'peiran.dong@connect.polyu.hk' -->
+  link: 'peiran.dong@connect.polyu.hk'
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -68,6 +68,6 @@ user_groups:
 - Alumni
 ---
 
-<!-- Peiran Dong (董沛然) is currently pursuing the PhD degree in The Hong Kong Polytechnic University. His research interests include efficient neural networks, network compression and data quantization.  -->
+Peiran Dong (董沛然) is currently pursuing the PhD degree in The Hong Kong Polytechnic University. His research interests include efficient neural networks, network compression and data quantization. 
 
 ---
