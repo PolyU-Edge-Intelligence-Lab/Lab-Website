@@ -19,7 +19,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Assistant Professor in SZU
+role: Professor in ShenZhen University, Outstanding Young Talents Program (Overseas)
 
 # Organizations/Affiliations
 organizations:
