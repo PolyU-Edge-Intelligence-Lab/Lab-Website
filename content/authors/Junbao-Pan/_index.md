@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: PhD Student
+role: PhD, 2021-Now
 
 # Organizations/Affiliations
 organizations:

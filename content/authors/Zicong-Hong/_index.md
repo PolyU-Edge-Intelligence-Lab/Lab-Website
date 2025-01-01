@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: PhD, 2020-2024
+role: PhD, 2020-2024, HKPFS
 
 # Organizations/Affiliations
 organizations:
