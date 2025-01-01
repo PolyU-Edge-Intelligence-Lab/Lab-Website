@@ -14,7 +14,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Quantitative Researcher
+role: PhD, 2019-2024, Quantitative Researcher
 
 # Organizations/Affiliations
 organizations:

@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: HK Huawei
+role: PhD, 2020-2024, HK Huawei
 
 # Organizations/Affiliations
 organizations:

@@ -14,7 +14,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Tencent
+role: PhD, 2020-2024, Tencent
 
 # Organizations/Affiliations
 organizations:

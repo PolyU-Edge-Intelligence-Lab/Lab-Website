@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Graduated PhD Student
+role: PhD, 2019-2024
 
 # Organizations/Affiliations
 organizations:

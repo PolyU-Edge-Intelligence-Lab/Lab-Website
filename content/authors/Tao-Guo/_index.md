@@ -14,7 +14,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Assistant Professor in SZU
+role: PhD, 2020-2024, Assistant Professor at ShenZhen University
 
 # Organizations/Affiliations
 organizations:

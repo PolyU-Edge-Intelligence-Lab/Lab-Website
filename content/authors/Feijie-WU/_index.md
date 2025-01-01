@@ -14,7 +14,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Purdue University
+role: Mphil, 2020-2022, PhD at Purdue University
 
 # Organizations/Affiliations
 organizations:
