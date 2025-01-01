@@ -24,7 +24,7 @@ superuser: false
 
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
 
-role: PhD, 2024-
+role: PhD, 2024-Now
 
 # Organizations/Affiliations
 
