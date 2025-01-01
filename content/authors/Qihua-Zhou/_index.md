@@ -27,10 +27,7 @@ organizations:
   url: ""
 
 interests:
-- TinyML Systems
-- Distributed AI Systems
-- Video Perception
-- Computer Vision
+- Outstanding Young Talents Program (Overseas)
 
 education:
   courses:
