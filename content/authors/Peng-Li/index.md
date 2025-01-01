@@ -14,7 +14,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Professor at Xi'an Jiaotong University
+role: PhD, 2009-2012, Professor at Xi'an Jiaotong University, Outstanding Young Talents Program (Overseas)
 
 # Organizations/Affiliations
 organizations:

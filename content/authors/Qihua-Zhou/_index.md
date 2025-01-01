@@ -19,7 +19,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: PhD, 2019-2024, Professor in ShenZhen University, Outstanding Young Talents Program (Overseas)
+role: PhD, 2019-2024, Professor at ShenZhen University, Outstanding Young Talents Program (Overseas)
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,10 @@ organizations:
   url: ""
 
 interests:
-- Outstanding Young Talents Program (Overseas)
+- TinyML Systems
+- Distributed AI Systems
+- Video Perception
+- Computer Vision
 
 education:
   courses:
