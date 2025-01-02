@@ -15,12 +15,12 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Research Assistant Professor
+role: Research Assistant Professor, 2018-2020
 
 # Organizations/Affiliations
 organizations:
 - name: The Hong Kong Polytechnic University
-  url: "https://www.comp.polyu.edu.hk/en-us/staffs/detail/8096"
+  url: "https://www.polyu.edu.hk/comp/people/academic-staff/dr-xu-wenchao/"
 
 interests:
 - Artificial Intelligence enabled Networking
@@ -63,7 +63,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Staffs
+- Alumni
 ---
 
 徐文超 received his Ph.D. degree from University of Waterloo, Canada, in 2018. Before that he received the B.E. and M.E. degrees from Zhejiang University, Hangzhou, China, in 2008 and 2011, respectively. In 2011, he joined Alcatel Lucent Shanghai Bell Co. Ltd., where he was a Software Engineer for telecom virtualization. He has also been an Assistant Professor at School of Computing and Information Sciences in Caritas Institute of Higher Education, Hong Kong. His research interests includes wireless communication, internet of things, and AI enabled networking. 
