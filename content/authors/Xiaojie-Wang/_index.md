@@ -1,4 +1,4 @@
----
+<!-- ---
 # Display name
 # Format: Your_given_name Your_surname 
 title: Xiaojie Wang
@@ -53,6 +53,6 @@ user_groups:
 - Alumni
 ---
 
-Wang Xiaojie is a member of the Communist Party of China. He is a professor and doctoral supervisor of the School of Artificial Intelligence, Beijing University of Posts and Telecommunications. His research interests include computational models of human language cognitive development and their applications in robotics, natural language processing and its applications in Web text data organization and mining. IEICE Associate Editor, Executive Director of Chinese Society for Artificial Intelligence, Deputy Director of Natural Language Processing Committee, director of Chinese Information Processing Society, Special Committee of Computational Linguistics, Special Committee of Chinese Information Technology, Chinese Computer Society, Vice president of Beijing Artificial Intelligence Society.
+Wang Xiaojie is a member of the Communist Party of China. He is a professor and doctoral supervisor of the School of Artificial Intelligence, Beijing University of Posts and Telecommunications. His research interests include computational models of human language cognitive development and their applications in robotics, natural language processing and its applications in Web text data organization and mining. IEICE Associate Editor, Executive Director of Chinese Society for Artificial Intelligence, Deputy Director of Natural Language Processing Committee, director of Chinese Information Processing Society, Special Committee of Computational Linguistics, Special Committee of Chinese Information Technology, Chinese Computer Society, Vice president of Beijing Artificial Intelligence Society. -->
 
 ---
