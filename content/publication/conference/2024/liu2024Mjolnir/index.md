@@ -1,7 +1,7 @@
 ---
 title: "Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion"
 authors:
-- Xuan Liu
+- Xuan Liu (UG)
 - Siqi Cai
 - Qihua Zhou
 - Song Guo
