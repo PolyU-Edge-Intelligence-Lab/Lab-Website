@@ -4,7 +4,7 @@ authors:
 - Shigeng Zhang
 - Zijing Ma
 - Chengwei Yang
-- Xuan Liu
+- Xuan Liu (External)
 - Xiaoyan Kui
 - Weiping Wang
 - Jianxin Wang
