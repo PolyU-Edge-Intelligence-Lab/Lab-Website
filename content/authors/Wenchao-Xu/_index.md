@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: Research Assistant Professor, 2018-2020
+role: Research Assistant Professor
 
 # Organizations/Affiliations
 organizations:
