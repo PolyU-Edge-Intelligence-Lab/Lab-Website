@@ -4,7 +4,7 @@ authors:
 - Yalong Xiao
 - Junfeng Zhu
 - Shigeng Zhang
-- Xua'n Liu
+- Xuan Liu (External)
 - Song Guo
 
 
