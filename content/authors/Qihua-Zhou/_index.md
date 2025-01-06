@@ -19,24 +19,25 @@ superuser: false
 
 # Role/position
 # other options like PhD student, Post-doctoral Fellow or Research Assistant, e.g..
-role: PhD, 2019-2024, Professor at ShenZhen University, Outstanding Young Talents Program (Overseas)
+role: PhD, 2019-2023, Professor at ShenZhen University, Outstanding Young Talents Program (Overseas)
 
 # Organizations/Affiliations
 organizations:
-- name: The Shenzhen University
+- name: Shenzhen University
   url: ""
 
 interests:
-- TinyML Systems
-- Distributed AI Systems
-- Video Perception
-- Computer Vision
+- Edge AI Systems
+- On-Device LLM/MoE Systems
+- Tiny Machine Learning
+- Distributed Machine Learning
+- Neural Codec and Video Streaming
 
 education:
   courses:
   - course: PhD in Department of Computing
     institution: The Hong Kong Polytechnic University 
-    year: 2019-2024
+    year: 2019-2023
 
 
 # Social/Academic Networking
@@ -44,7 +45,7 @@ education:
 social:
 - icon: house-user
   icon_pack: fas
-  link: http://qihuazhou.com
+  link: https://csse.szu.edu.cn/pages/user/index?id=1309
 - icon: envelope
   icon_pack: fas
   link: 'mailto:csqzhou@comp.polyu.edu.hk'
@@ -71,4 +72,10 @@ user_groups:
 - Alumni
 ---
 
-Qihua Zhou is a PhD graduated student with the Department of Computing, The Hong Kong Polytechnic University. His research interests are about TinyML systems, distributed AI systems, video perception and mobile vision applications. He was an research intern in Microsoft Research Asia, focusing on the design of efficient video codecs and streaming systems. He was also a member of Dr.Body-Lab (https://zerodrbody.wixsite.com/drbody), collaborating with Dr. Zhenda Xu. Now he is an assistant professor at Shenzhen University.
+Prof. Qihua Zhou is a Distinguished Professor with the [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/pages/user/index?id=1309) at [Shenzhen University](https://www.szu.edu.cn/). 
+
+He received his Ph.D. degree in the Department of Computing, [Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) (now HKUST).
+
+He aims at developing edge-native AI/ML systems that empower ubiquitous intelligent services, particularly in resource-constrained environments, to enrich human life in diverse aspects.
+
+For more information, please visit [https://qihuazhou.github.io](https://qihuazhou.github.io).
