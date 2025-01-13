@@ -40,15 +40,16 @@ interests:
 education:
   courses:
 
-- course: Ph.D. in Computer Science and Technology
+ - course: Ph.D. in Computer Science and Technology
   institution: Shandong University, China
   year: 2018-2022
-- course: M.S. in Computer Science and Technology
+ - course: M.S. in Computer Science and Technology
   institution: Shandong University, China
   year: 2015-2018
-- course: B.E. in Computer Science and Technology
+ - course: B.E. in Computer Science and Technology
   institution: Northeastern University at Qinhuangdao, China
   year: 2011-2015
+
 
 # Social/Academic Networking
 
