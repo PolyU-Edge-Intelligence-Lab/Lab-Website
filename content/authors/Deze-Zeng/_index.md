@@ -63,8 +63,10 @@ social:
 #  - Previous Members (Alumni)
 user_groups:
 - Alumni
+
 ---
 
 Deze Zeng is a full professor in School of Computer Science, China University of Geosciences, Wuhan, China. He received his Ph.D. and M.S. degrees in computer science from University of Aizu, AizuWakamatsu, Japan, in 2013 and 2009, respectively. He received his B.S. degree from School of Computer Science and Technology, Huazhong University of Science and Technology, China in 2007. His current research interests include: network function virtualization, software-defined networking, cloud computing and edge computing. 
 He has authored 3 books and over 100 papers in refereed journals and conferences in these areas. He also received 3 best paper awards from IEEE/ACM conferences and the IEEE Systems Journal Annual Best Paper Award of 2017. He serves in editorial boards of Journal of Network and Computer Applications, Frontiers of Computer Science, and guest editors of many prestigious journals. He has been the in organization or program committees of many international conferences including ICPADS, ICA3PP, CollaberateCom, MobiQuitous, ICC, Globecom. He is a member of IEEE.
+
 ---
