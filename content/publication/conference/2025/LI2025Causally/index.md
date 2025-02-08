@@ -19,7 +19,7 @@ date: "2025-04-24"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication:  The 13th International Conference on Learning Representations (ICLR) (CCF-A)
+publication:  The 13th International Conference on Learning Representations (ICLR)
 #publication_short: In *INFOCOM* (CCF-A)
 
 url_pdf: https://openreview.net/pdf?id=41uZB8bDFh
