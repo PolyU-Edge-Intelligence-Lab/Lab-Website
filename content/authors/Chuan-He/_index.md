@@ -56,7 +56,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Students
+- None
 ---
 
 Chuan He (何川) is pursuing his Ph.D. degree from Hong Kong Polytechnic University and Southern University of Science and Technology, supervised by Prof. Song Guo and Prof. Zhuozhao Li. Before that, he received the B.E. and M.E. degree from the School of Computer Science, Huazhong University of Science and Technology(HUST) and Peking University(PKU). He is currently a Ph.D student at The Hong Kong Polytechnic University.
