@@ -58,7 +58,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Students 
+- None
 ---
 
 Pan Junbao is a PhD Student of artificial intelligence. His research interests include federated learning and Internet of Things.
