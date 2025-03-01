@@ -59,7 +59,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Students
+- None
 ---
 
 Jinyu Chen (陈金宇) is a PhD student in the Department of Computing at Hong Kong Polytechnic University, Hong Kong SAR, China, supervised by Prof. Song Guo and Prof. Wenchao Xu. His research interests include federated learning, multimodal Learning and edge computing.

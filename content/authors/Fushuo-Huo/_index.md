@@ -65,7 +65,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Students
+- None
 ---
 
 Fushuo Huo (霍赋硕) is a PhD student of in the Department of Computing at Hong Kong Polytechnic University, Hong Kong SAR, China, supervised by Prof. Song Guo and Wenchao Xu. His research interests include computer vision, multimodal learning,  and artificial intelligence.
