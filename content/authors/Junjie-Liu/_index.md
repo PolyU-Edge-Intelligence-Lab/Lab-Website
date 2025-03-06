@@ -60,7 +60,7 @@ social:
 #  - Visitors (Visiting prof/student, e.g.)
 #  - Previous Members (Alumni)
 user_groups:
-- Research Staffs
+- Research Assistants & Visitors
 ---
 
 Junjie Liu (刘俊杰) is a Research Assistant in the department of Computer Science and Engineering at the Hong Kong University of Science and Technology, Hong Kong SAR, China, supervised by Prof. Song Guo, Fellow of IEEE.  From Sept. 2021 to Now, he was studying for bachelor degree in the school of Computer Science and Engineering at Sun Yat-sen University, China.
