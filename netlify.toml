@@ -24,3 +24,9 @@
   enableJustify = true
   custom_css = ["css/custom.css"]
   custom_js = ["js/custom.js"]
+
+[[redirects]]
+  from = "/people/"
+  to = "https://wedoforai.webflow.io/people"
+  status = 301
+  force = true
