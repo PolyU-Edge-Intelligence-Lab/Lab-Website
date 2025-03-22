@@ -30,3 +30,10 @@
   to = "https://wedoforai.webflow.io/people"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/gallery/"
+  to = "https://wedoforai.webflow.io/gallery"
+  status = 301
+  force = true
+
