@@ -27,13 +27,18 @@
 
 [[redirects]]
   from = "/people/"
-  to = "https://wedoforai.webflow.io/people"
+  to = "https://www.hkpeilab.com/people"
   status = 301
   force = true
 
 [[redirects]]
   from = "/gallery/"
-  to = "https://wedoforai.webflow.io/gallery"
+  to = "https://www.hkpeilab.com/gallery"
   status = 301
   force = true
 
+[[redirects]]
+  from = "/publication/"
+  to = "https://www.hkpeilab.com/publications"
+  status = 301
+  force = true
