@@ -42,3 +42,9 @@
   to = "https://www.hkpeilab.com/publications"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/demos/"
+  to = "https://www.hkpeilab.com/demonstration"
+  status = 301
+  force = true
