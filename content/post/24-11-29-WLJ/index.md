@@ -13,4 +13,4 @@ During the forum, participants engaged in discussions on cutting-edge research a
 
 {{< figure src="image.png" caption="Certificate of Geneva International Exhibition of Inventions" >}}
 
-More information, please refer to this [link](https://www.openai.com).
+More information, please refer to this [link](https://mp.weixin.qq.com/s/tPB3pWX_36dYoCAe1T2ReQ).
