@@ -48,3 +48,15 @@
   to = "https://www.hkpeilab.com/demonstration"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/research/"
+  to = "https://www.hkpeilab.com/research"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/"
+  to = "https://www.hkpeilab.com/news"
+  status = 301
+  force = true
