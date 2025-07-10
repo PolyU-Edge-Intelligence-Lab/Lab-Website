@@ -20,6 +20,8 @@ design:
 #   css_style:
 #   css_class: 
 
+redirect: "https://wedoforai.webflow.io"
+
 ---
 
 The Pervasive Intelligence Laboratory, directed by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo), is developing novel and efficient deep learning architectures, algorithms, and systems over ubiquitous mobile, IoT, and edge endpoints. By pushing the boundaries of AI capabilities, we aim to unlock new possibilities and create significant impacts in multiple areas such as scientific discovery, environmental sustainability, and societal well-being.

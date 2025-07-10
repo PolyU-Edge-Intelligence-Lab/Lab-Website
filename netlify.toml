@@ -26,6 +26,12 @@
   custom_js = ["js/custom.js"]
 
 [[redirects]]
+  from = "/"
+  to = "https://www.hkpeilab.com"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/people/"
   to = "https://www.hkpeilab.com/people"
   status = 301
